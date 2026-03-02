@@ -25,5 +25,5 @@ async function checkGempa() {
 }
 
 console.log("BMKG Monitor started...");
-checkGempa();
-setInterval(checkGempa, FETCH_INTERVAL);
+await checkGempa();
+process.exit(0);
