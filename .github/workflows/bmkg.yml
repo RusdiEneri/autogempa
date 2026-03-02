@@ -1,8 +1,5 @@
 name: BMKG Monitor
 
-permissions:
-  contents: write
-
 on:
   schedule:
     - cron: "*/5 * * * *"   # setiap 5 menit
