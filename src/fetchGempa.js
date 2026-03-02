@@ -8,15 +8,16 @@ export async function fetchGempa() {
     const gempa = res.data.Infogempa.gempa;
 
     return {
-      id: `${gempa.Tanggal} ${gempa.Jam}`,
-      tanggal: gempa.Tanggal,
-      jam: gempa.Jam,
-      magnitude: parseFloat(gempa.Magnitude),
-      wilayah: gempa.Wilayah,
-      potensi: gempa.Potensi,
-      kedalaman: gempa.Kedalaman,
-      koordinat: gempa.Coordinates
-    };
+  id: `${gempa.Tanggal} ${gempa.Jam}`,
+  tanggal: gempa.Tanggal,
+  jam: gempa.Jam,
+  magnitude: parseFloat(gempa.Magnitude),
+  wilayah: gempa.Wilayah,
+  potensi: gempa.Potensi,
+  kedalaman: gempa.Kedalaman,
+  koordinat: gempa.Coordinates,
+  shakemap: gempa.Shakemap
+};
   } catch (err) {
     console.error("Gagal fetch BMKG:", err.message);
     return null;
