@@ -2,7 +2,7 @@ name: BMKG Monitor
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # setiap 5 menit
+    - cron: "* * * * *"   # setiap 5 menit
   workflow_dispatch:       # bisa run manual
 
 jobs:
