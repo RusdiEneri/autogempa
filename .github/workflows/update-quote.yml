@@ -57,8 +57,8 @@ jobs:
 
       - name: Commit and Push
         run: |
-          git config --global user.name 'cabrata'
-          git config --global user.email 'admin@caliphdev.com'
+          git config --global user.name 'RusdiEneri'
+          git config --global user.email 'nuruddinrusydiilham@gmail.com'
           git add README.md
           git diff --cached --quiet || git commit -m "update: anime quote ($(TZ='Asia/Jakarta' date '+%Y-%m-%d %H:%M:%S WIB'))"
           git push
