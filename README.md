@@ -1,2 +1,0 @@
-# autogempa
-Sebatas testing
