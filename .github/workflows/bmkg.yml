@@ -2,16 +2,27 @@ name: BMKG Monitor
 
 on:
   schedule:
-    - cron: "* * * * *"   
-  workflow_dispatch:       # bisa run manual
+    - cron: "*/5 * * * *"   # tiap 5 menit (minimum yang didukung GitHub; jangan "* * * * *")
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Cegah dua run BMKG overlap (bisa conflict di last.json)
+concurrency:
+  group: bmkg-monitor
+  cancel-in-progress: true
 
 jobs:
   run-monitor:
     runs-on: ubuntu-latest
-
+    timeout-minutes: 10        # pengaman kalau script hang/loop
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0                 # full history biar pull --rebase aman
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -24,14 +35,24 @@ jobs:
       - name: Run monitor
         env:
           WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
-          FETCH_INTERVAL: 0
+          FETCH_INTERVAL: 0              # PASTIKAN artinya "run sekali lalu exit", bukan loop
           MIN_MAGNITUDE: ${{ secrets.MIN_MAGNITUDE }}
         run: node src/index.js
+
       - name: Commit updated last.json
         run: |
-            git config user.name "RusdiEneri"
-            git config user.email "nuruddinrusydiilham@gmail.com"
-            git add data/last.json
-            git commit -m "Update last gempa" || echo "No changes"
-            git pull --rebase origin main
-            git push origin main
+          set -euo pipefail
+          git config user.name "RusdiEneri"
+          git config user.email "80238228+RusdiEneri@users.noreply.github.com"
+
+          git add data/last.json
+
+          # Kalau nggak ada perubahan, skip (hemat & nggak error)
+          if git diff --cached --quiet; then
+            echo "last.json tidak berubah, skip commit"
+            exit 0
+          fi
+
+          git commit -m "chore: update last gempa [skip ci]"
+          git pull --rebase origin main
+          git push origin HEAD:main
