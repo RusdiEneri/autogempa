@@ -5,10 +5,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Aku merasa menjadi pahlawan itu adalah bagian dari hobi.
-Dengan kata lain, selama aku bisa menghajar musuh, kurasa itu sudah cukup. ❞</i>
+  <i>❝ Mencoba mengalahkan seseorang dengan cara licik sama saja dengan merendahkan dirimu sendiri. Jangan menginjak-nginjak semua kerja keras dan kepercayaan yang selama ini telah kau bangun. ❞</i>
   <br/>
-  <sub>— <b>Saitama</b> · <i>One Punch Man</i></sub>
+  <sub>— <b>Arata Kaizaki</b> · <i>ReLIFE</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
