@@ -5,9 +5,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Selama jantungmu masih berdetak, kau berhak untuk tetap hidup dan mewujudkan keinginanmu. ❞</i>
+  <i>❝ Tidak marah itu adalah hal yang baik, (karena) kemarahan adalah dosa yang besar. ❞</i>
   <br/>
-  <sub>— <b>Kuro no Rider</b> · <i>Fate/Apocrypha</i></sub>
+  <sub>— <b>Satoshi Fukube</b> · <i>Hyouka</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
