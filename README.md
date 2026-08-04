@@ -5,9 +5,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Tidak ada tempat di masyarakat untuk orang yang tak menghargai diri sendiri. ❞</i>
+  <i>❝ Aku adalah kesatria. Melindungi mata pencaharian wargaku merupakan tugas dan kehormatanku. ❞</i>
   <br/>
-  <sub>— <b>Ai Hayasaka</b> · <i>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</i></sub>
+  <sub>— <b>Dustiness Ford Lalatina</b> · <i>Kono Subarashii Sekai ni Shukufuku wo!</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
