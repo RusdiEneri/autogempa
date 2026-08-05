@@ -5,9 +5,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Tak peduli kau dilahirkan dimana, Aku senang kau ada disini! ❞</i>
+  <i>❝ Kalian semua yang hidup di masa depan adalah harta karun bagi roh pahlawan. ❞</i>
   <br/>
-  <sub>— <b>Shiemi Moriyama</b> · <i>Ao no Exorcist</i></sub>
+  <sub>— <b>Aka no Lancer</b> · <i>Fate/Apocrypha</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
