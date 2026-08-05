@@ -25,5 +25,15 @@ async function checkGempa() {
 }
 
 console.log("BMKG Monitor started...");
+
+// Cek pertama langsung
 await checkGempa();
-process.exit(0);
+
+// Loop setiap FETCH_INTERVAL (15 detik)
+setInterval(async () => {
+  try {
+    await checkGempa();
+  } catch (err) {
+    console.error("Error:", err.message);
+  }
+}, FETCH_INTERVAL);
