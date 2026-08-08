@@ -5,9 +5,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Aku tidak pernah pandai berkata-kata, tapi karena Akademi dan pertemanan yang kubuat di sini aku tidak kesepian lagi. Jadi seperti inilah caraku membalas budi pada desa ini, dengan menjadi seorang guru. ❞</i>
+  <i>❝ Aku akan menghapus kegelapan di masa lalu, dan membangun masa depan yang cerah dari awal. ❞</i>
   <br/>
-  <sub>— <b>Shino Aburame</b> · <i>Boruto: Naruto Next Generations</i></sub>
+  <sub>— <b>Sasuke Uchiha</b> · <i>Naruto Shippuden</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
