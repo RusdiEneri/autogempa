@@ -5,9 +5,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Aku suka melihatmu ketika melakukan hal-hal yang kamu sukai. ❞</i>
+  <i>❝ Seorang seniman harus selalu mengungkapkan apa yang dipikirkannya dan bergelut dengan akal sehatnya. ❞</i>
   <br/>
-  <sub>— <b>Hirotaka Nifuji</b> · <i>Wotaku ni Koi wa Muzukashii</i></sub>
+  <sub>— <b>Hiromichi Kudou</b> · <i>Photokano</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
