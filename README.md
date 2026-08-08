@@ -5,9 +5,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Kau bilang aku memanipulasi pembaca dengan teknikku, 'kan? Itu adalah kata-kata pujian yang hebat untuk seorang penulis. ❞</i>
+  <i>❝ Shiro, yang kau besarkan bukanlah sebuah senjata. Kau membesarkan seorang putra. ❞</i>
   <br/>
-  <sub>— <b>Utaha Kasumigaoka</b> · <i>Saenai Heroine no Sodatekata ♭</i></sub>
+  <sub>— <b>Shura Kirigakure</b> · <i>Ao no Exorcist</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
