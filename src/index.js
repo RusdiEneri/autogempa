@@ -1,11 +1,15 @@
-import { FETCH_INTERVAL, MIN_MAGNITUDE } from "./config.js";
+import { MIN_MAGNITUDE } from "./config.js";
 import { fetchGempa } from "./fetchGempa.js";
 import { readLast, writeLast } from "./storage.js";
 import { sendToDiscord } from "./notifier.js";
 
 async function checkGempa() {
   const gempa = await fetchGempa();
-  if (!gempa) return;
+
+  if (!gempa) {
+    console.log("Gagal mengambil data BMKG.");
+    return;
+  }
 
   const lastId = readLast();
 
@@ -15,25 +19,29 @@ async function checkGempa() {
   }
 
   if (gempa.magnitude < MIN_MAGNITUDE) {
-    console.log("Gempa di bawah threshold.");
+    console.log(
+      `Gempa M${gempa.magnitude} di bawah threshold ${MIN_MAGNITUDE}.`
+    );
+
     writeLast(gempa.id);
     return;
   }
 
   await sendToDiscord(gempa);
   writeLast(gempa.id);
+
+  console.log(
+    `Notifikasi terkirim: M${gempa.magnitude} - ${gempa.wilayah}`
+  );
 }
 
 console.log("BMKG Monitor started...");
 
-// Cek pertama langsung
-await checkGempa();
-
-// Loop setiap FETCH_INTERVAL (15 detik)
-setInterval(async () => {
-  try {
-    await checkGempa();
-  } catch (err) {
-    console.error("Error:", err.message);
-  }
-}, FETCH_INTERVAL);
+try {
+  await checkGempa();
+  console.log("BMKG Monitor finished.");
+  process.exit(0);
+} catch (err) {
+  console.error("Fatal error:", err);
+  process.exit(1);
+}
