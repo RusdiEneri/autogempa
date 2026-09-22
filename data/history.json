@@ -1,5 +1,18 @@
 [
   {
+    "id": "23 Sep 2026 05:27:42 WIB",
+    "tanggal": "23 Sep 2026",
+    "jam": "05:27:42 WIB",
+    "magnitude": 4.6,
+    "wilayah": "Pusat gempa berada di laut 38 Km Selatan Sumur",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "20 km",
+    "koordinat": "-7.00,105.57",
+    "dirasakan": "II - III Sumur",
+    "shakemap": "20260923052742.mmi.jpg",
+    "detectedAt": "2026-09-22T23:12:36.477Z"
+  },
+  {
     "id": "23 Sep 2026 00:20:14 WIB",
     "tanggal": "23 Sep 2026",
     "jam": "00:20:14 WIB",
