@@ -2,13 +2,14 @@ name: BMKG Monitor
 
 on:
   schedule:
-    # GitHub Actions minimum interval: 5 menit
+    # Jalankan setiap 5 menit
     - cron: "*/5 * * * *"
       timezone: "Asia/Jakarta"
 
+  # Bisa dijalankan manual dari tab Actions
   workflow_dispatch:
 
-  # Jalankan otomatis jika workflow BMKG diubah
+  # Jalankan ulang jika workflow ini sendiri diubah
   push:
     branches:
       - main
@@ -18,7 +19,7 @@ on:
 permissions:
   contents: write
 
-# Mencegah beberapa monitor berjalan bersamaan
+# Mencegah lebih dari satu monitor berjalan bersamaan
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: false
@@ -29,34 +30,46 @@ jobs:
     timeout-minutes: 10
 
     steps:
+      # Checkout repository
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # Setup Git
       - name: Setup Git
         run: |
+          set -euo pipefail
+
           git config user.name "RusdiEneri"
           git config user.email "nuruddinrusydiilham@gmail.com"
           git config pull.rebase true
 
-          git remote set-url origin \
-            https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          git remote set-url origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
 
           git fetch origin main
           git checkout main
           git reset --hard origin/main
 
-      - name: Sync latest main
+      # Pastikan folder data tersedia
+      - name: Prepare data directory
         run: |
-          git pull --rebase origin main
+          mkdir -p data
 
+          echo "Isi repository:"
+          ls -la
+
+          echo "Isi folder data:"
+          ls -la data || true
+
+      # Setup Node.js
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
 
+      # Install dependencies
       - name: Install dependencies
         run: |
           if [ -f package-lock.json ]; then
@@ -65,6 +78,7 @@ jobs:
             npm install
           fi
 
+      # Run BMKG Monitor
       - name: Run BMKG Monitor
         env:
           WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
@@ -72,18 +86,35 @@ jobs:
         run: |
           node src/index.js
 
+      # Cek apakah last.json berubah
       - name: Check last.json
         id: changes
         run: |
-          if git diff --quiet -- data/last.json; then
+          set -euo pipefail
+
+          echo "Status data/last.json:"
+          git status --short -- data/last.json
+
+          # Anggap berubah jika:
+          # 1. File tracked dan isinya berubah
+          # 2. File baru / untracked
+          if git diff --quiet -- data/last.json && \
+             [ -z "$(git status --porcelain -- data/last.json)" ]; then
+
             echo "changed=false" >> "$GITHUB_OUTPUT"
-            echo "last.json tidak berubah."
+            echo "✅ last.json tidak berubah."
+
           else
+
             echo "changed=true" >> "$GITHUB_OUTPUT"
-            echo "last.json berubah."
-            git diff -- data/last.json
+            echo "📝 last.json berubah atau baru dibuat."
+
+            echo "Diff:"
+            git diff -- data/last.json || true
+
           fi
 
+      # Commit dan push
       - name: Commit and push last.json
         if: steps.changes.outputs.changed == 'true'
         run: |
@@ -91,35 +122,40 @@ jobs:
 
           git add data/last.json
 
-          git commit \
-            -m "chore: update last gempa [skip ci]"
+          # Pastikan memang ada sesuatu untuk di-commit
+          if git diff --cached --quiet; then
+            echo "Tidak ada perubahan setelah git add."
+            exit 0
+          fi
+
+          git commit -m "chore: update last gempa [skip ci]"
 
           for attempt in 1 2 3 4 5; do
             echo "Push attempt $attempt..."
 
-            # Ambil perubahan terbaru sebelum push
-            if ! git pull --rebase origin main; then
-              echo "Rebase gagal, membatalkan..."
+            # Sinkronkan branch dengan commit terbaru
+            if git pull --rebase origin main; then
+
+              if git push origin HEAD:main; then
+                echo "✅ Push berhasil."
+                exit 0
+              fi
+
+            else
+              echo "⚠️ Rebase gagal."
               git rebase --abort || true
-              git fetch origin main
-              git reset --hard origin/main
-              exit 1
             fi
 
-            if git push origin HEAD:main; then
-              echo "✅ Push berhasil."
-              exit 0
-            fi
-
-            echo "⚠️ Push gagal, coba lagi dalam 10 detik..."
+            echo "Push gagal, mencoba lagi dalam 10 detik..."
             sleep 10
           done
 
           echo "❌ Push gagal setelah 5 percobaan."
           exit 1
 
+      # Tidak ada perubahan
       - name: No changes
         if: steps.changes.outputs.changed == 'false'
         run: |
-          echo "✅ Tidak ada perubahan pada last.json."
+          echo "✅ Tidak ada gempa baru / last.json tidak berubah."
           echo "Tidak membuat commit."
