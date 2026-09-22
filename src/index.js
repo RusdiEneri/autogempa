@@ -15,39 +15,56 @@ async function checkGempa() {
 
   const lastId = readLast();
   const readmeExists = fs.existsSync("README.md");
+  const shakemapExists = fs.existsSync("assets/shakemap.jpg");
 
-  // README belum pernah ada (run pertama) → buat README awal
-  if (gempa.id === lastId && !readmeExists) {
-    console.log("README.md belum ada → membuat README awal.");
-    await updateReadme(gempa);
-    return;
-  }
-
+  // ─── Kasus: Gempa sama dengan yang sudah tercatat ───────────────────────────
   if (gempa.id === lastId) {
+    // ✅ Self-healing: README belum ada ATAU shakemap baru tersedia dari BMKG
+    // (BMKG sering rilis data tanpa shakemap, lalu baru muncul 2–4 menit kemudian)
+    const needsReadmeRefresh =
+      !readmeExists || (gempa.shakemap && !shakemapExists);
+
+    if (needsReadmeRefresh) {
+      console.log(
+        "Gempa sama, namun README/shakemap perlu diperbarui (self-healing)."
+      );
+      try {
+        await updateReadme(gempa);
+      } catch (err) {
+        console.error("Gagal update README (self-healing):", err.message);
+      }
+      return;
+    }
+
     console.log("Tidak ada gempa baru.");
     return;
   }
 
-  // ✅ BARU: setiap gempa baru langsung masuk README + riwayat + shakemap
+  // ─── Kasus: Gempa BARU terdeteksi ──────────────────────────────────────────
+
+  // 1. Perbarui README, riwayat, dan unduh shakemap
   try {
     await updateReadme(gempa);
   } catch (err) {
     console.error("Gagal update README (monitor tetap lanjut):", err.message);
   }
 
+  // 2. Catat ID gempa baru sebelum mengirim notifikasi
+  //    (mencegah notif duplikat jika proses terhenti di tengah jalan)
+  writeLast(gempa.id);
+
+  // 3. Kirim notifikasi Discord jika magnitude memenuhi threshold
   if (gempa.magnitude < MIN_MAGNITUDE) {
     console.log(
-      `Gempa M${gempa.magnitude} di bawah threshold ${MIN_MAGNITUDE}.`
+      `Gempa M${gempa.magnitude} di bawah threshold ${MIN_MAGNITUDE}, notifikasi Discord dilewati.`
     );
-    writeLast(gempa.id);
     return;
   }
 
   await sendToDiscord(gempa);
-  writeLast(gempa.id);
 
   console.log(
-    `Notifikasi terkirim: M${gempa.magnitude} - ${gempa.wilayah}`
+    `✅ Notifikasi terkirim: M${gempa.magnitude} - ${gempa.wilayah}`
   );
 }
 

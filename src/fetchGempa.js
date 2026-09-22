@@ -6,7 +6,7 @@ const BMKG_URL =
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
 export async function fetchGempa() {
-  const maxRetries = 4;
+  const maxRetries = 3;
 
   for (let attempt = 0; attempt <= maxRetries; attempt++) {
     try {
@@ -25,54 +25,66 @@ export async function fetchGempa() {
         throw new Error("Data gempa BMKG tidak ditemukan");
       }
 
+      // ✅ Sanitasi shakemap: abaikan jika "-", "None", atau kosong
+      const rawShakemap = gempa.Shakemap?.trim();
+      const validShakemap =
+        rawShakemap &&
+        rawShakemap !== "-" &&
+        rawShakemap.toLowerCase() !== "none"
+          ? rawShakemap
+          : null;
+
+      // ✅ Ambil field Dirasakan jika tersedia
+      const rawDirasakan = gempa.Dirasakan?.trim();
+      const validDirasakan =
+        rawDirasakan && rawDirasakan !== "-" ? rawDirasakan : null;
+
       return {
         id: `${gempa.Tanggal} ${gempa.Jam}`,
         tanggal: gempa.Tanggal,
         jam: gempa.Jam,
-        magnitude: Number.parseFloat(gempa.Magnitude),
+        magnitude: Number.parseFloat(gempa.Magnitude) || 0,
         wilayah: gempa.Wilayah,
         potensi: gempa.Potensi,
         kedalaman: gempa.Kedalaman,
         koordinat: gempa.Coordinates,
-        shakemap: gempa.Shakemap,
+        dirasakan: validDirasakan,
+        shakemap: validShakemap,
       };
     } catch (err) {
       const status = err.response?.status;
 
-      // Bukan 429 → langsung gagal
-      if (status !== 429) {
+      // ✅ Retry untuk: timeout/network error (no status), 429, 5xx server error
+      const isRetryable =
+        !status || // timeout, ECONNRESET, DNS error, dll
+        status === 429 || // Rate limit
+        status >= 500; // 500, 502, 503, 504 BMKG server issues
+
+      // Jika error tidak bisa di-retry atau sudah habis percobaan → menyerah
+      if (!isRetryable || attempt === maxRetries) {
         console.error(
           "Gagal fetch BMKG:",
-          status || "",
+          status || err.code || "",
           err.message
         );
         return null;
       }
 
-      // Sudah retry maksimal
-      if (attempt === maxRetries) {
-        console.error("BMKG tetap mengembalikan HTTP 429 setelah retry.");
-        return null;
-      }
-
-      // Ambil Retry-After dari BMKG jika tersedia
-      const retryAfter = err.response?.headers?.["retry-after"];
+      // Ambil Retry-After dari BMKG jika tersedia (hanya relevan saat 429)
+      const retryAfterRaw = err.response?.headers?.["retry-after"];
+      const retryAfterSecs = Number(retryAfterRaw);
 
       let delay;
 
-      if (retryAfter) {
-        const retrySeconds = Number(retryAfter);
-
-        delay = Number.isNaN(retrySeconds)
-          ? 5000
-          : retrySeconds * 1000;
+      if (!Number.isNaN(retryAfterSecs) && retryAfterSecs > 0) {
+        delay = retryAfterSecs * 1000;
       } else {
-        // 2s → 4s → 8s → 16s
+        // Exponential backoff: 2s → 4s → 8s
         delay = 2000 * 2 ** attempt;
       }
 
       console.warn(
-        `BMKG rate limit (429). Retry ${attempt + 1}/${maxRetries} dalam ${delay} ms`
+        `Fetch BMKG gagal (${status || err.message}). Retry ${attempt + 1}/${maxRetries} dalam ${delay}ms...`
       );
 
       await sleep(delay);

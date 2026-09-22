@@ -13,7 +13,9 @@ const MAX_HISTORY = 15;
 export function readHistory() {
   try {
     if (!fs.existsSync(HISTORY_PATH)) return [];
-    const data = JSON.parse(fs.readFileSync(HISTORY_PATH, "utf8"));
+    const raw = fs.readFileSync(HISTORY_PATH, "utf8").trim();
+    if (!raw) return [];
+    const data = JSON.parse(raw);
     return Array.isArray(data) ? data : [];
   } catch (err) {
     console.error("Gagal baca history:", err.message);
@@ -37,6 +39,7 @@ export function pushHistory(gempa) {
 /* ================= DOWNLOAD SHAKEMAP ================= */
 
 export async function downloadShakemap(gempa) {
+  // ✅ Tidak ada shakemap valid → langsung null, jangan download
   if (!gempa.shakemap) return null;
 
   const remoteUrl = `https://data.bmkg.go.id/DataMKG/TEWS/${gempa.shakemap}`;
@@ -51,10 +54,18 @@ export async function downloadShakemap(gempa) {
     fs.mkdirSync(ASSETS_DIR, { recursive: true });
     fs.writeFileSync(SHAKEMAP_PATH, Buffer.from(res.data));
     console.log("🗺️ Shakemap disimpan ke assets/shakemap.jpg");
-    return "assets/shakemap.jpg"; // gambar disimpan di repo agar tidak 404 kelak
+    return "assets/shakemap.jpg";
   } catch (err) {
     console.error("Gagal download shakemap:", err.message);
-    return remoteUrl; // fallback: hotlink langsung ke BMKG
+
+    // ✅ Jika 404, shakemap belum ada di server BMKG → jangan tampilkan gambar rusak
+    if (err.response?.status === 404) {
+      console.warn("Shakemap 404 dari BMKG, dianggap tidak tersedia.");
+      return null;
+    }
+
+    // Error jaringan / timeout → fallback hotlink ke BMKG
+    return remoteUrl;
   }
 }
 
@@ -73,7 +84,12 @@ export function buildReadme(gempa, history, imagePath) {
 
   const imageMd = imagePath
     ? `![Peta Guncangan (Shakemap) BMKG](${imagePath})`
-    : "_Shakemap tidak tersedia untuk gempa ini._";
+    : "_Shakemap belum tersedia untuk gempa ini._";
+
+  // ✅ Tampilkan baris "Dirasakan" hanya jika ada datanya
+  const dirasakanRow = gempa.dirasakan
+    ? `| 📡 **Dirasakan** | ${escapeMd(gempa.dirasakan)} |\n`
+    : "";
 
   const historyRows = history
     .map(
@@ -100,7 +116,7 @@ export function buildReadme(gempa, history, imagePath) {
 | 🧭 **Koordinat** | ${escapeMd(gempa.koordinat)} |
 | 📏 **Kedalaman** | ${escapeMd(gempa.kedalaman)} |
 | 🌊 **Potensi** | ${escapeMd(gempa.potensi)} |
-| 🔗 **Sumber** | [BMKG — InfoGempa Realtime](https://www.bmkg.go.id/gempabumi) |
+${dirasakanRow}| 🔗 **Sumber** | [BMKG — InfoGempa Realtime](https://www.bmkg.go.id/gempabumi) |
 
 ### 🗺️ Peta Guncangan (Shakemap)
 
