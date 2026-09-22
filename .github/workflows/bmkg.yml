@@ -1,0 +1,125 @@
+name: BMKG Monitor
+
+on:
+  schedule:
+    # GitHub Actions minimum interval: 5 menit
+    - cron: "*/5 * * * *"
+      timezone: "Asia/Jakarta"
+
+  workflow_dispatch:
+
+  # Jalankan otomatis jika workflow BMKG diubah
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/bmkg.yml"
+
+permissions:
+  contents: write
+
+# Mencegah beberapa monitor berjalan bersamaan
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  run-monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Git
+        run: |
+          git config user.name "RusdiEneri"
+          git config user.email "nuruddinrusydiilham@gmail.com"
+          git config pull.rebase true
+
+          git remote set-url origin \
+            https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+
+          git fetch origin main
+          git checkout main
+          git reset --hard origin/main
+
+      - name: Sync latest main
+        run: |
+          git pull --rebase origin main
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: |
+          if [ -f package-lock.json ]; then
+            npm ci
+          else
+            npm install
+          fi
+
+      - name: Run BMKG Monitor
+        env:
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+          MIN_MAGNITUDE: ${{ secrets.MIN_MAGNITUDE }}
+        run: |
+          node src/index.js
+
+      - name: Check last.json
+        id: changes
+        run: |
+          if git diff --quiet -- data/last.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "last.json tidak berubah."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "last.json berubah."
+            git diff -- data/last.json
+          fi
+
+      - name: Commit and push last.json
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          set -euo pipefail
+
+          git add data/last.json
+
+          git commit \
+            -m "chore: update last gempa [skip ci]"
+
+          for attempt in 1 2 3 4 5; do
+            echo "Push attempt $attempt..."
+
+            # Ambil perubahan terbaru sebelum push
+            if ! git pull --rebase origin main; then
+              echo "Rebase gagal, membatalkan..."
+              git rebase --abort || true
+              git fetch origin main
+              git reset --hard origin/main
+              exit 1
+            fi
+
+            if git push origin HEAD:main; then
+              echo "✅ Push berhasil."
+              exit 0
+            fi
+
+            echo "⚠️ Push gagal, coba lagi dalam 10 detik..."
+            sleep 10
+          done
+
+          echo "❌ Push gagal setelah 5 percobaan."
+          exit 1
+
+      - name: No changes
+        if: steps.changes.outputs.changed == 'false'
+        run: |
+          echo "✅ Tidak ada perubahan pada last.json."
+          echo "Tidak membuat commit."
