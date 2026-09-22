@@ -50,16 +50,13 @@ jobs:
           git checkout main
           git reset --hard origin/main
 
-      # Pastikan folder data tersedia
-      - name: Prepare data directory
+      # Pastikan folder data & assets tersedia
+      - name: Prepare data & assets directory
         run: |
-          mkdir -p data
+          mkdir -p data assets
 
           echo "Isi repository:"
           ls -la
-
-          echo "Isi folder data:"
-          ls -la data || true
 
       # Setup Node.js
       - name: Setup Node.js
@@ -76,7 +73,7 @@ jobs:
             npm install
           fi
 
-      # Run BMKG Monitor
+      # Run BMKG Monitor (update README.md + assets/shakemap.jpg + data/history.json + data/last.json)
       - name: Run BMKG Monitor
         env:
           WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
@@ -84,49 +81,35 @@ jobs:
         run: |
           node src/index.js
 
-      # Cek apakah last.json berubah
-      - name: Check last.json
+      # Cek apakah ada perubahan (last.json / history.json / README.md / shakemap)
+      - name: Check for changes
         id: changes
         run: |
           set -euo pipefail
 
-          echo "Status data/last.json:"
-          git status --short -- data/last.json
+          git add -A data assets 2>/dev/null || true
+          if [ -f README.md ]; then git add README.md; fi
 
-          # Anggap berubah jika:
-          # 1. File tracked dan isinya berubah
-          # 2. File baru / untracked
-          if git diff --quiet -- data/last.json && \
-             [ -z "$(git status --porcelain -- data/last.json)" ]; then
+          echo "Status perubahan:"
+          git status --short
 
+          if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
-            echo "✅ last.json tidak berubah."
-
+            echo "✅ Tidak ada perubahan."
           else
-
             echo "changed=true" >> "$GITHUB_OUTPUT"
-            echo "📝 last.json berubah atau baru dibuat."
-
-            echo "Diff:"
-            git diff -- data/last.json || true
-
+            echo "📝 Ada perubahan baru (README / shakemap / data)."
+            git diff --cached --stat
           fi
 
       # Commit dan push
-      - name: Commit and push last.json
+      - name: Commit and push changes
         if: steps.changes.outputs.changed == 'true'
         run: |
           set -euo pipefail
 
-          git add data/last.json
-
-          # Pastikan memang ada sesuatu untuk di-commit
-          if git diff --cached --quiet; then
-            echo "Tidak ada perubahan setelah git add."
-            exit 0
-          fi
-
-          git commit -m "chore: update last gempa [skip ci]"
+          TIMESTAMP=$(TZ=Asia/Jakarta date +"%Y-%m-%d %H:%M:%S WIB")
+          git commit -m "docs: update info gempa & README - $TIMESTAMP [skip ci]"
 
           for attempt in 1 2 3 4 5; do
             echo "Push attempt $attempt..."
@@ -155,5 +138,5 @@ jobs:
       - name: No changes
         if: steps.changes.outputs.changed == 'false'
         run: |
-          echo "✅ Tidak ada gempa baru / last.json tidak berubah."
+          echo "✅ Tidak ada gempa baru / tidak ada perubahan file."
           echo "Tidak membuat commit."
