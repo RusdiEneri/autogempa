@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: '*/5 * * * *'
   workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/log.yml"
 
 permissions:
   contents: write
@@ -76,4 +79,3 @@ jobs:
 
           echo "Push gagal setelah 5 percobaan."
           exit 1
-
