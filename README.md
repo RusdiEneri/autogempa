@@ -2,7 +2,7 @@
 
 > Monitor gempa bumi real-time untuk wilayah Indonesia. Data diambil otomatis dari **BMKG** setiap 5 menit oleh GitHub Actions, lalu ditampilkan lengkap di README ini beserta peta guncangannya (shakemap).
 
-🕒 **Update otomatis terakhir:** Selasa, 22 September 2026 pukul 15.46.23
+🕒 **Update otomatis terakhir:** Selasa, 22 September 2026 pukul 19.19.28
 
 ---
 
@@ -16,6 +16,7 @@
 | 🧭 **Koordinat** | -8.43,121.44 |
 | 📏 **Kedalaman** | 14 km |
 | 🌊 **Potensi** | Gempa ini dirasakan untuk diteruskan pada masyarakat |
+| 📡 **Dirasakan** | IV Kab. Nagekeo, III Kab. Ngada, III Kab. Sikka, III Kab. Ende, II Kab. Manggarai |
 | 🔗 **Sumber** | [BMKG — InfoGempa Realtime](https://www.bmkg.go.id/gempabumi) |
 
 ### 🗺️ Peta Guncangan (Shakemap)
