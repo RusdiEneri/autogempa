@@ -2,7 +2,7 @@
 
 > Monitor gempa bumi real-time untuk wilayah Indonesia. Data diambil otomatis dari **BMKG** setiap 5 menit oleh GitHub Actions, lalu ditampilkan lengkap di README ini beserta peta guncangannya (shakemap).
 
-🕒 **Update otomatis terakhir:** Selasa, 22 September 2026 pukul 15.39.04
+🕒 **Update otomatis terakhir:** Selasa, 22 September 2026 pukul 15.46.23
 
 ---
 
