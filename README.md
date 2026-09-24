@@ -2,7 +2,7 @@
 
 > Monitor gempa bumi real-time untuk wilayah Indonesia. Data diambil otomatis dari **BMKG** setiap 5 menit oleh GitHub Actions, lalu ditampilkan lengkap di README ini beserta peta guncangannya (shakemap).
 
-🕒 **Update otomatis terakhir:** Rabu, 23 September 2026 pukul 23.52.21
+🕒 **Update otomatis terakhir:** Kamis, 24 September 2026 pukul 12.48.42
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Parameter | Detail |
 | --- | --- |
-| 📊 **Magnitudo** | M 1.8 |
-| 📍 **Wilayah** | Pusat gempa berada di darat 24 km barat daya Lembata |
-| 🕒 **Waktu** | 23 Sep 2026, 19:16:56 WIB |
-| 🧭 **Koordinat** | -8.51,123.27 |
+| 📊 **Magnitudo** | M 4.6 |
+| 📍 **Wilayah** | Pusat gempa berada di laut 57 km timur Kota Bima |
+| 🕒 **Waktu** | 24 Sep 2026, 10:30:28 WIB |
+| 🧭 **Koordinat** | -8.32,119.25 |
 | 📏 **Kedalaman** | 12 km |
 | 🌊 **Potensi** | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 📡 **Dirasakan** | II-III Kab. Lembata |
+| 📡 **Dirasakan** | II - III Kota Bima, II - III Kabupaten Bima |
 | 🔗 **Sumber** | [BMKG — InfoGempa Realtime](https://www.bmkg.go.id/gempabumi) |
 
 ### 🗺️ Peta Guncangan (Shakemap)
@@ -25,10 +25,11 @@
 
 ---
 
-## 📜 Riwayat 5 Gempa Terakhir
+## 📜 Riwayat 6 Gempa Terakhir
 
 | Waktu | Magnitudo | Wilayah | Kedalaman | Potensi |
 | --- | --- | --- | --- | --- |
+| 24 Sep 2026 10:30:28 WIB | **M 4.6** | Pusat gempa berada di laut 57 km timur Kota Bima | 12 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 23 Sep 2026 19:16:56 WIB | **M 1.8** | Pusat gempa berada di darat 24 km barat daya Lembata | 12 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 23 Sep 2026 09:02:44 WIB | **M 4.7** | Pusat gempa berada di laut 48 km utara Ruteng-Manggarai | 9 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 23 Sep 2026 05:27:42 WIB | **M 4.6** | Pusat gempa berada di laut 38 Km Selatan Sumur | 20 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |

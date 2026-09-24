@@ -1,5 +1,18 @@
 [
   {
+    "id": "24 Sep 2026 10:30:28 WIB",
+    "tanggal": "24 Sep 2026",
+    "jam": "10:30:28 WIB",
+    "magnitude": 4.6,
+    "wilayah": "Pusat gempa berada di laut 57 km timur Kota Bima",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "12 km",
+    "koordinat": "-8.32,119.25",
+    "dirasakan": "II - III Kota Bima, II - III Kabupaten Bima",
+    "shakemap": "20260924103028.mmi.jpg",
+    "detectedAt": "2026-09-24T05:48:42.189Z"
+  },
+  {
     "id": "23 Sep 2026 19:16:56 WIB",
     "tanggal": "23 Sep 2026",
     "jam": "19:16:56 WIB",
