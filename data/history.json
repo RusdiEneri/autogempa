@@ -1,5 +1,18 @@
 [
   {
+    "id": "25 Sep 2026 04:01:35 WIB",
+    "tanggal": "25 Sep 2026",
+    "jam": "04:01:35 WIB",
+    "magnitude": 3.7,
+    "wilayah": "Pusat gempa berada di darat 17 km Timur Jantho Aceh Besar",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "7 km",
+    "koordinat": "5.21,95.76",
+    "dirasakan": "III Pidie, II Pidie Jaya",
+    "shakemap": "20260925040135.mmi.jpg",
+    "detectedAt": "2026-09-24T22:40:20.737Z"
+  },
+  {
     "id": "24 Sep 2026 10:30:28 WIB",
     "tanggal": "24 Sep 2026",
     "jam": "10:30:28 WIB",

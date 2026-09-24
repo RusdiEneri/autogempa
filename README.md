@@ -2,7 +2,7 @@
 
 > Monitor gempa bumi real-time untuk wilayah Indonesia. Data diambil otomatis dari **BMKG** setiap 5 menit oleh GitHub Actions, lalu ditampilkan lengkap di README ini beserta peta guncangannya (shakemap).
 
-🕒 **Update otomatis terakhir:** Kamis, 24 September 2026 pukul 12.48.42
+🕒 **Update otomatis terakhir:** Jumat, 25 September 2026 pukul 05.40.21
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Parameter | Detail |
 | --- | --- |
-| 📊 **Magnitudo** | M 4.6 |
-| 📍 **Wilayah** | Pusat gempa berada di laut 57 km timur Kota Bima |
-| 🕒 **Waktu** | 24 Sep 2026, 10:30:28 WIB |
-| 🧭 **Koordinat** | -8.32,119.25 |
-| 📏 **Kedalaman** | 12 km |
+| 📊 **Magnitudo** | M 3.7 |
+| 📍 **Wilayah** | Pusat gempa berada di darat 17 km Timur Jantho Aceh Besar |
+| 🕒 **Waktu** | 25 Sep 2026, 04:01:35 WIB |
+| 🧭 **Koordinat** | 5.21,95.76 |
+| 📏 **Kedalaman** | 7 km |
 | 🌊 **Potensi** | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 📡 **Dirasakan** | II - III Kota Bima, II - III Kabupaten Bima |
+| 📡 **Dirasakan** | III Pidie, II Pidie Jaya |
 | 🔗 **Sumber** | [BMKG — InfoGempa Realtime](https://www.bmkg.go.id/gempabumi) |
 
 ### 🗺️ Peta Guncangan (Shakemap)
@@ -25,10 +25,11 @@
 
 ---
 
-## 📜 Riwayat 6 Gempa Terakhir
+## 📜 Riwayat 7 Gempa Terakhir
 
 | Waktu | Magnitudo | Wilayah | Kedalaman | Potensi |
 | --- | --- | --- | --- | --- |
+| 25 Sep 2026 04:01:35 WIB | **M 3.7** | Pusat gempa berada di darat 17 km Timur Jantho Aceh Besar | 7 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 24 Sep 2026 10:30:28 WIB | **M 4.6** | Pusat gempa berada di laut 57 km timur Kota Bima | 12 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 23 Sep 2026 19:16:56 WIB | **M 1.8** | Pusat gempa berada di darat 24 km barat daya Lembata | 12 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 23 Sep 2026 09:02:44 WIB | **M 4.7** | Pusat gempa berada di laut 48 km utara Ruteng-Manggarai | 9 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
