@@ -1,5 +1,18 @@
 [
   {
+    "id": "25 Sep 2026 15:04:42 WIB",
+    "tanggal": "25 Sep 2026",
+    "jam": "15:04:42 WIB",
+    "magnitude": 2.4,
+    "wilayah": "Pusat gempa berada di darat 10 km selatan Kab. Cianjur",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "7 km",
+    "koordinat": "-6.90,107.11",
+    "dirasakan": "II - III Kota Cianjur, II - III Cibeber, II - III Warungkondang",
+    "shakemap": "20260925150442.mmi.jpg",
+    "detectedAt": "2026-09-25T13:57:26.932Z"
+  },
+  {
     "id": "25 Sep 2026 04:01:35 WIB",
     "tanggal": "25 Sep 2026",
     "jam": "04:01:35 WIB",
