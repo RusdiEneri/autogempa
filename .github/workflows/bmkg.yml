@@ -2,14 +2,8 @@ name: BMKG Monitor
 
 on:
   schedule:
-    # Jalankan setiap 5 menit
     - cron: "*/5 * * * *"
-      timezone: "Asia/Jakarta"
-
-  # Bisa dijalankan manual dari tab Actions
   workflow_dispatch:
-
-  # Jalankan ulang jika workflow ini sendiri diubah
   push:
     paths:
       - ".github/workflows/bmkg.yml"
@@ -17,7 +11,6 @@ on:
 permissions:
   contents: write
 
-# Mencegah lebih dari satu monitor berjalan bersamaan
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: false
@@ -28,14 +21,12 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # Checkout repository
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Setup Git
       - name: Setup Git
         run: |
           set -euo pipefail
@@ -50,7 +41,6 @@ jobs:
           git checkout main
           git reset --hard origin/main
 
-      # Pastikan folder data & assets tersedia
       - name: Prepare data & assets directory
         run: |
           mkdir -p data assets
@@ -58,13 +48,11 @@ jobs:
           echo "Isi repository:"
           ls -la
 
-      # Setup Node.js
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      # Install dependencies
       - name: Install dependencies
         run: |
           if [ -f package-lock.json ]; then
@@ -73,7 +61,6 @@ jobs:
             npm install
           fi
 
-      # Run BMKG Monitor (update README.md + assets/shakemap.jpg + data/history.json + data/last.json)
       - name: Run BMKG Monitor
         env:
           WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
@@ -81,7 +68,6 @@ jobs:
         run: |
           node src/index.js
 
-      # Cek apakah ada perubahan (last.json / history.json / README.md / shakemap)
       - name: Check for changes
         id: changes
         run: |
@@ -102,7 +88,6 @@ jobs:
             git diff --cached --stat
           fi
 
-      # Commit dan push
       - name: Commit and push changes
         if: steps.changes.outputs.changed == 'true'
         run: |
@@ -134,7 +119,6 @@ jobs:
           echo "❌ Push gagal setelah 5 percobaan."
           exit 1
 
-      # Tidak ada perubahan
       - name: No changes
         if: steps.changes.outputs.changed == 'false'
         run: |
