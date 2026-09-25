@@ -2,7 +2,7 @@
 
 > Monitor gempa bumi real-time untuk wilayah Indonesia. Data diambil otomatis dari **BMKG** setiap 5 menit oleh GitHub Actions, lalu ditampilkan lengkap di README ini beserta peta guncangannya (shakemap).
 
-🕒 **Update otomatis terakhir:** Jumat, 25 September 2026 pukul 20.57.27
+🕒 **Update otomatis terakhir:** Sabtu, 26 September 2026 pukul 01.13.57
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Parameter | Detail |
 | --- | --- |
-| 📊 **Magnitudo** | M 2.4 |
-| 📍 **Wilayah** | Pusat gempa berada di darat 10 km selatan Kab. Cianjur |
-| 🕒 **Waktu** | 25 Sep 2026, 15:04:42 WIB |
-| 🧭 **Koordinat** | -6.90,107.11 |
-| 📏 **Kedalaman** | 7 km |
+| 📊 **Magnitudo** | M 4.7 |
+| 📍 **Wilayah** | Pusat gempa berada di laut 58 km barat daya Sumur |
+| 🕒 **Waktu** | 25 Sep 2026, 20:47:30 WIB |
+| 🧭 **Koordinat** | -7.04,105.22 |
+| 📏 **Kedalaman** | 10 km |
 | 🌊 **Potensi** | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 📡 **Dirasakan** | II - III Kota Cianjur, II - III Cibeber, II - III Warungkondang |
+| 📡 **Dirasakan** | III Sumur, III Muara Binuangeun, III Bayah, III Panggarangan, III Malingping, II - III Anyer, II - III Rangkasbitung |
 | 🔗 **Sumber** | [BMKG — InfoGempa Realtime](https://www.bmkg.go.id/gempabumi) |
 
 ### 🗺️ Peta Guncangan (Shakemap)
@@ -25,10 +25,11 @@
 
 ---
 
-## 📜 Riwayat 8 Gempa Terakhir
+## 📜 Riwayat 9 Gempa Terakhir
 
 | Waktu | Magnitudo | Wilayah | Kedalaman | Potensi |
 | --- | --- | --- | --- | --- |
+| 25 Sep 2026 20:47:30 WIB | **M 4.7** | Pusat gempa berada di laut 58 km barat daya Sumur | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 25 Sep 2026 15:04:42 WIB | **M 2.4** | Pusat gempa berada di darat 10 km selatan Kab. Cianjur | 7 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 25 Sep 2026 04:01:35 WIB | **M 3.7** | Pusat gempa berada di darat 17 km Timur Jantho Aceh Besar | 7 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 24 Sep 2026 10:30:28 WIB | **M 4.6** | Pusat gempa berada di laut 57 km timur Kota Bima | 12 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
