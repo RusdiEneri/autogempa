@@ -1,5 +1,18 @@
 [
   {
+    "id": "26 Sep 2026 02:39:29 WIB",
+    "tanggal": "26 Sep 2026",
+    "jam": "02:39:29 WIB",
+    "magnitude": 4.9,
+    "wilayah": "Pusat gempa berada di laut 46 km utara Ruteng-Manggarai",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "9 km",
+    "koordinat": "-8.23,120.31",
+    "dirasakan": "II - III Kab. Manggarai",
+    "shakemap": "20260926023929.mmi.jpg",
+    "detectedAt": "2026-09-25T21:36:24.958Z"
+  },
+  {
     "id": "25 Sep 2026 20:47:30 WIB",
     "tanggal": "25 Sep 2026",
     "jam": "20:47:30 WIB",
