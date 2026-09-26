@@ -2,7 +2,7 @@
 
 > Monitor gempa bumi real-time untuk wilayah Indonesia. Data diambil otomatis dari **BMKG** setiap 5 menit oleh GitHub Actions, lalu ditampilkan lengkap di README ini beserta peta guncangannya (shakemap).
 
-🕒 **Update otomatis terakhir:** Sabtu, 26 September 2026 pukul 04.36.26
+🕒 **Update otomatis terakhir:** Minggu, 27 September 2026 pukul 03.01.52
 
 ---
 
@@ -11,12 +11,12 @@
 | Parameter | Detail |
 | --- | --- |
 | 📊 **Magnitudo** | M 4.9 |
-| 📍 **Wilayah** | Pusat gempa berada di laut 46 km utara Ruteng-Manggarai |
-| 🕒 **Waktu** | 26 Sep 2026, 02:39:29 WIB |
-| 🧭 **Koordinat** | -8.23,120.31 |
-| 📏 **Kedalaman** | 9 km |
+| 📍 **Wilayah** | Pusat gempa berada di laut 61 km utara Ruteng, Manggarai |
+| 🕒 **Waktu** | 27 Sep 2026, 02:37:02 WIB |
+| 🧭 **Koordinat** | -8.10,120.28 |
+| 📏 **Kedalaman** | 10 km |
 | 🌊 **Potensi** | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 📡 **Dirasakan** | II - III Kab. Manggarai |
+| 📡 **Dirasakan** | III Kab. Manggarai Barat |
 | 🔗 **Sumber** | [BMKG — InfoGempa Realtime](https://www.bmkg.go.id/gempabumi) |
 
 ### 🗺️ Peta Guncangan (Shakemap)
@@ -25,10 +25,11 @@
 
 ---
 
-## 📜 Riwayat 10 Gempa Terakhir
+## 📜 Riwayat 11 Gempa Terakhir
 
 | Waktu | Magnitudo | Wilayah | Kedalaman | Potensi |
 | --- | --- | --- | --- | --- |
+| 27 Sep 2026 02:37:02 WIB | **M 4.9** | Pusat gempa berada di laut 61 km utara Ruteng, Manggarai | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 26 Sep 2026 02:39:29 WIB | **M 4.9** | Pusat gempa berada di laut 46 km utara Ruteng-Manggarai | 9 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 25 Sep 2026 20:47:30 WIB | **M 4.7** | Pusat gempa berada di laut 58 km barat daya Sumur | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 25 Sep 2026 15:04:42 WIB | **M 2.4** | Pusat gempa berada di darat 10 km selatan Kab. Cianjur | 7 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
