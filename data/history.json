@@ -1,5 +1,18 @@
 [
   {
+    "id": "28 Sep 2026 00:54:05 WIB",
+    "tanggal": "28 Sep 2026",
+    "jam": "00:54:05 WIB",
+    "magnitude": 3.4,
+    "wilayah": "Pusat gempa berada di darat 18 km barat Bener Meriah",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "10 km",
+    "koordinat": "4.76,96.70",
+    "dirasakan": "III Aceh Tengah, III Bener Meriah",
+    "shakemap": "20260928005405.mmi.jpg",
+    "detectedAt": "2026-09-27T19:13:46.324Z"
+  },
+  {
     "id": "27 Sep 2026 18:29:00 WIB",
     "tanggal": "27 Sep 2026",
     "jam": "18:29:00 WIB",
