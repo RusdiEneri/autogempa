@@ -1,5 +1,18 @@
 [
   {
+    "id": "27 Sep 2026 18:29:00 WIB",
+    "tanggal": "27 Sep 2026",
+    "jam": "18:29:00 WIB",
+    "magnitude": 2.5,
+    "wilayah": "Pusat gempa berada di darat 2.7 km timur laut Mamasa",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "5 km",
+    "koordinat": "-2.93,119.40",
+    "dirasakan": "II Mamasa",
+    "shakemap": "20260927182900.mmi.jpg",
+    "detectedAt": "2026-09-27T15:32:15.955Z"
+  },
+  {
     "id": "27 Sep 2026 02:37:02 WIB",
     "tanggal": "27 Sep 2026",
     "jam": "02:37:02 WIB",
