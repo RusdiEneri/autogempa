@@ -2,7 +2,7 @@
 
 > Monitor gempa bumi real-time untuk wilayah Indonesia. Data diambil otomatis dari **BMKG** setiap 5 menit oleh GitHub Actions, lalu ditampilkan lengkap di README ini beserta peta guncangannya (shakemap).
 
-🕒 **Update otomatis terakhir:** Senin, 28 September 2026 pukul 02.13.47
+🕒 **Update otomatis terakhir:** Senin, 28 September 2026 pukul 12.56.22
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Parameter | Detail |
 | --- | --- |
-| 📊 **Magnitudo** | M 3.4 |
-| 📍 **Wilayah** | Pusat gempa berada di darat 18 km barat Bener Meriah |
-| 🕒 **Waktu** | 28 Sep 2026, 00:54:05 WIB |
-| 🧭 **Koordinat** | 4.76,96.70 |
-| 📏 **Kedalaman** | 10 km |
+| 📊 **Magnitudo** | M 4.5 |
+| 📍 **Wilayah** | Pusat gempa berada di laut 57 km Utara Ruteng-Manggarai |
+| 🕒 **Waktu** | 28 Sep 2026, 11:30:48 WIB |
+| 🧭 **Koordinat** | -8.10,120.49 |
+| 📏 **Kedalaman** | 1 km |
 | 🌊 **Potensi** | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 📡 **Dirasakan** | III Aceh Tengah, III Bener Meriah |
+| 📡 **Dirasakan** | III Kab. Manggarai |
 | 🔗 **Sumber** | [BMKG — InfoGempa Realtime](https://www.bmkg.go.id/gempabumi) |
 
 ### 🗺️ Peta Guncangan (Shakemap)
@@ -25,10 +25,11 @@
 
 ---
 
-## 📜 Riwayat 13 Gempa Terakhir
+## 📜 Riwayat 14 Gempa Terakhir
 
 | Waktu | Magnitudo | Wilayah | Kedalaman | Potensi |
 | --- | --- | --- | --- | --- |
+| 28 Sep 2026 11:30:48 WIB | **M 4.5** | Pusat gempa berada di laut 57 km Utara Ruteng-Manggarai | 1 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 28 Sep 2026 00:54:05 WIB | **M 3.4** | Pusat gempa berada di darat 18 km barat Bener Meriah | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 27 Sep 2026 18:29:00 WIB | **M 2.5** | Pusat gempa berada di darat 2.7 km timur laut Mamasa | 5 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 27 Sep 2026 02:37:02 WIB | **M 4.9** | Pusat gempa berada di laut 61 km utara Ruteng, Manggarai | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
