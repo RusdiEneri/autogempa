@@ -2,7 +2,7 @@
 
 > Monitor gempa bumi real-time untuk wilayah Indonesia. Data diambil otomatis dari **BMKG** setiap 5 menit oleh GitHub Actions, lalu ditampilkan lengkap di README ini beserta peta guncangannya (shakemap).
 
-🕒 **Update otomatis terakhir:** Selasa, 29 September 2026 pukul 02.51.03
+🕒 **Update otomatis terakhir:** Selasa, 29 September 2026 pukul 23.44.30
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Parameter | Detail |
 | --- | --- |
-| 📊 **Magnitudo** | M 4.5 |
-| 📍 **Wilayah** | Pusat gempa berada di laut 127 km Barat Daya Kota Sabang |
-| 🕒 **Waktu** | 28 Sep 2026, 21:43:09 WIB |
-| 🧭 **Koordinat** | 5.19,94.41 |
-| 📏 **Kedalaman** | 10 km |
+| 📊 **Magnitudo** | M 3.1 |
+| 📍 **Wilayah** | Pusat gempa berada di darat 5 km Barat Kolaka |
+| 🕒 **Waktu** | 29 Sep 2026, 21:39:13 WIB |
+| 🧭 **Koordinat** | -4.05,121.58 |
+| 📏 **Kedalaman** | 3 km |
 | 🌊 **Potensi** | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 📡 **Dirasakan** | III-IV Aceh Besar, III-IV Banda Aceh |
+| 📡 **Dirasakan** | III Kolaka |
 | 🔗 **Sumber** | [BMKG — InfoGempa Realtime](https://www.bmkg.go.id/gempabumi) |
 
 ### 🗺️ Peta Guncangan (Shakemap)
@@ -29,6 +29,7 @@
 
 | Waktu | Magnitudo | Wilayah | Kedalaman | Potensi |
 | --- | --- | --- | --- | --- |
+| 29 Sep 2026 21:39:13 WIB | **M 3.1** | Pusat gempa berada di darat 5 km Barat Kolaka | 3 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 28 Sep 2026 21:43:09 WIB | **M 4.5** | Pusat gempa berada di laut 127 km Barat Daya Kota Sabang | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 28 Sep 2026 17:41:49 WIB | **M 4.2** | Pusat gempa berada di laut 60 km utara Ruteng, Manggarai | 6 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 28 Sep 2026 11:30:48 WIB | **M 4.5** | Pusat gempa berada di laut 57 km Utara Ruteng-Manggarai | 1 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
@@ -43,7 +44,6 @@
 | 23 Sep 2026 19:16:56 WIB | **M 1.8** | Pusat gempa berada di darat 24 km barat daya Lembata | 12 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 23 Sep 2026 09:02:44 WIB | **M 4.7** | Pusat gempa berada di laut 48 km utara Ruteng-Manggarai | 9 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 23 Sep 2026 05:27:42 WIB | **M 4.6** | Pusat gempa berada di laut 38 Km Selatan Sumur | 20 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 23 Sep 2026 00:20:14 WIB | **M 4.2** | Pusat gempa berada di laut 49 km Barat Laut Ruteng, Manggarai | 7 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 
 ---
 

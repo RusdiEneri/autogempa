@@ -1,5 +1,18 @@
 [
   {
+    "id": "29 Sep 2026 21:39:13 WIB",
+    "tanggal": "29 Sep 2026",
+    "jam": "21:39:13 WIB",
+    "magnitude": 3.1,
+    "wilayah": "Pusat gempa berada di darat 5 km Barat Kolaka",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "3 km",
+    "koordinat": "-4.05,121.58",
+    "dirasakan": "III Kolaka",
+    "shakemap": "20260929213913.mmi.jpg",
+    "detectedAt": "2026-09-29T16:44:29.906Z"
+  },
+  {
     "id": "28 Sep 2026 21:43:09 WIB",
     "tanggal": "28 Sep 2026",
     "jam": "21:43:09 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "II - III Sumur",
     "shakemap": "20260923052742.mmi.jpg",
     "detectedAt": "2026-09-22T23:12:36.477Z"
-  },
-  {
-    "id": "23 Sep 2026 00:20:14 WIB",
-    "tanggal": "23 Sep 2026",
-    "jam": "00:20:14 WIB",
-    "magnitude": 4.2,
-    "wilayah": "Pusat gempa berada di laut 49 km Barat Laut Ruteng, Manggarai",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "7 km",
-    "koordinat": "-8.21,120.28",
-    "dirasakan": "II-III Kab. Manggarai",
-    "shakemap": "20260923002014.mmi.jpg",
-    "detectedAt": "2026-09-22T17:38:16.710Z"
   }
 ]
