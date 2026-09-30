@@ -1,5 +1,18 @@
 [
   {
+    "id": "30 Sep 2026 09:35:54 WIB",
+    "tanggal": "30 Sep 2026",
+    "jam": "09:35:54 WIB",
+    "magnitude": 4.1,
+    "wilayah": "Pusat gempa berada di laut 54 km barat laut Calang-Aceh Jaya",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "5 km",
+    "koordinat": "4.84,95.14",
+    "dirasakan": "III-IV Calang, III Aceh Besar, III Banda Aceh, II Sigli",
+    "shakemap": "20260930093554.mmi.jpg",
+    "detectedAt": "2026-09-30T05:43:15.208Z"
+  },
+  {
     "id": "29 Sep 2026 21:39:13 WIB",
     "tanggal": "29 Sep 2026",
     "jam": "21:39:13 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "II - III Kab. Manggarai",
     "shakemap": "20260923090244.mmi.jpg",
     "detectedAt": "2026-09-23T06:36:04.833Z"
-  },
-  {
-    "id": "23 Sep 2026 05:27:42 WIB",
-    "tanggal": "23 Sep 2026",
-    "jam": "05:27:42 WIB",
-    "magnitude": 4.6,
-    "wilayah": "Pusat gempa berada di laut 38 Km Selatan Sumur",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "20 km",
-    "koordinat": "-7.00,105.57",
-    "dirasakan": "II - III Sumur",
-    "shakemap": "20260923052742.mmi.jpg",
-    "detectedAt": "2026-09-22T23:12:36.477Z"
   }
 ]
