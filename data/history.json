@@ -1,5 +1,18 @@
 [
   {
+    "id": "01 Okt 2026 21:20:00 WIB",
+    "tanggal": "01 Okt 2026",
+    "jam": "21:20:00 WIB",
+    "magnitude": 5.1,
+    "wilayah": "Pusat gempa berada di laut 111 km tenggara Selayar",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "10 km",
+    "koordinat": "-7.07,120.80",
+    "dirasakan": "III Benteng Selayar, IV Jampea Kep. Selayar",
+    "shakemap": "20261001212000.mmi.jpg",
+    "detectedAt": "2026-10-01T19:01:48.331Z"
+  },
+  {
     "id": "01 Okt 2026 18:51:40 WIB",
     "tanggal": "01 Okt 2026",
     "jam": "18:51:40 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "II - III Kota Cianjur, II - III Cibeber, II - III Warungkondang",
     "shakemap": "20260925150442.mmi.jpg",
     "detectedAt": "2026-09-25T13:57:26.932Z"
-  },
-  {
-    "id": "25 Sep 2026 04:01:35 WIB",
-    "tanggal": "25 Sep 2026",
-    "jam": "04:01:35 WIB",
-    "magnitude": 3.7,
-    "wilayah": "Pusat gempa berada di darat 17 km Timur Jantho Aceh Besar",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "7 km",
-    "koordinat": "5.21,95.76",
-    "dirasakan": "III Pidie, II Pidie Jaya",
-    "shakemap": "20260925040135.mmi.jpg",
-    "detectedAt": "2026-09-24T22:40:20.737Z"
   }
 ]

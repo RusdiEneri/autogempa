@@ -2,7 +2,7 @@
 
 > Monitor gempa bumi real-time untuk wilayah Indonesia. Data diambil otomatis dari **BMKG** setiap 5 menit oleh GitHub Actions, lalu ditampilkan lengkap di README ini beserta peta guncangannya (shakemap).
 
-🕒 **Update otomatis terakhir:** Kamis, 01 Oktober 2026 pukul 20.39.27
+🕒 **Update otomatis terakhir:** Jumat, 02 Oktober 2026 pukul 02.01.48
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Parameter | Detail |
 | --- | --- |
-| 📊 **Magnitudo** | M 3.6 |
-| 📍 **Wilayah** | Pusat gempa berada di laut 26 km barat laut Gorontalo Utara |
-| 🕒 **Waktu** | 01 Okt 2026, 18:51:40 WIB |
-| 🧭 **Koordinat** | 0.95,122.69 |
-| 📏 **Kedalaman** | 47 km |
+| 📊 **Magnitudo** | M 5.1 |
+| 📍 **Wilayah** | Pusat gempa berada di laut 111 km tenggara Selayar |
+| 🕒 **Waktu** | 01 Okt 2026, 21:20:00 WIB |
+| 🧭 **Koordinat** | -7.07,120.80 |
+| 📏 **Kedalaman** | 10 km |
 | 🌊 **Potensi** | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 📡 **Dirasakan** | II - III Kab. Gorontalo Utara |
+| 📡 **Dirasakan** | III Benteng Selayar, IV Jampea Kep. Selayar |
 | 🔗 **Sumber** | [BMKG — InfoGempa Realtime](https://www.bmkg.go.id/gempabumi) |
 
 ### 🗺️ Peta Guncangan (Shakemap)
@@ -29,6 +29,7 @@
 
 | Waktu | Magnitudo | Wilayah | Kedalaman | Potensi |
 | --- | --- | --- | --- | --- |
+| 01 Okt 2026 21:20:00 WIB | **M 5.1** | Pusat gempa berada di laut 111 km tenggara Selayar | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 01 Okt 2026 18:51:40 WIB | **M 3.6** | Pusat gempa berada di laut 26 km barat laut Gorontalo Utara | 47 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 01 Okt 2026 07:43:06 WIB | **M 3.1** | Pusat gempa berada di Laut 31 km Barat Kab. Kupang | 6 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 30 Sep 2026 17:58:51 WIB | **M 4.7** | Pusat gempa berada di laut 26 km Barat Kab. Kupang | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
@@ -43,7 +44,6 @@
 | 26 Sep 2026 02:39:29 WIB | **M 4.9** | Pusat gempa berada di laut 46 km utara Ruteng-Manggarai | 9 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 25 Sep 2026 20:47:30 WIB | **M 4.7** | Pusat gempa berada di laut 58 km barat daya Sumur | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 25 Sep 2026 15:04:42 WIB | **M 2.4** | Pusat gempa berada di darat 10 km selatan Kab. Cianjur | 7 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 25 Sep 2026 04:01:35 WIB | **M 3.7** | Pusat gempa berada di darat 17 km Timur Jantho Aceh Besar | 7 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 
 ---
 
