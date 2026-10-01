@@ -2,7 +2,7 @@
 
 > Monitor gempa bumi real-time untuk wilayah Indonesia. Data diambil otomatis dari **BMKG** setiap 5 menit oleh GitHub Actions, lalu ditampilkan lengkap di README ini beserta peta guncangannya (shakemap).
 
-🕒 **Update otomatis terakhir:** Rabu, 30 September 2026 pukul 18.22.08
+🕒 **Update otomatis terakhir:** Kamis, 01 Oktober 2026 pukul 13.25.21
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Parameter | Detail |
 | --- | --- |
-| 📊 **Magnitudo** | M 4.7 |
-| 📍 **Wilayah** | Pusat gempa berada di laut 26 km Barat Kab. Kupang |
-| 🕒 **Waktu** | 30 Sep 2026, 17:58:51 WIB |
-| 🧭 **Koordinat** | -10.02,123.65 |
-| 📏 **Kedalaman** | 10 km |
+| 📊 **Magnitudo** | M 3.1 |
+| 📍 **Wilayah** | Pusat gempa berada di Laut 31 km Barat Kab. Kupang |
+| 🕒 **Waktu** | 01 Okt 2026, 07:43:06 WIB |
+| 🧭 **Koordinat** | -10.04,123.61 |
+| 📏 **Kedalaman** | 6 km |
 | 🌊 **Potensi** | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 📡 **Dirasakan** | IV Kab. Kupang, IV Kota Kupang |
+| 📡 **Dirasakan** | II - III Kab. Kupang, II - III Kota Kupang |
 | 🔗 **Sumber** | [BMKG — InfoGempa Realtime](https://www.bmkg.go.id/gempabumi) |
 
 ### 🗺️ Peta Guncangan (Shakemap)
@@ -29,6 +29,7 @@
 
 | Waktu | Magnitudo | Wilayah | Kedalaman | Potensi |
 | --- | --- | --- | --- | --- |
+| 01 Okt 2026 07:43:06 WIB | **M 3.1** | Pusat gempa berada di Laut 31 km Barat Kab. Kupang | 6 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 30 Sep 2026 17:58:51 WIB | **M 4.7** | Pusat gempa berada di laut 26 km Barat Kab. Kupang | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 30 Sep 2026 09:35:54 WIB | **M 4.1** | Pusat gempa berada di laut 54 km barat laut Calang-Aceh Jaya | 5 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 29 Sep 2026 21:39:13 WIB | **M 3.1** | Pusat gempa berada di darat 5 km Barat Kolaka | 3 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
@@ -43,7 +44,6 @@
 | 25 Sep 2026 15:04:42 WIB | **M 2.4** | Pusat gempa berada di darat 10 km selatan Kab. Cianjur | 7 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 25 Sep 2026 04:01:35 WIB | **M 3.7** | Pusat gempa berada di darat 17 km Timur Jantho Aceh Besar | 7 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 24 Sep 2026 10:30:28 WIB | **M 4.6** | Pusat gempa berada di laut 57 km timur Kota Bima | 12 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 23 Sep 2026 19:16:56 WIB | **M 1.8** | Pusat gempa berada di darat 24 km barat daya Lembata | 12 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 
 ---
 
