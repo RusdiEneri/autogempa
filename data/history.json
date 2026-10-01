@@ -1,5 +1,18 @@
 [
   {
+    "id": "01 Okt 2026 18:51:40 WIB",
+    "tanggal": "01 Okt 2026",
+    "jam": "18:51:40 WIB",
+    "magnitude": 3.6,
+    "wilayah": "Pusat gempa berada di laut 26 km barat laut Gorontalo Utara",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "47 km",
+    "koordinat": "0.95,122.69",
+    "dirasakan": "II - III Kab. Gorontalo Utara",
+    "shakemap": "20261001185140.mmi.jpg",
+    "detectedAt": "2026-10-01T13:39:27.706Z"
+  },
+  {
     "id": "01 Okt 2026 07:43:06 WIB",
     "tanggal": "01 Okt 2026",
     "jam": "07:43:06 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III Pidie, II Pidie Jaya",
     "shakemap": "20260925040135.mmi.jpg",
     "detectedAt": "2026-09-24T22:40:20.737Z"
-  },
-  {
-    "id": "24 Sep 2026 10:30:28 WIB",
-    "tanggal": "24 Sep 2026",
-    "jam": "10:30:28 WIB",
-    "magnitude": 4.6,
-    "wilayah": "Pusat gempa berada di laut 57 km timur Kota Bima",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "12 km",
-    "koordinat": "-8.32,119.25",
-    "dirasakan": "II - III Kota Bima, II - III Kabupaten Bima",
-    "shakemap": "20260924103028.mmi.jpg",
-    "detectedAt": "2026-09-24T05:48:42.189Z"
   }
 ]
