@@ -2,7 +2,7 @@
 
 > Monitor gempa bumi real-time untuk wilayah Indonesia. Data diambil otomatis dari **BMKG** setiap 5 menit oleh GitHub Actions, lalu ditampilkan lengkap di README ini beserta peta guncangannya (shakemap).
 
-🕒 **Update otomatis terakhir:** Minggu, 04 Oktober 2026 pukul 08.42.38
+🕒 **Update otomatis terakhir:** Minggu, 04 Oktober 2026 pukul 14.23.33
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Parameter | Detail |
 | --- | --- |
-| 📊 **Magnitudo** | M 5.9 |
-| 📍 **Wilayah** | Pusat gempa berada di laut 68 km barat daya Calang |
-| 🕒 **Waktu** | 04 Okt 2026, 06:37:31 WIB |
-| 🧭 **Koordinat** | 4.56,94.97 |
-| 📏 **Kedalaman** | 26 km |
+| 📊 **Magnitudo** | M 4.2 |
+| 📍 **Wilayah** | Pusat gempa berada di laut 61 km selatan Kab. Sukabumi |
+| 🕒 **Waktu** | 04 Okt 2026, 08:31:56 WIB |
+| 🧭 **Koordinat** | -7.51,106.73 |
+| 📏 **Kedalaman** | 36 km |
 | 🌊 **Potensi** | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 📡 **Dirasakan** | III-IV Aceh Besar, III Banda Aceh, III Aceh Barat, II Aceh Selatan, II Pidie Jaya , II Bener Meriah, II Nagan Raya, II Aceh Tengah, II Sigli |
+| 📡 **Dirasakan** | II - III Pelabuhan Ratu, II - III Cianjur, II Cidolog |
 | 🔗 **Sumber** | [BMKG — InfoGempa Realtime](https://www.bmkg.go.id/gempabumi) |
 
 ### 🗺️ Peta Guncangan (Shakemap)
@@ -29,6 +29,7 @@
 
 | Waktu | Magnitudo | Wilayah | Kedalaman | Potensi |
 | --- | --- | --- | --- | --- |
+| 04 Okt 2026 08:31:56 WIB | **M 4.2** | Pusat gempa berada di laut 61 km selatan Kab. Sukabumi | 36 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 04 Okt 2026 06:37:31 WIB | **M 5.9** | Pusat gempa berada di laut 68 km barat daya Calang | 26 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 02 Okt 2026 18:34:10 WIB | **M 2.1** | Pusat gempa berada di darat 2 km Barat Kolaka | 5 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 02 Okt 2026 13:48:10 WIB | **M 4.3** | Pusat gempa berada di laut 82 km Timur Laut RUTENG-MANGGARAI-NTT | 17 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
@@ -43,7 +44,6 @@
 | 28 Sep 2026 17:41:49 WIB | **M 4.2** | Pusat gempa berada di laut 60 km utara Ruteng, Manggarai | 6 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 28 Sep 2026 11:30:48 WIB | **M 4.5** | Pusat gempa berada di laut 57 km Utara Ruteng-Manggarai | 1 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 28 Sep 2026 00:54:05 WIB | **M 3.4** | Pusat gempa berada di darat 18 km barat Bener Meriah | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 27 Sep 2026 18:29:00 WIB | **M 2.5** | Pusat gempa berada di darat 2.7 km timur laut Mamasa | 5 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 
 ---
 
