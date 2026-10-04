@@ -1,5 +1,18 @@
 [
   {
+    "id": "04 Okt 2026 19:36:47 WIB",
+    "tanggal": "04 Okt 2026",
+    "jam": "19:36:47 WIB",
+    "magnitude": 4.6,
+    "wilayah": "Pusat gempa berada di laut 149 km selatan Kab. Malang",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "10 km",
+    "koordinat": "-9.47,112.76",
+    "dirasakan": "III Malang, III Lumajang, II Tulungagung, II Blitar, II Jember",
+    "shakemap": "20261004193647.mmi.jpg",
+    "detectedAt": "2026-10-04T13:19:24.632Z"
+  },
+  {
     "id": "04 Okt 2026 08:31:56 WIB",
     "tanggal": "04 Okt 2026",
     "jam": "08:31:56 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III Kab. Manggarai",
     "shakemap": "20260928113048.mmi.jpg",
     "detectedAt": "2026-09-28T05:56:22.814Z"
-  },
-  {
-    "id": "28 Sep 2026 00:54:05 WIB",
-    "tanggal": "28 Sep 2026",
-    "jam": "00:54:05 WIB",
-    "magnitude": 3.4,
-    "wilayah": "Pusat gempa berada di darat 18 km barat Bener Meriah",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "10 km",
-    "koordinat": "4.76,96.70",
-    "dirasakan": "III Aceh Tengah, III Bener Meriah",
-    "shakemap": "20260928005405.mmi.jpg",
-    "detectedAt": "2026-09-27T19:13:46.324Z"
   }
 ]
