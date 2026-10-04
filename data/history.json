@@ -1,5 +1,18 @@
 [
   {
+    "id": "04 Okt 2026 21:59:43 WIB",
+    "tanggal": "04 Okt 2026",
+    "jam": "21:59:43 WIB",
+    "magnitude": 4.8,
+    "wilayah": "Pusat gempa berada di laut 13 km Selatan Kodi-Sumba Barat Daya",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "21 km",
+    "koordinat": "-9.71,118.98",
+    "dirasakan": "III Tambolaka, II-III Waingapu",
+    "shakemap": "20261004215943.mmi.jpg",
+    "detectedAt": "2026-10-04T17:39:28.983Z"
+  },
+  {
     "id": "04 Okt 2026 19:36:47 WIB",
     "tanggal": "04 Okt 2026",
     "jam": "19:36:47 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "II - III Kab. Manggarai",
     "shakemap": "20260928174149.mmi.jpg",
     "detectedAt": "2026-09-28T12:45:29.659Z"
-  },
-  {
-    "id": "28 Sep 2026 11:30:48 WIB",
-    "tanggal": "28 Sep 2026",
-    "jam": "11:30:48 WIB",
-    "magnitude": 4.5,
-    "wilayah": "Pusat gempa berada di laut 57 km Utara Ruteng-Manggarai",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "1 km",
-    "koordinat": "-8.10,120.49",
-    "dirasakan": "III Kab. Manggarai",
-    "shakemap": "20260928113048.mmi.jpg",
-    "detectedAt": "2026-09-28T05:56:22.814Z"
   }
 ]
