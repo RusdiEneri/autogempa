@@ -29,9 +29,12 @@ function writeHistory(history) {
 }
 
 export function pushHistory(gempa) {
-  const history = readHistory().filter((h) => h.id !== gempa.id);
-  history.unshift({ ...gempa, detectedAt: new Date().toISOString() });
-  const trimmed = history.slice(0, MAX_HISTORY);
+  const history = readHistory();
+  const existing = history.find((h) => h.id === gempa.id);
+  const detectedAt = existing?.detectedAt || new Date().toISOString();
+  const filtered = history.filter((h) => h.id !== gempa.id);
+  filtered.unshift({ ...gempa, detectedAt });
+  const trimmed = filtered.slice(0, MAX_HISTORY);
   writeHistory(trimmed);
   return trimmed;
 }
@@ -39,8 +42,15 @@ export function pushHistory(gempa) {
 /* ================= DOWNLOAD SHAKEMAP ================= */
 
 export async function downloadShakemap(gempa) {
-  // ✅ Tidak ada shakemap valid → langsung null, jangan download
-  if (!gempa.shakemap) return null;
+  // ✅ Tidak ada shakemap valid → bersihkan shakemap lama jika ada
+  if (!gempa.shakemap) {
+    if (fs.existsSync(SHAKEMAP_PATH)) {
+      try {
+        fs.unlinkSync(SHAKEMAP_PATH);
+      } catch {}
+    }
+    return null;
+  }
 
   const remoteUrl = `https://data.bmkg.go.id/DataMKG/TEWS/${gempa.shakemap}`;
 
@@ -58,9 +68,14 @@ export async function downloadShakemap(gempa) {
   } catch (err) {
     console.error("Gagal download shakemap:", err.message);
 
-    // ✅ Jika 404, shakemap belum ada di server BMKG → jangan tampilkan gambar rusak
+    // ✅ Jika 404, shakemap belum ada di server BMKG → bersihkan shakemap lama
     if (err.response?.status === 404) {
       console.warn("Shakemap 404 dari BMKG, dianggap tidak tersedia.");
+      if (fs.existsSync(SHAKEMAP_PATH)) {
+        try {
+          fs.unlinkSync(SHAKEMAP_PATH);
+        } catch {}
+      }
       return null;
     }
 
@@ -140,7 +155,9 @@ ${historyRows}
   - \`README.md\` di-generate ulang (info detail + shakemap),
   - gambar shakemap disimpan ke \`assets/shakemap.jpg\`,
   - riwayat disimpan di \`data/history.json\` (maksimal ${MAX_HISTORY} gempa),
+  - checkpoint ID disimpan di \`data/last.json\`,
   - semua di-commit & push otomatis ke branch \`main\`.
+- **Fitur Self-Healing**: jika BMKG merilis parameter gempa lebih dulu dan gambar shakemap menyusul beberapa menit kemudian, sistem otomatis mengunduh shakemap susulan dan memperbarui \`README.md\` tanpa menduplikasi notifikasi.
 - Notifikasi **Discord** tetap dikirim jika magnitudo ≥ \`MIN_MAGNITUDE\`.
 
 ---

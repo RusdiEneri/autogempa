@@ -2,7 +2,7 @@
 
 > Monitor gempa bumi real-time untuk wilayah Indonesia. Data diambil otomatis dari **BMKG** setiap 5 menit oleh GitHub Actions, lalu ditampilkan lengkap di README ini beserta peta guncangannya (shakemap).
 
-🕒 **Update otomatis terakhir:** Senin, 05 Oktober 2026 pukul 15.55.42
+🕒 **Update otomatis terakhir:** Senin, 05 Oktober 2026 pukul 18.26.49
 
 ---
 
@@ -55,7 +55,9 @@
   - `README.md` di-generate ulang (info detail + shakemap),
   - gambar shakemap disimpan ke `assets/shakemap.jpg`,
   - riwayat disimpan di `data/history.json` (maksimal 15 gempa),
+  - checkpoint ID disimpan di `data/last.json`,
   - semua di-commit & push otomatis ke branch `main`.
+- **Fitur Self-Healing**: jika BMKG merilis parameter gempa lebih dulu dan gambar shakemap menyusul beberapa menit kemudian, sistem otomatis mengunduh shakemap susulan dan memperbarui `README.md` tanpa menduplikasi notifikasi.
 - Notifikasi **Discord** tetap dikirim jika magnitudo ≥ `MIN_MAGNITUDE`.
 
 ---

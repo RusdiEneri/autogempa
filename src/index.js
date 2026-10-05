@@ -17,12 +17,30 @@ async function checkGempa() {
   const readmeExists = fs.existsSync("README.md");
   const shakemapExists = fs.existsSync("assets/shakemap.jpg");
 
+  let readmeHasShakemap = false;
+  let readmeMatchesId = false;
+
+  if (readmeExists) {
+    try {
+      const readmeContent = fs.readFileSync("README.md", "utf8");
+      readmeHasShakemap = readmeContent.includes("assets/shakemap.jpg");
+      readmeMatchesId =
+        readmeContent.includes(gempa.tanggal) &&
+        readmeContent.includes(gempa.jam);
+    } catch {
+      readmeMatchesId = false;
+    }
+  }
+
   // ─── Kasus: Gempa sama dengan yang sudah tercatat ───────────────────────────
   if (gempa.id === lastId) {
-    // ✅ Self-healing: README belum ada ATAU shakemap baru tersedia dari BMKG
-    // (BMKG sering rilis data tanpa shakemap, lalu baru muncul 2–4 menit kemudian)
+    // ✅ Self-healing:
+    // 1. README belum ada atau belum memuat data gempa aktif saat ini
+    // 2. ATAU shakemap baru tersedia di BMKG, namun file lokal belum ada / README belum memuat shakemap
     const needsReadmeRefresh =
-      !readmeExists || (gempa.shakemap && !shakemapExists);
+      !readmeExists ||
+      !readmeMatchesId ||
+      (Boolean(gempa.shakemap) && (!shakemapExists || !readmeHasShakemap));
 
     if (needsReadmeRefresh) {
       console.log(
