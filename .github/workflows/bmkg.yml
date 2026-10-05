@@ -27,14 +27,25 @@ jobs:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Setup Git
+      - name: Setup Git & SSH Signing
         run: |
           set -euo pipefail
 
-          git config user.name "RusdiEneri"
-          git config user.email "nuruddinrusydiilham@gmail.com"
-          git config pull.rebase true
+          git config --global user.name "RusdiEneri"
+          git config --global user.email "nuruddinrusydiilham@gmail.com"
+          git config --global pull.rebase true
 
+          # Simpan Private SSH Key dari GitHub Secrets ke file
+          mkdir -p ~/.ssh
+          echo "${{ secrets.COMMIT_SIGNING_KEY }}" > ~/.ssh/commit_signing_key
+          chmod 600 ~/.ssh/commit_signing_key
+
+          # Konfigurasi Git agar menggunakan format SSH untuk commit signing
+          git config --global gpg.format ssh
+          git config --global user.signingkey ~/.ssh/commit_signing_key
+          git config --global commit.gpgsign true
+
+          # Setup remote origin untuk push
           git remote set-url origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
 
           git fetch origin main
@@ -44,7 +55,6 @@ jobs:
       - name: Prepare data & assets directory
         run: |
           mkdir -p data assets
-
           echo "Isi repository:"
           ls -la
 
@@ -94,6 +104,8 @@ jobs:
           set -euo pipefail
 
           TIMESTAMP=$(TZ=Asia/Jakarta date +"%Y-%m-%d %H:%M:%S WIB")
+          
+          # Commit akan otomatis ter-sign karena commit.gpgsign = true
           git commit -m "docs: update info gempa & README - $TIMESTAMP [skip ci]"
 
           for attempt in 1 2 3 4 5; do
@@ -101,12 +113,10 @@ jobs:
 
             # Sinkronkan branch dengan commit terbaru
             if git pull --rebase origin main; then
-
               if git push origin HEAD:main; then
                 echo "✅ Push berhasil."
                 exit 0
               fi
-
             else
               echo "⚠️ Rebase gagal."
               git rebase --abort || true
