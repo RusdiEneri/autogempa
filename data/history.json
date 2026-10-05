@@ -1,5 +1,18 @@
 [
   {
+    "id": "05 Okt 2026 20:06:22 WIB",
+    "tanggal": "05 Okt 2026",
+    "jam": "20:06:22 WIB",
+    "magnitude": 3.8,
+    "wilayah": "Pusat gempa berada di darat 42 km timur laut Ruteng, Manggarai",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "8 km",
+    "koordinat": "-8.27,120.62",
+    "dirasakan": "II - III Kab. Manggarai",
+    "shakemap": "20261005200622.mmi.jpg",
+    "detectedAt": "2026-10-05T17:42:54.134Z"
+  },
+  {
     "id": "05 Okt 2026 09:16:32 WIB",
     "tanggal": "05 Okt 2026",
     "jam": "09:16:32 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III-IV Calang, III Aceh Besar, III Banda Aceh, II Sigli",
     "shakemap": "20260930093554.mmi.jpg",
     "detectedAt": "2026-09-30T05:43:15.208Z"
-  },
-  {
-    "id": "29 Sep 2026 21:39:13 WIB",
-    "tanggal": "29 Sep 2026",
-    "jam": "21:39:13 WIB",
-    "magnitude": 3.1,
-    "wilayah": "Pusat gempa berada di darat 5 km Barat Kolaka",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "3 km",
-    "koordinat": "-4.05,121.58",
-    "dirasakan": "III Kolaka",
-    "shakemap": "20260929213913.mmi.jpg",
-    "detectedAt": "2026-09-29T16:44:29.906Z"
   }
 ]
