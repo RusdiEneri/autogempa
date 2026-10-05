@@ -1,5 +1,18 @@
 [
   {
+    "id": "05 Okt 2026 06:19:11 WIB",
+    "tanggal": "05 Okt 2026",
+    "jam": "06:19:11 WIB",
+    "magnitude": 3.9,
+    "wilayah": "Pusat gempa berada di laut 6 Km selatan Kodi, Sumba Barat Daya",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "14 km",
+    "koordinat": "-9.64,119.00",
+    "dirasakan": "III Tambolaka",
+    "shakemap": "20261005061911.mmi.jpg",
+    "detectedAt": "2026-10-05T02:08:31.837Z"
+  },
+  {
     "id": "04 Okt 2026 21:59:43 WIB",
     "tanggal": "04 Okt 2026",
     "jam": "21:59:43 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III-IV Aceh Besar, III-IV Banda Aceh",
     "shakemap": "20260928214309.mmi.jpg",
     "detectedAt": "2026-09-28T19:51:02.758Z"
-  },
-  {
-    "id": "28 Sep 2026 17:41:49 WIB",
-    "tanggal": "28 Sep 2026",
-    "jam": "17:41:49 WIB",
-    "magnitude": 4.2,
-    "wilayah": "Pusat gempa berada di laut 60 km utara Ruteng, Manggarai",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "6 km",
-    "koordinat": "-8.09,120.60",
-    "dirasakan": "II - III Kab. Manggarai",
-    "shakemap": "20260928174149.mmi.jpg",
-    "detectedAt": "2026-09-28T12:45:29.659Z"
   }
 ]
