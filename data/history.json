@@ -1,5 +1,18 @@
 [
   {
+    "id": "05 Okt 2026 09:16:32 WIB",
+    "tanggal": "05 Okt 2026",
+    "jam": "09:16:32 WIB",
+    "magnitude": 4.6,
+    "wilayah": "Pusat gempa berada di laut 112 km selatan Lumajang",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "4 km",
+    "koordinat": "-9.13,113.07",
+    "dirasakan": "III Lumajang, II Blitar, II Malang, II Jember",
+    "shakemap": "20261005091632.mmi.jpg",
+    "detectedAt": "2026-10-05T08:55:41.506Z"
+  },
+  {
     "id": "05 Okt 2026 06:19:11 WIB",
     "tanggal": "05 Okt 2026",
     "jam": "06:19:11 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III Kolaka",
     "shakemap": "20260929213913.mmi.jpg",
     "detectedAt": "2026-09-29T16:44:29.906Z"
-  },
-  {
-    "id": "28 Sep 2026 21:43:09 WIB",
-    "tanggal": "28 Sep 2026",
-    "jam": "21:43:09 WIB",
-    "magnitude": 4.5,
-    "wilayah": "Pusat gempa berada di laut 127 km Barat Daya Kota Sabang",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "10 km",
-    "koordinat": "5.19,94.41",
-    "dirasakan": "III-IV Aceh Besar, III-IV Banda Aceh",
-    "shakemap": "20260928214309.mmi.jpg",
-    "detectedAt": "2026-09-28T19:51:02.758Z"
   }
 ]
