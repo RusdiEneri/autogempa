@@ -2,7 +2,7 @@
 
 > Monitor gempa bumi real-time untuk wilayah Indonesia. Data diambil otomatis dari **BMKG** setiap 5 menit oleh GitHub Actions, lalu ditampilkan lengkap di README ini beserta peta guncangannya (shakemap).
 
-🕒 **Update otomatis terakhir:** Selasa, 06 Oktober 2026 pukul 06.22.10
+🕒 **Update otomatis terakhir:** Selasa, 06 Oktober 2026 pukul 17.10.46
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Parameter | Detail |
 | --- | --- |
-| 📊 **Magnitudo** | M 4.6 |
-| 📍 **Wilayah** | Pusat gempa berada di laut 14 km selatan Kodi, Sumba Barat Daya |
-| 🕒 **Waktu** | 06 Okt 2026, 04:38:04 WIB |
-| 🧭 **Koordinat** | -9.72,118.96 |
-| 📏 **Kedalaman** | 19 km |
+| 📊 **Magnitudo** | M 4.4 |
+| 📍 **Wilayah** | Pusat gempa berada di laut 84 km Utara Ruteng |
+| 🕒 **Waktu** | 06 Okt 2026, 10:42:45 WIB |
+| 🧭 **Koordinat** | -7.86,120.38 |
+| 📏 **Kedalaman** | 21 km |
 | 🌊 **Potensi** | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 📡 **Dirasakan** | II Kab. Sumba Barat Daya |
+| 📡 **Dirasakan** | II - III Kab. Manggarai |
 | 🔗 **Sumber** | [BMKG — InfoGempa Realtime](https://www.bmkg.go.id/gempabumi) |
 
 ### 🗺️ Peta Guncangan (Shakemap)
@@ -29,6 +29,7 @@
 
 | Waktu | Magnitudo | Wilayah | Kedalaman | Potensi |
 | --- | --- | --- | --- | --- |
+| 06 Okt 2026 10:42:45 WIB | **M 4.4** | Pusat gempa berada di laut 84 km Utara Ruteng | 21 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 06 Okt 2026 04:38:04 WIB | **M 4.6** | Pusat gempa berada di laut 14 km selatan Kodi, Sumba Barat Daya | 19 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 05 Okt 2026 20:06:22 WIB | **M 3.8** | Pusat gempa berada di darat 42 km timur laut Ruteng, Manggarai | 8 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 05 Okt 2026 09:16:32 WIB | **M 4.6** | Pusat gempa berada di laut 112 km selatan Lumajang | 4 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
@@ -43,7 +44,6 @@
 | 01 Okt 2026 21:20:00 WIB | **M 5.1** | Pusat gempa berada di laut 111 km tenggara Selayar | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 01 Okt 2026 18:51:40 WIB | **M 3.6** | Pusat gempa berada di laut 26 km barat laut Gorontalo Utara | 47 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 01 Okt 2026 07:43:06 WIB | **M 3.1** | Pusat gempa berada di Laut 31 km Barat Kab. Kupang | 6 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 30 Sep 2026 17:58:51 WIB | **M 4.7** | Pusat gempa berada di laut 26 km Barat Kab. Kupang | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 
 ---
 

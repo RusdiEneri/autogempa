@@ -1,5 +1,18 @@
 [
   {
+    "id": "06 Okt 2026 10:42:45 WIB",
+    "tanggal": "06 Okt 2026",
+    "jam": "10:42:45 WIB",
+    "magnitude": 4.4,
+    "wilayah": "Pusat gempa berada di laut 84 km Utara Ruteng",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "21 km",
+    "koordinat": "-7.86,120.38",
+    "dirasakan": "II - III Kab. Manggarai",
+    "shakemap": "20261006104245.mmi.jpg",
+    "detectedAt": "2026-10-06T10:10:46.514Z"
+  },
+  {
     "id": "06 Okt 2026 04:38:04 WIB",
     "tanggal": "06 Okt 2026",
     "jam": "04:38:04 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "II - III Kab. Kupang, II - III Kota Kupang",
     "shakemap": "20261001074306.mmi.jpg",
     "detectedAt": "2026-10-01T06:25:21.710Z"
-  },
-  {
-    "id": "30 Sep 2026 17:58:51 WIB",
-    "tanggal": "30 Sep 2026",
-    "jam": "17:58:51 WIB",
-    "magnitude": 4.7,
-    "wilayah": "Pusat gempa berada di laut 26 km Barat Kab. Kupang",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "10 km",
-    "koordinat": "-10.02,123.65",
-    "dirasakan": "IV Kab. Kupang, IV Kota Kupang",
-    "shakemap": "20260930175851.mmi.jpg",
-    "detectedAt": "2026-09-30T11:22:08.393Z"
   }
 ]
