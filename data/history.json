@@ -1,5 +1,18 @@
 [
   {
+    "id": "07 Okt 2026 03:15:26 WIB",
+    "tanggal": "07 Okt 2026",
+    "jam": "03:15:26 WIB",
+    "magnitude": 5.2,
+    "wilayah": "Pusat gempa berada di darat 9 km tenggara Lombok Barat",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "92 km",
+    "koordinat": "-8.77,116.14",
+    "dirasakan": "IV-V Mataram, III-IV Kab. Lombok Tengah, III Kab. Lombok Timur, III Kab. Lombok Utara, III Sumbawa Barat, III Sumbawa, II-III Kuta, II Denpasar",
+    "shakemap": "20261007031526.mmi.jpg",
+    "detectedAt": "2026-10-06T21:17:03.262Z"
+  },
+  {
     "id": "06 Okt 2026 20:53:22 WIB",
     "tanggal": "06 Okt 2026",
     "jam": "20:53:22 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III Benteng Selayar, IV Jampea Kep. Selayar",
     "shakemap": "20261001212000.mmi.jpg",
     "detectedAt": "2026-10-01T19:01:48.331Z"
-  },
-  {
-    "id": "01 Okt 2026 18:51:40 WIB",
-    "tanggal": "01 Okt 2026",
-    "jam": "18:51:40 WIB",
-    "magnitude": 3.6,
-    "wilayah": "Pusat gempa berada di laut 26 km barat laut Gorontalo Utara",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "47 km",
-    "koordinat": "0.95,122.69",
-    "dirasakan": "II - III Kab. Gorontalo Utara",
-    "shakemap": "20261001185140.mmi.jpg",
-    "detectedAt": "2026-10-01T13:39:27.706Z"
   }
 ]
