@@ -1,5 +1,18 @@
 [
   {
+    "id": "07 Okt 2026 12:44:23 WIB",
+    "tanggal": "07 Okt 2026",
+    "jam": "12:44:23 WIB",
+    "magnitude": 4,
+    "wilayah": "Pusat gempa berada di laut 13 km Timur Manokwari",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "16 km",
+    "koordinat": "-0.88,134.16",
+    "dirasakan": "III Manokwari",
+    "shakemap": "20261007124423.mmi.jpg",
+    "detectedAt": "2026-10-07T06:33:28.650Z"
+  },
+  {
     "id": "07 Okt 2026 04:56:46 WIB",
     "tanggal": "07 Okt 2026",
     "jam": "04:56:46 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "II-III Kab. Manggarai",
     "shakemap": "20261002134810.mmi.jpg",
     "detectedAt": "2026-10-02T08:26:50.852Z"
-  },
-  {
-    "id": "02 Okt 2026 07:46:54 WIB",
-    "tanggal": "02 Okt 2026",
-    "jam": "07:46:54 WIB",
-    "magnitude": 3.8,
-    "wilayah": "Pusat gempa berada di laut 29 km barat daya Tabanan",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "86 km",
-    "koordinat": "-8.67,114.89",
-    "dirasakan": "II - III Kuta, II - III Kuta Selatan, II Denpasar",
-    "shakemap": "20261002074654.mmi.jpg",
-    "detectedAt": "2026-10-02T02:09:06.215Z"
   }
 ]
