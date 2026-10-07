@@ -1,5 +1,18 @@
 [
   {
+    "id": "07 Okt 2026 19:03:42 WIB",
+    "tanggal": "07 Okt 2026",
+    "jam": "19:03:42 WIB",
+    "magnitude": 4.2,
+    "wilayah": "Pusat gempa berada di laut 39 km Utara Mbay-Nagekeo",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "10 km",
+    "koordinat": "-8.35,121.44",
+    "dirasakan": "II - III Kab. Ende",
+    "shakemap": "20261007190342.mmi.jpg",
+    "detectedAt": "2026-10-07T13:49:28.212Z"
+  },
+  {
     "id": "07 Okt 2026 12:44:23 WIB",
     "tanggal": "07 Okt 2026",
     "jam": "12:44:23 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "II - III Kolaka",
     "shakemap": "20261002183410.mmi.jpg",
     "detectedAt": "2026-10-02T14:52:31.270Z"
-  },
-  {
-    "id": "02 Okt 2026 13:48:10 WIB",
-    "tanggal": "02 Okt 2026",
-    "jam": "13:48:10 WIB",
-    "magnitude": 4.3,
-    "wilayah": "Pusat gempa berada di laut 82 km Timur Laut RUTENG-MANGGARAI-NTT",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "17 km",
-    "koordinat": "-8.00,120.88",
-    "dirasakan": "II-III Kab. Manggarai",
-    "shakemap": "20261002134810.mmi.jpg",
-    "detectedAt": "2026-10-02T08:26:50.852Z"
   }
 ]
