@@ -2,7 +2,7 @@
 
 > Monitor gempa bumi real-time untuk wilayah Indonesia. Data diambil otomatis dari **BMKG** setiap 5 menit oleh GitHub Actions, lalu ditampilkan lengkap di README ini beserta peta guncangannya (shakemap).
 
-🕒 **Update otomatis terakhir:** Rabu, 07 Oktober 2026 pukul 04.17.03
+🕒 **Update otomatis terakhir:** Rabu, 07 Oktober 2026 pukul 07.46.38
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Parameter | Detail |
 | --- | --- |
-| 📊 **Magnitudo** | M 5.2 |
-| 📍 **Wilayah** | Pusat gempa berada di darat 9 km tenggara Lombok Barat |
-| 🕒 **Waktu** | 07 Okt 2026, 03:15:26 WIB |
-| 🧭 **Koordinat** | -8.77,116.14 |
-| 📏 **Kedalaman** | 92 km |
+| 📊 **Magnitudo** | M 4.8 |
+| 📍 **Wilayah** | Pusat gempa berada di darat 31 km tenggara Yalimo |
+| 🕒 **Waktu** | 07 Okt 2026, 04:56:46 WIB |
+| 🧭 **Koordinat** | -3.80,139.66 |
+| 📏 **Kedalaman** | 50 km |
 | 🌊 **Potensi** | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 📡 **Dirasakan** | IV-V Mataram, III-IV Kab. Lombok Tengah, III Kab. Lombok Timur, III Kab. Lombok Utara, III Sumbawa Barat, III Sumbawa, II-III Kuta, II Denpasar |
+| 📡 **Dirasakan** | II Wamena |
 | 🔗 **Sumber** | [BMKG — InfoGempa Realtime](https://www.bmkg.go.id/gempabumi) |
 
 ### 🗺️ Peta Guncangan (Shakemap)
@@ -29,6 +29,7 @@
 
 | Waktu | Magnitudo | Wilayah | Kedalaman | Potensi |
 | --- | --- | --- | --- | --- |
+| 07 Okt 2026 04:56:46 WIB | **M 4.8** | Pusat gempa berada di darat 31 km tenggara Yalimo | 50 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 07 Okt 2026 03:15:26 WIB | **M 5.2** | Pusat gempa berada di darat 9 km tenggara Lombok Barat | 92 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 06 Okt 2026 20:53:22 WIB | **M 3.9** | Pusat gempa berada di laut 35 km barat daya Sumur | 28 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 06 Okt 2026 10:42:45 WIB | **M 4.4** | Pusat gempa berada di laut 84 km Utara Ruteng | 21 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
@@ -43,7 +44,6 @@
 | 02 Okt 2026 18:34:10 WIB | **M 2.1** | Pusat gempa berada di darat 2 km Barat Kolaka | 5 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 02 Okt 2026 13:48:10 WIB | **M 4.3** | Pusat gempa berada di laut 82 km Timur Laut RUTENG-MANGGARAI-NTT | 17 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 02 Okt 2026 07:46:54 WIB | **M 3.8** | Pusat gempa berada di laut 29 km barat daya Tabanan | 86 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 01 Okt 2026 21:20:00 WIB | **M 5.1** | Pusat gempa berada di laut 111 km tenggara Selayar | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 
 ---
 

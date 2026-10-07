@@ -1,5 +1,18 @@
 [
   {
+    "id": "07 Okt 2026 04:56:46 WIB",
+    "tanggal": "07 Okt 2026",
+    "jam": "04:56:46 WIB",
+    "magnitude": 4.8,
+    "wilayah": "Pusat gempa berada di darat 31 km tenggara Yalimo",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "50 km",
+    "koordinat": "-3.80,139.66",
+    "dirasakan": "II Wamena",
+    "shakemap": "20261007045646.mmi.jpg",
+    "detectedAt": "2026-10-07T00:46:37.234Z"
+  },
+  {
     "id": "07 Okt 2026 03:15:26 WIB",
     "tanggal": "07 Okt 2026",
     "jam": "03:15:26 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "II - III Kuta, II - III Kuta Selatan, II Denpasar",
     "shakemap": "20261002074654.mmi.jpg",
     "detectedAt": "2026-10-02T02:09:06.215Z"
-  },
-  {
-    "id": "01 Okt 2026 21:20:00 WIB",
-    "tanggal": "01 Okt 2026",
-    "jam": "21:20:00 WIB",
-    "magnitude": 5.1,
-    "wilayah": "Pusat gempa berada di laut 111 km tenggara Selayar",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "10 km",
-    "koordinat": "-7.07,120.80",
-    "dirasakan": "III Benteng Selayar, IV Jampea Kep. Selayar",
-    "shakemap": "20261001212000.mmi.jpg",
-    "detectedAt": "2026-10-01T19:01:48.331Z"
   }
 ]
