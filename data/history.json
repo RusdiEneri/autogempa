@@ -1,5 +1,18 @@
 [
   {
+    "id": "08 Okt 2026 15:07:56 WIB",
+    "tanggal": "08 Okt 2026",
+    "jam": "15:07:56 WIB",
+    "magnitude": 5.8,
+    "wilayah": "Pusat gempa berada di laut 230 km barat laut Tahuna - Kep.Sangihe",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "10 km",
+    "koordinat": "5.66,125.19",
+    "dirasakan": "II Tahuna",
+    "shakemap": "20261008150756.mmi.jpg",
+    "detectedAt": "2026-10-08T10:19:24.287Z"
+  },
+  {
     "id": "08 Okt 2026 09:30:17 WIB",
     "tanggal": "08 Okt 2026",
     "jam": "09:30:17 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "II - III Pelabuhan Ratu, II - III Cianjur, II Cidolog",
     "shakemap": "20261004083156.mmi.jpg",
     "detectedAt": "2026-10-04T07:23:32.523Z"
-  },
-  {
-    "id": "04 Okt 2026 06:37:31 WIB",
-    "tanggal": "04 Okt 2026",
-    "jam": "06:37:31 WIB",
-    "magnitude": 5.9,
-    "wilayah": "Pusat gempa berada di laut 68 km barat daya Calang",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "26 km",
-    "koordinat": "4.56,94.97",
-    "dirasakan": "III-IV Aceh Besar, III Banda Aceh, III Aceh Barat, II Aceh Selatan, II Pidie Jaya , II Bener Meriah, II Nagan Raya, II Aceh Tengah, II Sigli",
-    "shakemap": "20261004063731.mmi.jpg",
-    "detectedAt": "2026-10-04T01:42:38.487Z"
   }
 ]

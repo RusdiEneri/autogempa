@@ -2,7 +2,7 @@
 
 > Monitor gempa bumi real-time untuk wilayah Indonesia. Data diambil otomatis dari **BMKG** setiap 5 menit oleh GitHub Actions, lalu ditampilkan lengkap di README ini beserta peta guncangannya (shakemap).
 
-🕒 **Update otomatis terakhir:** Kamis, 08 Oktober 2026 pukul 10.00.19
+🕒 **Update otomatis terakhir:** Kamis, 08 Oktober 2026 pukul 17.19.24
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Parameter | Detail |
 | --- | --- |
-| 📊 **Magnitudo** | M 3.9 |
-| 📍 **Wilayah** | Pusat gempa berada di darat 6 km Timur Laut Waikabubak |
-| 🕒 **Waktu** | 08 Okt 2026, 09:30:17 WIB |
-| 🧭 **Koordinat** | -9.62,119.44 |
-| 📏 **Kedalaman** | 5 km |
+| 📊 **Magnitudo** | M 5.8 |
+| 📍 **Wilayah** | Pusat gempa berada di laut 230 km barat laut Tahuna - Kep.Sangihe |
+| 🕒 **Waktu** | 08 Okt 2026, 15:07:56 WIB |
+| 🧭 **Koordinat** | 5.66,125.19 |
+| 📏 **Kedalaman** | 10 km |
 | 🌊 **Potensi** | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 📡 **Dirasakan** | IV-V Kab. Sumba Barat, III-IV Kab. Sumba Tengah |
+| 📡 **Dirasakan** | II Tahuna |
 | 🔗 **Sumber** | [BMKG — InfoGempa Realtime](https://www.bmkg.go.id/gempabumi) |
 
 ### 🗺️ Peta Guncangan (Shakemap)
@@ -29,6 +29,7 @@
 
 | Waktu | Magnitudo | Wilayah | Kedalaman | Potensi |
 | --- | --- | --- | --- | --- |
+| 08 Okt 2026 15:07:56 WIB | **M 5.8** | Pusat gempa berada di laut 230 km barat laut Tahuna - Kep.Sangihe | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 08 Okt 2026 09:30:17 WIB | **M 3.9** | Pusat gempa berada di darat 6 km Timur Laut Waikabubak | 5 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 07 Okt 2026 19:03:42 WIB | **M 4.2** | Pusat gempa berada di laut 39 km Utara Mbay-Nagekeo | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 07 Okt 2026 12:44:23 WIB | **M 4** | Pusat gempa berada di laut 13 km Timur Manokwari | 16 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
@@ -43,7 +44,6 @@
 | 04 Okt 2026 21:59:43 WIB | **M 4.8** | Pusat gempa berada di laut 13 km Selatan Kodi-Sumba Barat Daya | 21 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 04 Okt 2026 19:36:47 WIB | **M 4.6** | Pusat gempa berada di laut 149 km selatan Kab. Malang | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 04 Okt 2026 08:31:56 WIB | **M 4.2** | Pusat gempa berada di laut 61 km selatan Kab. Sukabumi | 36 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 04 Okt 2026 06:37:31 WIB | **M 5.9** | Pusat gempa berada di laut 68 km barat daya Calang | 26 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 
 ---
 
