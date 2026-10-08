@@ -1,5 +1,18 @@
 [
   {
+    "id": "08 Okt 2026 09:30:17 WIB",
+    "tanggal": "08 Okt 2026",
+    "jam": "09:30:17 WIB",
+    "magnitude": 3.9,
+    "wilayah": "Pusat gempa berada di darat 6 km Timur Laut Waikabubak",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "5 km",
+    "koordinat": "-9.62,119.44",
+    "dirasakan": "IV-V Kab. Sumba Barat, III-IV Kab. Sumba Tengah",
+    "shakemap": "20261008093017.mmi.jpg",
+    "detectedAt": "2026-10-08T03:00:18.944Z"
+  },
+  {
     "id": "07 Okt 2026 19:03:42 WIB",
     "tanggal": "07 Okt 2026",
     "jam": "19:03:42 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III-IV Aceh Besar, III Banda Aceh, III Aceh Barat, II Aceh Selatan, II Pidie Jaya , II Bener Meriah, II Nagan Raya, II Aceh Tengah, II Sigli",
     "shakemap": "20261004063731.mmi.jpg",
     "detectedAt": "2026-10-04T01:42:38.487Z"
-  },
-  {
-    "id": "02 Okt 2026 18:34:10 WIB",
-    "tanggal": "02 Okt 2026",
-    "jam": "18:34:10 WIB",
-    "magnitude": 2.1,
-    "wilayah": "Pusat gempa berada di darat 2 km Barat Kolaka",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "5 km",
-    "koordinat": "-4.06,121.60",
-    "dirasakan": "II - III Kolaka",
-    "shakemap": "20261002183410.mmi.jpg",
-    "detectedAt": "2026-10-02T14:52:31.270Z"
   }
 ]
