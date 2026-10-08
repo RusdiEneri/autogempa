@@ -2,7 +2,7 @@
 
 > Monitor gempa bumi real-time untuk wilayah Indonesia. Data diambil otomatis dari **BMKG** setiap 5 menit oleh GitHub Actions, lalu ditampilkan lengkap di README ini beserta peta guncangannya (shakemap).
 
-🕒 **Update otomatis terakhir:** Jumat, 09 Oktober 2026 pukul 00.26.20
+🕒 **Update otomatis terakhir:** Jumat, 09 Oktober 2026 pukul 05.16.18
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Parameter | Detail |
 | --- | --- |
-| 📊 **Magnitudo** | M 4.4 |
-| 📍 **Wilayah** | Pusat gempa berada di laut 71 km Barat Bengkulu Utara |
-| 🕒 **Waktu** | 08 Okt 2026, 22:23:47 WIB |
-| 🧭 **Koordinat** | -3.51,101.56 |
-| 📏 **Kedalaman** | 10 km |
+| 📊 **Magnitudo** | M 4.7 |
+| 📍 **Wilayah** | Pusat gempa berada di laut 39 km utara Waingapu |
+| 🕒 **Waktu** | 09 Okt 2026, 01:06:02 WIB |
+| 🧭 **Koordinat** | -9.31,120.21 |
+| 📏 **Kedalaman** | 59 km |
 | 🌊 **Potensi** | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 📡 **Dirasakan** | III Kota Bengkulu, III Kab. Bengkulu Tengah, III Kab. Bengkulu Utara, III Kab. Mukomuko, III Kab. Seluma |
+| 📡 **Dirasakan** | III Kab. Sumba Timur |
 | 🔗 **Sumber** | [BMKG — InfoGempa Realtime](https://www.bmkg.go.id/gempabumi) |
 
 ### 🗺️ Peta Guncangan (Shakemap)
@@ -29,6 +29,7 @@
 
 | Waktu | Magnitudo | Wilayah | Kedalaman | Potensi |
 | --- | --- | --- | --- | --- |
+| 09 Okt 2026 01:06:02 WIB | **M 4.7** | Pusat gempa berada di laut 39 km utara Waingapu | 59 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 08 Okt 2026 22:23:47 WIB | **M 4.4** | Pusat gempa berada di laut 71 km Barat Bengkulu Utara | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 08 Okt 2026 15:07:56 WIB | **M 5.8** | Pusat gempa berada di laut 230 km barat laut Tahuna - Kep.Sangihe | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 08 Okt 2026 09:30:17 WIB | **M 3.9** | Pusat gempa berada di darat 6 km Timur Laut Waikabubak | 5 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
@@ -43,7 +44,6 @@
 | 05 Okt 2026 09:16:32 WIB | **M 4.6** | Pusat gempa berada di laut 112 km selatan Lumajang | 4 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 05 Okt 2026 06:19:11 WIB | **M 3.9** | Pusat gempa berada di laut 6 Km selatan Kodi, Sumba Barat Daya | 14 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 04 Okt 2026 21:59:43 WIB | **M 4.8** | Pusat gempa berada di laut 13 km Selatan Kodi-Sumba Barat Daya | 21 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 04 Okt 2026 19:36:47 WIB | **M 4.6** | Pusat gempa berada di laut 149 km selatan Kab. Malang | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 
 ---
 
