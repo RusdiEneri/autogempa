@@ -1,5 +1,18 @@
 [
   {
+    "id": "08 Okt 2026 22:23:47 WIB",
+    "tanggal": "08 Okt 2026",
+    "jam": "22:23:47 WIB",
+    "magnitude": 4.4,
+    "wilayah": "Pusat gempa berada di laut 71 km Barat Bengkulu Utara",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "10 km",
+    "koordinat": "-3.51,101.56",
+    "dirasakan": "III Kota Bengkulu, III Kab. Bengkulu Tengah, III Kab. Bengkulu Utara, III Kab. Mukomuko, III Kab. Seluma",
+    "shakemap": "20261008222347.mmi.jpg",
+    "detectedAt": "2026-10-08T17:26:19.791Z"
+  },
+  {
     "id": "08 Okt 2026 15:07:56 WIB",
     "tanggal": "08 Okt 2026",
     "jam": "15:07:56 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III Malang, III Lumajang, II Tulungagung, II Blitar, II Jember",
     "shakemap": "20261004193647.mmi.jpg",
     "detectedAt": "2026-10-04T13:19:24.632Z"
-  },
-  {
-    "id": "04 Okt 2026 08:31:56 WIB",
-    "tanggal": "04 Okt 2026",
-    "jam": "08:31:56 WIB",
-    "magnitude": 4.2,
-    "wilayah": "Pusat gempa berada di laut 61 km selatan Kab. Sukabumi",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "36 km",
-    "koordinat": "-7.51,106.73",
-    "dirasakan": "II - III Pelabuhan Ratu, II - III Cianjur, II Cidolog",
-    "shakemap": "20261004083156.mmi.jpg",
-    "detectedAt": "2026-10-04T07:23:32.523Z"
   }
 ]
