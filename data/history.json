@@ -1,5 +1,18 @@
 [
   {
+    "id": "09 Okt 2026 17:34:55 WIB",
+    "tanggal": "09 Okt 2026",
+    "jam": "17:34:55 WIB",
+    "magnitude": 2.4,
+    "wilayah": "Pusat gempa berada di darat 12 km barat Kendari",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "3 km",
+    "koordinat": "-3.96,122.40",
+    "dirasakan": "II - III Ranometo",
+    "shakemap": "20261009173455.mmi.jpg",
+    "detectedAt": "2026-10-09T16:08:49.083Z"
+  },
+  {
     "id": "09 Okt 2026 12:11:04 WIB",
     "tanggal": "09 Okt 2026",
     "jam": "12:11:04 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III Lumajang, II Blitar, II Malang, II Jember",
     "shakemap": "20261005091632.mmi.jpg",
     "detectedAt": "2026-10-05T08:55:41.506Z"
-  },
-  {
-    "id": "05 Okt 2026 06:19:11 WIB",
-    "tanggal": "05 Okt 2026",
-    "jam": "06:19:11 WIB",
-    "magnitude": 3.9,
-    "wilayah": "Pusat gempa berada di laut 6 Km selatan Kodi, Sumba Barat Daya",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "14 km",
-    "koordinat": "-9.64,119.00",
-    "dirasakan": "III Tambolaka",
-    "shakemap": "20261005061911.mmi.jpg",
-    "detectedAt": "2026-10-05T02:08:31.837Z"
   }
 ]
