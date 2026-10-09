@@ -1,5 +1,18 @@
 [
   {
+    "id": "09 Okt 2026 12:11:04 WIB",
+    "tanggal": "09 Okt 2026",
+    "jam": "12:11:04 WIB",
+    "magnitude": 5.1,
+    "wilayah": "Pusat gempa berada di laut 125 km Tenggara Bitung",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "10 km",
+    "koordinat": "0.77,126.03",
+    "dirasakan": "III Tondano, III Bitung",
+    "shakemap": "20261009121104.mmi.jpg",
+    "detectedAt": "2026-10-09T09:08:04.576Z"
+  },
+  {
     "id": "09 Okt 2026 01:06:02 WIB",
     "tanggal": "09 Okt 2026",
     "jam": "01:06:02 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III Tambolaka",
     "shakemap": "20261005061911.mmi.jpg",
     "detectedAt": "2026-10-05T02:08:31.837Z"
-  },
-  {
-    "id": "04 Okt 2026 21:59:43 WIB",
-    "tanggal": "04 Okt 2026",
-    "jam": "21:59:43 WIB",
-    "magnitude": 4.8,
-    "wilayah": "Pusat gempa berada di laut 13 km Selatan Kodi-Sumba Barat Daya",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "21 km",
-    "koordinat": "-9.71,118.98",
-    "dirasakan": "III Tambolaka, II-III Waingapu",
-    "shakemap": "20261004215943.mmi.jpg",
-    "detectedAt": "2026-10-04T17:39:28.983Z"
   }
 ]
