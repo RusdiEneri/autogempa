@@ -1,5 +1,18 @@
 [
   {
+    "id": "10 Okt 2026 19:28:18 WIB",
+    "tanggal": "10 Okt 2026",
+    "jam": "19:28:18 WIB",
+    "magnitude": 4,
+    "wilayah": "Pusat gempa berada di laut 50 km selatan Aceh Singkil",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "9 km",
+    "koordinat": "1.91,97.96",
+    "dirasakan": "III Aceh Singkil",
+    "shakemap": "20261010192818.mmi.jpg",
+    "detectedAt": "2026-10-10T17:24:02.312Z"
+  },
+  {
     "id": "10 Okt 2026 18:53:23 WIB",
     "tanggal": "10 Okt 2026",
     "jam": "18:53:23 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "II Kab. Sumba Barat Daya",
     "shakemap": "20261006043804.mmi.jpg",
     "detectedAt": "2026-10-05T23:22:10.585Z"
-  },
-  {
-    "id": "05 Okt 2026 20:06:22 WIB",
-    "tanggal": "05 Okt 2026",
-    "jam": "20:06:22 WIB",
-    "magnitude": 3.8,
-    "wilayah": "Pusat gempa berada di darat 42 km timur laut Ruteng, Manggarai",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "8 km",
-    "koordinat": "-8.27,120.62",
-    "dirasakan": "II - III Kab. Manggarai",
-    "shakemap": "20261005200622.mmi.jpg",
-    "detectedAt": "2026-10-05T17:42:54.134Z"
   }
 ]
