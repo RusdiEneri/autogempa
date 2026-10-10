@@ -1,5 +1,18 @@
 [
   {
+    "id": "10 Okt 2026 18:53:23 WIB",
+    "tanggal": "10 Okt 2026",
+    "jam": "18:53:23 WIB",
+    "magnitude": 4.4,
+    "wilayah": "Pusat gempa berada di laut 100 km barat daya Pacitan",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "75 km",
+    "koordinat": "-8.98,110.69",
+    "dirasakan": "II Pacitan",
+    "shakemap": "20261010185323.mmi.jpg",
+    "detectedAt": "2026-10-10T12:22:23.243Z"
+  },
+  {
     "id": "09 Okt 2026 17:34:55 WIB",
     "tanggal": "09 Okt 2026",
     "jam": "17:34:55 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "II - III Kab. Manggarai",
     "shakemap": "20261005200622.mmi.jpg",
     "detectedAt": "2026-10-05T17:42:54.134Z"
-  },
-  {
-    "id": "05 Okt 2026 09:16:32 WIB",
-    "tanggal": "05 Okt 2026",
-    "jam": "09:16:32 WIB",
-    "magnitude": 4.6,
-    "wilayah": "Pusat gempa berada di laut 112 km selatan Lumajang",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "4 km",
-    "koordinat": "-9.13,113.07",
-    "dirasakan": "III Lumajang, II Blitar, II Malang, II Jember",
-    "shakemap": "20261005091632.mmi.jpg",
-    "detectedAt": "2026-10-05T08:55:41.506Z"
   }
 ]

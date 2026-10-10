@@ -2,7 +2,7 @@
 
 > Monitor gempa bumi real-time untuk wilayah Indonesia. Data diambil otomatis dari **BMKG** setiap 5 menit oleh GitHub Actions, lalu ditampilkan lengkap di README ini beserta peta guncangannya (shakemap).
 
-🕒 **Update otomatis terakhir:** Jumat, 09 Oktober 2026 pukul 23.08.49
+🕒 **Update otomatis terakhir:** Sabtu, 10 Oktober 2026 pukul 19.22.23
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Parameter | Detail |
 | --- | --- |
-| 📊 **Magnitudo** | M 2.4 |
-| 📍 **Wilayah** | Pusat gempa berada di darat 12 km barat Kendari |
-| 🕒 **Waktu** | 09 Okt 2026, 17:34:55 WIB |
-| 🧭 **Koordinat** | -3.96,122.40 |
-| 📏 **Kedalaman** | 3 km |
+| 📊 **Magnitudo** | M 4.4 |
+| 📍 **Wilayah** | Pusat gempa berada di laut 100 km barat daya Pacitan |
+| 🕒 **Waktu** | 10 Okt 2026, 18:53:23 WIB |
+| 🧭 **Koordinat** | -8.98,110.69 |
+| 📏 **Kedalaman** | 75 km |
 | 🌊 **Potensi** | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 📡 **Dirasakan** | II - III Ranometo |
+| 📡 **Dirasakan** | II Pacitan |
 | 🔗 **Sumber** | [BMKG — InfoGempa Realtime](https://www.bmkg.go.id/gempabumi) |
 
 ### 🗺️ Peta Guncangan (Shakemap)
@@ -29,6 +29,7 @@
 
 | Waktu | Magnitudo | Wilayah | Kedalaman | Potensi |
 | --- | --- | --- | --- | --- |
+| 10 Okt 2026 18:53:23 WIB | **M 4.4** | Pusat gempa berada di laut 100 km barat daya Pacitan | 75 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 09 Okt 2026 17:34:55 WIB | **M 2.4** | Pusat gempa berada di darat 12 km barat Kendari | 3 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 09 Okt 2026 12:11:04 WIB | **M 5.1** | Pusat gempa berada di laut 125 km Tenggara Bitung | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 09 Okt 2026 01:06:02 WIB | **M 4.7** | Pusat gempa berada di laut 39 km utara Waingapu | 59 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
@@ -43,7 +44,6 @@
 | 06 Okt 2026 10:42:45 WIB | **M 4.4** | Pusat gempa berada di laut 84 km Utara Ruteng | 21 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 06 Okt 2026 04:38:04 WIB | **M 4.6** | Pusat gempa berada di laut 14 km selatan Kodi, Sumba Barat Daya | 19 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 05 Okt 2026 20:06:22 WIB | **M 3.8** | Pusat gempa berada di darat 42 km timur laut Ruteng, Manggarai | 8 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 05 Okt 2026 09:16:32 WIB | **M 4.6** | Pusat gempa berada di laut 112 km selatan Lumajang | 4 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 
 ---
 
