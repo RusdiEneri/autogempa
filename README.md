@@ -2,7 +2,7 @@
 
 > Monitor gempa bumi real-time untuk wilayah Indonesia. Data diambil otomatis dari **BMKG** setiap 5 menit oleh GitHub Actions, lalu ditampilkan lengkap di README ini beserta peta guncangannya (shakemap).
 
-🕒 **Update otomatis terakhir:** Minggu, 11 Oktober 2026 pukul 22.23.02
+🕒 **Update otomatis terakhir:** Senin, 12 Oktober 2026 pukul 06.07.45
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Parameter | Detail |
 | --- | --- |
-| 📊 **Magnitudo** | M 4 |
-| 📍 **Wilayah** | Pusat gempa berada di darat 5 km selatan Pasaman |
-| 🕒 **Waktu** | 11 Okt 2026, 17:17:12 WIB |
-| 🧭 **Koordinat** | 0.09,100.16 |
-| 📏 **Kedalaman** | 16 km |
+| 📊 **Magnitudo** | M 4.5 |
+| 📍 **Wilayah** | Pusat gempa berada di darat 7 km tenggara Deiyai |
+| 🕒 **Waktu** | 12 Okt 2026, 05:07:28 WIB |
+| 🧭 **Koordinat** | -4.08,136.34 |
+| 📏 **Kedalaman** | 10 km |
 | 🌊 **Potensi** | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 📡 **Dirasakan** | II - III Kota Padang Panjang, II - III Kota Bukittinggi, III Kabupaten Pasaman |
+| 📡 **Dirasakan** | III Enarotali |
 | 🔗 **Sumber** | [BMKG — InfoGempa Realtime](https://www.bmkg.go.id/gempabumi) |
 
 ### 🗺️ Peta Guncangan (Shakemap)
@@ -29,6 +29,7 @@
 
 | Waktu | Magnitudo | Wilayah | Kedalaman | Potensi |
 | --- | --- | --- | --- | --- |
+| 12 Okt 2026 05:07:28 WIB | **M 4.5** | Pusat gempa berada di darat 7 km tenggara Deiyai | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 11 Okt 2026 17:17:12 WIB | **M 4** | Pusat gempa berada di darat 5 km selatan Pasaman | 16 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 11 Okt 2026 10:30:20 WIB | **M 5.7** | 193 km BaratDaya KAB-SUKABUMI-JABAR | 10 km | Tidak berpotensi tsunami |
 | 10 Okt 2026 19:28:18 WIB | **M 4** | Pusat gempa berada di laut 50 km selatan Aceh Singkil | 9 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
@@ -43,7 +44,6 @@
 | 07 Okt 2026 12:44:23 WIB | **M 4** | Pusat gempa berada di laut 13 km Timur Manokwari | 16 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 07 Okt 2026 04:56:46 WIB | **M 4.8** | Pusat gempa berada di darat 31 km tenggara Yalimo | 50 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 07 Okt 2026 03:15:26 WIB | **M 5.2** | Pusat gempa berada di darat 9 km tenggara Lombok Barat | 92 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 06 Okt 2026 20:53:22 WIB | **M 3.9** | Pusat gempa berada di laut 35 km barat daya Sumur | 28 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 
 ---
 
