@@ -2,7 +2,7 @@
 
 > Monitor gempa bumi real-time untuk wilayah Indonesia. Data diambil otomatis dari **BMKG** setiap 5 menit oleh GitHub Actions, lalu ditampilkan lengkap di README ini beserta peta guncangannya (shakemap).
 
-🕒 **Update otomatis terakhir:** Minggu, 11 Oktober 2026 pukul 00.24.02
+🕒 **Update otomatis terakhir:** Minggu, 11 Oktober 2026 pukul 15.58.26
 
 ---
 
@@ -10,13 +10,12 @@
 
 | Parameter | Detail |
 | --- | --- |
-| 📊 **Magnitudo** | M 4 |
-| 📍 **Wilayah** | Pusat gempa berada di laut 50 km selatan Aceh Singkil |
-| 🕒 **Waktu** | 10 Okt 2026, 19:28:18 WIB |
-| 🧭 **Koordinat** | 1.91,97.96 |
-| 📏 **Kedalaman** | 9 km |
-| 🌊 **Potensi** | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 📡 **Dirasakan** | III Aceh Singkil |
+| 📊 **Magnitudo** | M 5.7 |
+| 📍 **Wilayah** | 193 km BaratDaya KAB-SUKABUMI-JABAR |
+| 🕒 **Waktu** | 11 Okt 2026, 10:30:20 WIB |
+| 🧭 **Koordinat** | -8.73,106.47 |
+| 📏 **Kedalaman** | 10 km |
+| 🌊 **Potensi** | Tidak berpotensi tsunami |
 | 🔗 **Sumber** | [BMKG — InfoGempa Realtime](https://www.bmkg.go.id/gempabumi) |
 
 ### 🗺️ Peta Guncangan (Shakemap)
@@ -29,6 +28,7 @@
 
 | Waktu | Magnitudo | Wilayah | Kedalaman | Potensi |
 | --- | --- | --- | --- | --- |
+| 11 Okt 2026 10:30:20 WIB | **M 5.7** | 193 km BaratDaya KAB-SUKABUMI-JABAR | 10 km | Tidak berpotensi tsunami |
 | 10 Okt 2026 19:28:18 WIB | **M 4** | Pusat gempa berada di laut 50 km selatan Aceh Singkil | 9 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 10 Okt 2026 18:53:23 WIB | **M 4.4** | Pusat gempa berada di laut 100 km barat daya Pacitan | 75 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 09 Okt 2026 17:34:55 WIB | **M 2.4** | Pusat gempa berada di darat 12 km barat Kendari | 3 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
@@ -43,7 +43,6 @@
 | 07 Okt 2026 03:15:26 WIB | **M 5.2** | Pusat gempa berada di darat 9 km tenggara Lombok Barat | 92 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 06 Okt 2026 20:53:22 WIB | **M 3.9** | Pusat gempa berada di laut 35 km barat daya Sumur | 28 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 06 Okt 2026 10:42:45 WIB | **M 4.4** | Pusat gempa berada di laut 84 km Utara Ruteng | 21 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 06 Okt 2026 04:38:04 WIB | **M 4.6** | Pusat gempa berada di laut 14 km selatan Kodi, Sumba Barat Daya | 19 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 
 ---
 

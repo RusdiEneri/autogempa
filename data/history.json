@@ -1,5 +1,18 @@
 [
   {
+    "id": "11 Okt 2026 10:30:20 WIB",
+    "tanggal": "11 Okt 2026",
+    "jam": "10:30:20 WIB",
+    "magnitude": 5.7,
+    "wilayah": "193 km BaratDaya KAB-SUKABUMI-JABAR",
+    "potensi": "Tidak berpotensi tsunami",
+    "kedalaman": "10 km",
+    "koordinat": "-8.73,106.47",
+    "dirasakan": null,
+    "shakemap": "20261011103316.mmi.jpg",
+    "detectedAt": "2026-10-11T08:58:25.923Z"
+  },
+  {
     "id": "10 Okt 2026 19:28:18 WIB",
     "tanggal": "10 Okt 2026",
     "jam": "19:28:18 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "II - III Kab. Manggarai",
     "shakemap": "20261006104245.mmi.jpg",
     "detectedAt": "2026-10-06T10:10:46.514Z"
-  },
-  {
-    "id": "06 Okt 2026 04:38:04 WIB",
-    "tanggal": "06 Okt 2026",
-    "jam": "04:38:04 WIB",
-    "magnitude": 4.6,
-    "wilayah": "Pusat gempa berada di laut 14 km selatan Kodi, Sumba Barat Daya",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "19 km",
-    "koordinat": "-9.72,118.96",
-    "dirasakan": "II Kab. Sumba Barat Daya",
-    "shakemap": "20261006043804.mmi.jpg",
-    "detectedAt": "2026-10-05T23:22:10.585Z"
   }
 ]
