@@ -1,5 +1,18 @@
 [
   {
+    "id": "12 Okt 2026 12:28:13 WIB",
+    "tanggal": "12 Okt 2026",
+    "jam": "12:28:13 WIB",
+    "magnitude": 4.1,
+    "wilayah": "Pusat gempa berada di laut 44 km selatan Kab. Blitar",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "101 km",
+    "koordinat": "-8.53,112.27",
+    "dirasakan": "III Malang, III Blitar, II Trenggalek, II Lumajang",
+    "shakemap": "20261012122813.mmi.jpg",
+    "detectedAt": "2026-10-12T09:24:17.162Z"
+  },
+  {
     "id": "12 Okt 2026 05:07:28 WIB",
     "tanggal": "12 Okt 2026",
     "jam": "05:07:28 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "II Wamena",
     "shakemap": "20261007045646.mmi.jpg",
     "detectedAt": "2026-10-07T00:46:37.234Z"
-  },
-  {
-    "id": "07 Okt 2026 03:15:26 WIB",
-    "tanggal": "07 Okt 2026",
-    "jam": "03:15:26 WIB",
-    "magnitude": 5.2,
-    "wilayah": "Pusat gempa berada di darat 9 km tenggara Lombok Barat",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "92 km",
-    "koordinat": "-8.77,116.14",
-    "dirasakan": "IV-V Mataram, III-IV Kab. Lombok Tengah, III Kab. Lombok Timur, III Kab. Lombok Utara, III Sumbawa Barat, III Sumbawa, II-III Kuta, II Denpasar",
-    "shakemap": "20261007031526.mmi.jpg",
-    "detectedAt": "2026-10-06T21:17:03.262Z"
   }
 ]
