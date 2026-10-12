@@ -1,5 +1,18 @@
 [
   {
+    "id": "12 Okt 2026 23:56:33 WIB",
+    "tanggal": "12 Okt 2026",
+    "jam": "23:56:33 WIB",
+    "magnitude": 4.3,
+    "wilayah": "Pusat gempa berada di laut 19 km Selatan Kodi, Sumba Barat Daya",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "19 km",
+    "koordinat": "-9.75,118.93",
+    "dirasakan": "III-IV Kab. Sumba Barat Daya",
+    "shakemap": "20261012235633.mmi.jpg",
+    "detectedAt": "2026-10-12T19:10:43.357Z"
+  },
+  {
     "id": "12 Okt 2026 12:28:13 WIB",
     "tanggal": "12 Okt 2026",
     "jam": "12:28:13 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III Manokwari",
     "shakemap": "20261007124423.mmi.jpg",
     "detectedAt": "2026-10-07T06:33:28.650Z"
-  },
-  {
-    "id": "07 Okt 2026 04:56:46 WIB",
-    "tanggal": "07 Okt 2026",
-    "jam": "04:56:46 WIB",
-    "magnitude": 4.8,
-    "wilayah": "Pusat gempa berada di darat 31 km tenggara Yalimo",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "50 km",
-    "koordinat": "-3.80,139.66",
-    "dirasakan": "II Wamena",
-    "shakemap": "20261007045646.mmi.jpg",
-    "detectedAt": "2026-10-07T00:46:37.234Z"
   }
 ]
