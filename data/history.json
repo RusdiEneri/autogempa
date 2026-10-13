@@ -1,5 +1,18 @@
 [
   {
+    "id": "13 Okt 2026 17:22:02 WIB",
+    "tanggal": "13 Okt 2026",
+    "jam": "17:22:02 WIB",
+    "magnitude": 4.5,
+    "wilayah": "Pusat gempa berada di laut 103 km selatan Pacitan",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "10 km",
+    "koordinat": "-9.06,111.37",
+    "dirasakan": "III Trenggalek",
+    "shakemap": "20261013172202.mmi.jpg",
+    "detectedAt": "2026-10-13T15:18:45.002Z"
+  },
+  {
     "id": "13 Okt 2026 13:42:28 WIB",
     "tanggal": "13 Okt 2026",
     "jam": "13:42:28 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "IV-V Kab. Sumba Barat, III-IV Kab. Sumba Tengah",
     "shakemap": "20261008093017.mmi.jpg",
     "detectedAt": "2026-10-08T03:00:18.944Z"
-  },
-  {
-    "id": "07 Okt 2026 19:03:42 WIB",
-    "tanggal": "07 Okt 2026",
-    "jam": "19:03:42 WIB",
-    "magnitude": 4.2,
-    "wilayah": "Pusat gempa berada di laut 39 km Utara Mbay-Nagekeo",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "10 km",
-    "koordinat": "-8.35,121.44",
-    "dirasakan": "II - III Kab. Ende",
-    "shakemap": "20261007190342.mmi.jpg",
-    "detectedAt": "2026-10-07T13:49:28.212Z"
   }
 ]
