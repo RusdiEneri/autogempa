@@ -2,7 +2,7 @@
 
 > Monitor gempa bumi real-time untuk wilayah Indonesia. Data diambil otomatis dari **BMKG** setiap 5 menit oleh GitHub Actions, lalu ditampilkan lengkap di README ini beserta peta guncangannya (shakemap).
 
-🕒 **Update otomatis terakhir:** Selasa, 13 Oktober 2026 pukul 02.10.43
+🕒 **Update otomatis terakhir:** Selasa, 13 Oktober 2026 pukul 14.48.58
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Parameter | Detail |
 | --- | --- |
-| 📊 **Magnitudo** | M 4.3 |
-| 📍 **Wilayah** | Pusat gempa berada di laut 19 km Selatan Kodi, Sumba Barat Daya |
-| 🕒 **Waktu** | 12 Okt 2026, 23:56:33 WIB |
-| 🧭 **Koordinat** | -9.75,118.93 |
-| 📏 **Kedalaman** | 19 km |
+| 📊 **Magnitudo** | M 4.6 |
+| 📍 **Wilayah** | Pusat gempa berada di laut 15 km selatan Kodi-Sumba Barat Daya |
+| 🕒 **Waktu** | 13 Okt 2026, 13:42:28 WIB |
+| 🧭 **Koordinat** | -9.75,119.00 |
+| 📏 **Kedalaman** | 16 km |
 | 🌊 **Potensi** | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 📡 **Dirasakan** | III-IV Kab. Sumba Barat Daya |
+| 📡 **Dirasakan** | III Kab. Sumba Barat Daya |
 | 🔗 **Sumber** | [BMKG — InfoGempa Realtime](https://www.bmkg.go.id/gempabumi) |
 
 ### 🗺️ Peta Guncangan (Shakemap)
@@ -29,6 +29,7 @@
 
 | Waktu | Magnitudo | Wilayah | Kedalaman | Potensi |
 | --- | --- | --- | --- | --- |
+| 13 Okt 2026 13:42:28 WIB | **M 4.6** | Pusat gempa berada di laut 15 km selatan Kodi-Sumba Barat Daya | 16 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 12 Okt 2026 23:56:33 WIB | **M 4.3** | Pusat gempa berada di laut 19 km Selatan Kodi, Sumba Barat Daya | 19 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 12 Okt 2026 12:28:13 WIB | **M 4.1** | Pusat gempa berada di laut 44 km selatan Kab. Blitar | 101 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 12 Okt 2026 05:07:28 WIB | **M 4.5** | Pusat gempa berada di darat 7 km tenggara Deiyai | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
@@ -43,7 +44,6 @@
 | 08 Okt 2026 15:07:56 WIB | **M 5.8** | Pusat gempa berada di laut 230 km barat laut Tahuna - Kep.Sangihe | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 08 Okt 2026 09:30:17 WIB | **M 3.9** | Pusat gempa berada di darat 6 km Timur Laut Waikabubak | 5 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 07 Okt 2026 19:03:42 WIB | **M 4.2** | Pusat gempa berada di laut 39 km Utara Mbay-Nagekeo | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 07 Okt 2026 12:44:23 WIB | **M 4** | Pusat gempa berada di laut 13 km Timur Manokwari | 16 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 
 ---
 
