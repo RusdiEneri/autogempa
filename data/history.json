@@ -1,5 +1,18 @@
 [
   {
+    "id": "14 Okt 2026 17:30:57 WIB",
+    "tanggal": "14 Okt 2026",
+    "jam": "17:30:57 WIB",
+    "magnitude": 3.8,
+    "wilayah": "Pusat gempa berada di laut 53 km utara Ruteng, Manggarai",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "10 km",
+    "koordinat": "-8.14,120.56",
+    "dirasakan": "II - III Kab. Manggarai",
+    "shakemap": "20261014173057.mmi.jpg",
+    "detectedAt": "2026-10-14T14:18:38.144Z"
+  },
+  {
     "id": "13 Okt 2026 17:22:02 WIB",
     "tanggal": "13 Okt 2026",
     "jam": "17:22:02 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "II Tahuna",
     "shakemap": "20261008150756.mmi.jpg",
     "detectedAt": "2026-10-08T10:19:24.287Z"
-  },
-  {
-    "id": "08 Okt 2026 09:30:17 WIB",
-    "tanggal": "08 Okt 2026",
-    "jam": "09:30:17 WIB",
-    "magnitude": 3.9,
-    "wilayah": "Pusat gempa berada di darat 6 km Timur Laut Waikabubak",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "5 km",
-    "koordinat": "-9.62,119.44",
-    "dirasakan": "IV-V Kab. Sumba Barat, III-IV Kab. Sumba Tengah",
-    "shakemap": "20261008093017.mmi.jpg",
-    "detectedAt": "2026-10-08T03:00:18.944Z"
   }
 ]
