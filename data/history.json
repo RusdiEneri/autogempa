@@ -1,5 +1,18 @@
 [
   {
+    "id": "15 Okt 2026 22:32:38 WIB",
+    "tanggal": "15 Okt 2026",
+    "jam": "22:32:38 WIB",
+    "magnitude": 2.7,
+    "wilayah": "Pusat gempa berada di darat 21 km barat Kab. Garut",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "4 km",
+    "koordinat": "-7.22,107.71",
+    "dirasakan": "III Darajat, III Pasirwangi",
+    "shakemap": "20261015223238.mmi.jpg",
+    "detectedAt": "2026-10-15T18:23:09.832Z"
+  },
+  {
     "id": "15 Okt 2026 17:58:23 WIB",
     "tanggal": "15 Okt 2026",
     "jam": "17:58:23 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III Kab. Sumba Timur",
     "shakemap": "20261009010602.mmi.jpg",
     "detectedAt": "2026-10-08T22:16:18.334Z"
-  },
-  {
-    "id": "08 Okt 2026 22:23:47 WIB",
-    "tanggal": "08 Okt 2026",
-    "jam": "22:23:47 WIB",
-    "magnitude": 4.4,
-    "wilayah": "Pusat gempa berada di laut 71 km Barat Bengkulu Utara",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "10 km",
-    "koordinat": "-3.51,101.56",
-    "dirasakan": "III Kota Bengkulu, III Kab. Bengkulu Tengah, III Kab. Bengkulu Utara, III Kab. Mukomuko, III Kab. Seluma",
-    "shakemap": "20261008222347.mmi.jpg",
-    "detectedAt": "2026-10-08T17:26:19.791Z"
   }
 ]
