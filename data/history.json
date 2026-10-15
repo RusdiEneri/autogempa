@@ -1,5 +1,18 @@
 [
   {
+    "id": "15 Okt 2026 17:58:23 WIB",
+    "tanggal": "15 Okt 2026",
+    "jam": "17:58:23 WIB",
+    "magnitude": 4.1,
+    "wilayah": "Pusat gempa berada di darat 26 km barat daya kota Bogor",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "5 km",
+    "koordinat": "-6.73,106.61",
+    "dirasakan": "IV Pamijahan, IV Kabandungan",
+    "shakemap": "20261015175823.mmi.jpg",
+    "detectedAt": "2026-10-15T14:18:38.727Z"
+  },
+  {
     "id": "14 Okt 2026 17:30:57 WIB",
     "tanggal": "14 Okt 2026",
     "jam": "17:30:57 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III Kota Bengkulu, III Kab. Bengkulu Tengah, III Kab. Bengkulu Utara, III Kab. Mukomuko, III Kab. Seluma",
     "shakemap": "20261008222347.mmi.jpg",
     "detectedAt": "2026-10-08T17:26:19.791Z"
-  },
-  {
-    "id": "08 Okt 2026 15:07:56 WIB",
-    "tanggal": "08 Okt 2026",
-    "jam": "15:07:56 WIB",
-    "magnitude": 5.8,
-    "wilayah": "Pusat gempa berada di laut 230 km barat laut Tahuna - Kep.Sangihe",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "10 km",
-    "koordinat": "5.66,125.19",
-    "dirasakan": "II Tahuna",
-    "shakemap": "20261008150756.mmi.jpg",
-    "detectedAt": "2026-10-08T10:19:24.287Z"
   }
 ]
