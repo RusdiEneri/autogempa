@@ -1,5 +1,18 @@
 [
   {
+    "id": "16 Okt 2026 10:21:55 WIB",
+    "tanggal": "16 Okt 2026",
+    "jam": "10:21:55 WIB",
+    "magnitude": 2.5,
+    "wilayah": "Pusat gempa berada di darat 21 km Barat Daya Kota Bogor",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "9 km",
+    "koordinat": "-6.69,106.63",
+    "dirasakan": "II Kabandungan",
+    "shakemap": "20261016102155.mmi.jpg",
+    "detectedAt": "2026-10-16T06:24:34.274Z"
+  },
+  {
     "id": "15 Okt 2026 22:32:38 WIB",
     "tanggal": "15 Okt 2026",
     "jam": "22:32:38 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III Tondano, III Bitung",
     "shakemap": "20261009121104.mmi.jpg",
     "detectedAt": "2026-10-09T09:08:04.576Z"
-  },
-  {
-    "id": "09 Okt 2026 01:06:02 WIB",
-    "tanggal": "09 Okt 2026",
-    "jam": "01:06:02 WIB",
-    "magnitude": 4.7,
-    "wilayah": "Pusat gempa berada di laut 39 km utara Waingapu",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "59 km",
-    "koordinat": "-9.31,120.21",
-    "dirasakan": "III Kab. Sumba Timur",
-    "shakemap": "20261009010602.mmi.jpg",
-    "detectedAt": "2026-10-08T22:16:18.334Z"
   }
 ]
