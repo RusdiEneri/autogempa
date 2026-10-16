@@ -1,5 +1,18 @@
 [
   {
+    "id": "16 Okt 2026 21:22:04 WIB",
+    "tanggal": "16 Okt 2026",
+    "jam": "21:22:04 WIB",
+    "magnitude": 2.3,
+    "wilayah": "Pusat gempa berada di darat 26 km Barat Daya Kota Bogor",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "18 km",
+    "koordinat": "-6.76,106.63",
+    "dirasakan": "II Leuwiliang",
+    "shakemap": "20261016212204.mmi.jpg",
+    "detectedAt": "2026-10-16T15:33:37.809Z"
+  },
+  {
     "id": "16 Okt 2026 10:21:55 WIB",
     "tanggal": "16 Okt 2026",
     "jam": "10:21:55 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "II - III Ranometo",
     "shakemap": "20261009173455.mmi.jpg",
     "detectedAt": "2026-10-09T16:08:49.083Z"
-  },
-  {
-    "id": "09 Okt 2026 12:11:04 WIB",
-    "tanggal": "09 Okt 2026",
-    "jam": "12:11:04 WIB",
-    "magnitude": 5.1,
-    "wilayah": "Pusat gempa berada di laut 125 km Tenggara Bitung",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "10 km",
-    "koordinat": "0.77,126.03",
-    "dirasakan": "III Tondano, III Bitung",
-    "shakemap": "20261009121104.mmi.jpg",
-    "detectedAt": "2026-10-09T09:08:04.576Z"
   }
 ]
