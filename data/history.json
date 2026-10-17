@@ -1,5 +1,18 @@
 [
   {
+    "id": "17 Okt 2026 22:45:27 WIB",
+    "tanggal": "17 Okt 2026",
+    "jam": "22:45:27 WIB",
+    "magnitude": 2.6,
+    "wilayah": "Pusat gempa berada di darat 39 km selatan Morowali Utara",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "5 km",
+    "koordinat": "-1.98,121.33",
+    "dirasakan": "II - III Kolonodale",
+    "shakemap": "20261017224527.mmi.jpg",
+    "detectedAt": "2026-10-17T17:58:15.697Z"
+  },
+  {
     "id": "17 Okt 2026 19:46:17 WIB",
     "tanggal": "17 Okt 2026",
     "jam": "19:46:17 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": null,
     "shakemap": "20261011103316.mmi.jpg",
     "detectedAt": "2026-10-11T08:58:25.923Z"
-  },
-  {
-    "id": "10 Okt 2026 19:28:18 WIB",
-    "tanggal": "10 Okt 2026",
-    "jam": "19:28:18 WIB",
-    "magnitude": 4,
-    "wilayah": "Pusat gempa berada di laut 50 km selatan Aceh Singkil",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "9 km",
-    "koordinat": "1.91,97.96",
-    "dirasakan": "III Aceh Singkil",
-    "shakemap": "20261010192818.mmi.jpg",
-    "detectedAt": "2026-10-10T17:24:02.312Z"
   }
 ]
