@@ -1,5 +1,18 @@
 [
   {
+    "id": "17 Okt 2026 19:46:17 WIB",
+    "tanggal": "17 Okt 2026",
+    "jam": "19:46:17 WIB",
+    "magnitude": 4.6,
+    "wilayah": "Pusat gempa berada di laut 49 km Barat KODI-SUMBABARATDAYA",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "10 km",
+    "koordinat": "-9.52,118.54",
+    "dirasakan": "III Sumba Barat Daya, III Kota Bima, III Kab. Bima, III Sumbawa",
+    "shakemap": "20261017194617.mmi.jpg",
+    "detectedAt": "2026-10-17T15:46:31.503Z"
+  },
+  {
     "id": "17 Okt 2026 15:20:52 WIB",
     "tanggal": "17 Okt 2026",
     "jam": "15:20:52 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III Aceh Singkil",
     "shakemap": "20261010192818.mmi.jpg",
     "detectedAt": "2026-10-10T17:24:02.312Z"
-  },
-  {
-    "id": "10 Okt 2026 18:53:23 WIB",
-    "tanggal": "10 Okt 2026",
-    "jam": "18:53:23 WIB",
-    "magnitude": 4.4,
-    "wilayah": "Pusat gempa berada di laut 100 km barat daya Pacitan",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "75 km",
-    "koordinat": "-8.98,110.69",
-    "dirasakan": "II Pacitan",
-    "shakemap": "20261010185323.mmi.jpg",
-    "detectedAt": "2026-10-10T12:22:23.243Z"
   }
 ]

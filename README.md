@@ -2,7 +2,7 @@
 
 > Monitor gempa bumi real-time untuk wilayah Indonesia. Data diambil otomatis dari **BMKG** setiap 5 menit oleh GitHub Actions, lalu ditampilkan lengkap di README ini beserta peta guncangannya (shakemap).
 
-🕒 **Update otomatis terakhir:** Sabtu, 17 Oktober 2026 pukul 15.39.09
+🕒 **Update otomatis terakhir:** Sabtu, 17 Oktober 2026 pukul 22.46.31
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Parameter | Detail |
 | --- | --- |
-| 📊 **Magnitudo** | M 4.2 |
-| 📍 **Wilayah** | Pusat gempa berada di Laut 11 km TimurLaut Kota Sorong |
-| 🕒 **Waktu** | 17 Okt 2026, 15:20:52 WIB |
-| 🧭 **Koordinat** | -0.75,131.38 |
-| 📏 **Kedalaman** | 3 km |
+| 📊 **Magnitudo** | M 4.6 |
+| 📍 **Wilayah** | Pusat gempa berada di laut 49 km Barat KODI-SUMBABARATDAYA |
+| 🕒 **Waktu** | 17 Okt 2026, 19:46:17 WIB |
+| 🧭 **Koordinat** | -9.52,118.54 |
+| 📏 **Kedalaman** | 10 km |
 | 🌊 **Potensi** | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 📡 **Dirasakan** | III Sorong |
+| 📡 **Dirasakan** | III Sumba Barat Daya, III Kota Bima, III Kab. Bima, III Sumbawa |
 | 🔗 **Sumber** | [BMKG — InfoGempa Realtime](https://www.bmkg.go.id/gempabumi) |
 
 ### 🗺️ Peta Guncangan (Shakemap)
@@ -29,6 +29,7 @@
 
 | Waktu | Magnitudo | Wilayah | Kedalaman | Potensi |
 | --- | --- | --- | --- | --- |
+| 17 Okt 2026 19:46:17 WIB | **M 4.6** | Pusat gempa berada di laut 49 km Barat KODI-SUMBABARATDAYA | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 17 Okt 2026 15:20:52 WIB | **M 4.2** | Pusat gempa berada di Laut 11 km TimurLaut Kota Sorong | 3 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 16 Okt 2026 21:22:04 WIB | **M 2.3** | Pusat gempa berada di darat 26 km Barat Daya Kota Bogor | 18 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 16 Okt 2026 10:21:55 WIB | **M 2.5** | Pusat gempa berada di darat 21 km Barat Daya Kota Bogor | 9 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
@@ -43,7 +44,6 @@
 | 11 Okt 2026 17:17:12 WIB | **M 4** | Pusat gempa berada di darat 5 km selatan Pasaman | 16 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 11 Okt 2026 10:30:20 WIB | **M 5.7** | 193 km BaratDaya KAB-SUKABUMI-JABAR | 10 km | Tidak berpotensi tsunami |
 | 10 Okt 2026 19:28:18 WIB | **M 4** | Pusat gempa berada di laut 50 km selatan Aceh Singkil | 9 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 10 Okt 2026 18:53:23 WIB | **M 4.4** | Pusat gempa berada di laut 100 km barat daya Pacitan | 75 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 
 ---
 
