@@ -1,5 +1,18 @@
 [
   {
+    "id": "18 Okt 2026 15:02:46 WIB",
+    "tanggal": "18 Okt 2026",
+    "jam": "15:02:46 WIB",
+    "magnitude": 4.1,
+    "wilayah": "Pusat gempa berada di laut 56 km utara Ruteng",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "5 km",
+    "koordinat": "-8.14,120.29",
+    "dirasakan": "II-III Kab. Manggarai",
+    "shakemap": "20261018150246.mmi.jpg",
+    "detectedAt": "2026-10-18T08:56:41.970Z"
+  },
+  {
     "id": "17 Okt 2026 22:45:27 WIB",
     "tanggal": "17 Okt 2026",
     "jam": "22:45:27 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "II - III Kota Padang Panjang, II - III Kota Bukittinggi, III Kabupaten Pasaman",
     "shakemap": "20261011171712.mmi.jpg",
     "detectedAt": "2026-10-11T15:23:02.069Z"
-  },
-  {
-    "id": "11 Okt 2026 10:30:20 WIB",
-    "tanggal": "11 Okt 2026",
-    "jam": "10:30:20 WIB",
-    "magnitude": 5.7,
-    "wilayah": "193 km BaratDaya KAB-SUKABUMI-JABAR",
-    "potensi": "Tidak berpotensi tsunami",
-    "kedalaman": "10 km",
-    "koordinat": "-8.73,106.47",
-    "dirasakan": null,
-    "shakemap": "20261011103316.mmi.jpg",
-    "detectedAt": "2026-10-11T08:58:25.923Z"
   }
 ]
