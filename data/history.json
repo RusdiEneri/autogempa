@@ -1,5 +1,18 @@
 [
   {
+    "id": "19 Okt 2026 20:46:11 WIB",
+    "tanggal": "19 Okt 2026",
+    "jam": "20:46:11 WIB",
+    "magnitude": 4.2,
+    "wilayah": "Pusat gempa berada di darat 26 km Timur Laut Kab. Gayo Lues",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "5 km",
+    "koordinat": "4.16,97.51",
+    "dirasakan": "III Kab. Gayo Lues, II Aceh Timur",
+    "shakemap": "20261019204611.mmi.jpg",
+    "detectedAt": "2026-10-19T18:50:31.322Z"
+  },
+  {
     "id": "19 Okt 2026 19:06:02 WIB",
     "tanggal": "19 Okt 2026",
     "jam": "19:06:02 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III Malang, III Blitar, II Trenggalek, II Lumajang",
     "shakemap": "20261012122813.mmi.jpg",
     "detectedAt": "2026-10-12T09:24:17.162Z"
-  },
-  {
-    "id": "12 Okt 2026 05:07:28 WIB",
-    "tanggal": "12 Okt 2026",
-    "jam": "05:07:28 WIB",
-    "magnitude": 4.5,
-    "wilayah": "Pusat gempa berada di darat 7 km tenggara Deiyai",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "10 km",
-    "koordinat": "-4.08,136.34",
-    "dirasakan": "III Enarotali",
-    "shakemap": "20261012050728.mmi.jpg",
-    "detectedAt": "2026-10-11T23:07:45.199Z"
   }
 ]
