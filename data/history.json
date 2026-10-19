@@ -1,5 +1,18 @@
 [
   {
+    "id": "19 Okt 2026 19:06:02 WIB",
+    "tanggal": "19 Okt 2026",
+    "jam": "19:06:02 WIB",
+    "magnitude": 4.5,
+    "wilayah": "Pusat gempa berada di laut 60 km Utara Labuanbajo",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "6 km",
+    "koordinat": "-7.99,120.09",
+    "dirasakan": "II Kab. Manggarai",
+    "shakemap": "20261019190602.mmi.jpg",
+    "detectedAt": "2026-10-19T12:41:48.424Z"
+  },
+  {
     "id": "18 Okt 2026 15:02:46 WIB",
     "tanggal": "18 Okt 2026",
     "jam": "15:02:46 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III Enarotali",
     "shakemap": "20261012050728.mmi.jpg",
     "detectedAt": "2026-10-11T23:07:45.199Z"
-  },
-  {
-    "id": "11 Okt 2026 17:17:12 WIB",
-    "tanggal": "11 Okt 2026",
-    "jam": "17:17:12 WIB",
-    "magnitude": 4,
-    "wilayah": "Pusat gempa berada di darat 5 km selatan Pasaman",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "16 km",
-    "koordinat": "0.09,100.16",
-    "dirasakan": "II - III Kota Padang Panjang, II - III Kota Bukittinggi, III Kabupaten Pasaman",
-    "shakemap": "20261011171712.mmi.jpg",
-    "detectedAt": "2026-10-11T15:23:02.069Z"
   }
 ]

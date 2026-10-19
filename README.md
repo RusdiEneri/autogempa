@@ -2,7 +2,7 @@
 
 > Monitor gempa bumi real-time untuk wilayah Indonesia. Data diambil otomatis dari **BMKG** setiap 5 menit oleh GitHub Actions, lalu ditampilkan lengkap di README ini beserta peta guncangannya (shakemap).
 
-🕒 **Update otomatis terakhir:** Minggu, 18 Oktober 2026 pukul 15.56.42
+🕒 **Update otomatis terakhir:** Senin, 19 Oktober 2026 pukul 19.41.48
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Parameter | Detail |
 | --- | --- |
-| 📊 **Magnitudo** | M 4.1 |
-| 📍 **Wilayah** | Pusat gempa berada di laut 56 km utara Ruteng |
-| 🕒 **Waktu** | 18 Okt 2026, 15:02:46 WIB |
-| 🧭 **Koordinat** | -8.14,120.29 |
-| 📏 **Kedalaman** | 5 km |
+| 📊 **Magnitudo** | M 4.5 |
+| 📍 **Wilayah** | Pusat gempa berada di laut 60 km Utara Labuanbajo |
+| 🕒 **Waktu** | 19 Okt 2026, 19:06:02 WIB |
+| 🧭 **Koordinat** | -7.99,120.09 |
+| 📏 **Kedalaman** | 6 km |
 | 🌊 **Potensi** | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 📡 **Dirasakan** | II-III Kab. Manggarai |
+| 📡 **Dirasakan** | II Kab. Manggarai |
 | 🔗 **Sumber** | [BMKG — InfoGempa Realtime](https://www.bmkg.go.id/gempabumi) |
 
 ### 🗺️ Peta Guncangan (Shakemap)
@@ -29,6 +29,7 @@
 
 | Waktu | Magnitudo | Wilayah | Kedalaman | Potensi |
 | --- | --- | --- | --- | --- |
+| 19 Okt 2026 19:06:02 WIB | **M 4.5** | Pusat gempa berada di laut 60 km Utara Labuanbajo | 6 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 18 Okt 2026 15:02:46 WIB | **M 4.1** | Pusat gempa berada di laut 56 km utara Ruteng | 5 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 17 Okt 2026 22:45:27 WIB | **M 2.6** | Pusat gempa berada di darat 39 km selatan Morowali Utara | 5 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 17 Okt 2026 19:46:17 WIB | **M 4.6** | Pusat gempa berada di laut 49 km Barat KODI-SUMBABARATDAYA | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
@@ -43,7 +44,6 @@
 | 12 Okt 2026 23:56:33 WIB | **M 4.3** | Pusat gempa berada di laut 19 km Selatan Kodi, Sumba Barat Daya | 19 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 12 Okt 2026 12:28:13 WIB | **M 4.1** | Pusat gempa berada di laut 44 km selatan Kab. Blitar | 101 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 12 Okt 2026 05:07:28 WIB | **M 4.5** | Pusat gempa berada di darat 7 km tenggara Deiyai | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 11 Okt 2026 17:17:12 WIB | **M 4** | Pusat gempa berada di darat 5 km selatan Pasaman | 16 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 
 ---
 
