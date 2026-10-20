@@ -1,5 +1,18 @@
 [
   {
+    "id": "20 Okt 2026 18:28:11 WIB",
+    "tanggal": "20 Okt 2026",
+    "jam": "18:28:11 WIB",
+    "magnitude": 3.7,
+    "wilayah": "Pusat gempa berada di laut 6 km Barat Laut Pulau Saringi",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "15 km",
+    "koordinat": "-8.37,116.99",
+    "dirasakan": "III Kab. Sumbawa",
+    "shakemap": "20261020182811.mmi.jpg",
+    "detectedAt": "2026-10-20T15:43:36.382Z"
+  },
+  {
     "id": "20 Okt 2026 16:56:38 WIB",
     "tanggal": "20 Okt 2026",
     "jam": "16:56:38 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III Kab. Sumba Barat Daya",
     "shakemap": "20261013134228.mmi.jpg",
     "detectedAt": "2026-10-13T07:48:58.379Z"
-  },
-  {
-    "id": "12 Okt 2026 23:56:33 WIB",
-    "tanggal": "12 Okt 2026",
-    "jam": "23:56:33 WIB",
-    "magnitude": 4.3,
-    "wilayah": "Pusat gempa berada di laut 19 km Selatan Kodi, Sumba Barat Daya",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "19 km",
-    "koordinat": "-9.75,118.93",
-    "dirasakan": "III-IV Kab. Sumba Barat Daya",
-    "shakemap": "20261012235633.mmi.jpg",
-    "detectedAt": "2026-10-12T19:10:43.357Z"
   }
 ]
