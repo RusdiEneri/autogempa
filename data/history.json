@@ -1,5 +1,18 @@
 [
   {
+    "id": "20 Okt 2026 23:29:35 WIB",
+    "tanggal": "20 Okt 2026",
+    "jam": "23:29:35 WIB",
+    "magnitude": 5.4,
+    "wilayah": "Pusat gempa berada di laut 59 km barat daya Meulaboh",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "74 km",
+    "koordinat": "3.79,95.72",
+    "dirasakan": "III Kab. Aceh Selatan, III Kab. Simeulue, III-IV Kab. Aceh Barat, III-IV Kab. Aceh Barat Daya, II Kab. Bener Meriah, II-III Kota Banda Aceh, II-III Kab. Aceh Besar , III-IV Kab. Nagan Raya",
+    "shakemap": "20261020232935.mmi.jpg",
+    "detectedAt": "2026-10-20T19:36:54.984Z"
+  },
+  {
     "id": "20 Okt 2026 18:28:11 WIB",
     "tanggal": "20 Okt 2026",
     "jam": "18:28:11 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III Trenggalek",
     "shakemap": "20261013172202.mmi.jpg",
     "detectedAt": "2026-10-13T15:18:45.002Z"
-  },
-  {
-    "id": "13 Okt 2026 13:42:28 WIB",
-    "tanggal": "13 Okt 2026",
-    "jam": "13:42:28 WIB",
-    "magnitude": 4.6,
-    "wilayah": "Pusat gempa berada di laut 15 km selatan Kodi-Sumba Barat Daya",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "16 km",
-    "koordinat": "-9.75,119.00",
-    "dirasakan": "III Kab. Sumba Barat Daya",
-    "shakemap": "20261013134228.mmi.jpg",
-    "detectedAt": "2026-10-13T07:48:58.379Z"
   }
 ]
