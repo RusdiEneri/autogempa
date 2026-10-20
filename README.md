@@ -2,7 +2,7 @@
 
 > Monitor gempa bumi real-time untuk wilayah Indonesia. Data diambil otomatis dari **BMKG** setiap 5 menit oleh GitHub Actions, lalu ditampilkan lengkap di README ini beserta peta guncangannya (shakemap).
 
-🕒 **Update otomatis terakhir:** Selasa, 20 Oktober 2026 pukul 01.50.31
+🕒 **Update otomatis terakhir:** Selasa, 20 Oktober 2026 pukul 18.26.37
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Parameter | Detail |
 | --- | --- |
-| 📊 **Magnitudo** | M 4.2 |
-| 📍 **Wilayah** | Pusat gempa berada di darat 26 km Timur Laut Kab. Gayo Lues |
-| 🕒 **Waktu** | 19 Okt 2026, 20:46:11 WIB |
-| 🧭 **Koordinat** | 4.16,97.51 |
-| 📏 **Kedalaman** | 5 km |
+| 📊 **Magnitudo** | M 3.4 |
+| 📍 **Wilayah** | Pusat gempa berada di darat 30km Barat Daya Kab. Kupang |
+| 🕒 **Waktu** | 20 Okt 2026, 16:56:38 WIB |
+| 🧭 **Koordinat** | -10.19,123.71 |
+| 📏 **Kedalaman** | 4 km |
 | 🌊 **Potensi** | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 📡 **Dirasakan** | III Kab. Gayo Lues, II Aceh Timur |
+| 📡 **Dirasakan** | III Kab. Kupang, III Kota Kupang |
 | 🔗 **Sumber** | [BMKG — InfoGempa Realtime](https://www.bmkg.go.id/gempabumi) |
 
 ### 🗺️ Peta Guncangan (Shakemap)
@@ -29,6 +29,7 @@
 
 | Waktu | Magnitudo | Wilayah | Kedalaman | Potensi |
 | --- | --- | --- | --- | --- |
+| 20 Okt 2026 16:56:38 WIB | **M 3.4** | Pusat gempa berada di darat 30km Barat Daya Kab. Kupang | 4 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 19 Okt 2026 20:46:11 WIB | **M 4.2** | Pusat gempa berada di darat 26 km Timur Laut Kab. Gayo Lues | 5 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 19 Okt 2026 19:06:02 WIB | **M 4.5** | Pusat gempa berada di laut 60 km Utara Labuanbajo | 6 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 18 Okt 2026 15:02:46 WIB | **M 4.1** | Pusat gempa berada di laut 56 km utara Ruteng | 5 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
@@ -43,7 +44,6 @@
 | 13 Okt 2026 17:22:02 WIB | **M 4.5** | Pusat gempa berada di laut 103 km selatan Pacitan | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 13 Okt 2026 13:42:28 WIB | **M 4.6** | Pusat gempa berada di laut 15 km selatan Kodi-Sumba Barat Daya | 16 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 12 Okt 2026 23:56:33 WIB | **M 4.3** | Pusat gempa berada di laut 19 km Selatan Kodi, Sumba Barat Daya | 19 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 12 Okt 2026 12:28:13 WIB | **M 4.1** | Pusat gempa berada di laut 44 km selatan Kab. Blitar | 101 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 
 ---
 

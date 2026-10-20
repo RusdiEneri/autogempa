@@ -1,5 +1,18 @@
 [
   {
+    "id": "20 Okt 2026 16:56:38 WIB",
+    "tanggal": "20 Okt 2026",
+    "jam": "16:56:38 WIB",
+    "magnitude": 3.4,
+    "wilayah": "Pusat gempa berada di darat 30km Barat Daya Kab. Kupang",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "4 km",
+    "koordinat": "-10.19,123.71",
+    "dirasakan": "III Kab. Kupang, III Kota Kupang",
+    "shakemap": "20261020165638.mmi.jpg",
+    "detectedAt": "2026-10-20T11:26:36.739Z"
+  },
+  {
     "id": "19 Okt 2026 20:46:11 WIB",
     "tanggal": "19 Okt 2026",
     "jam": "20:46:11 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III-IV Kab. Sumba Barat Daya",
     "shakemap": "20261012235633.mmi.jpg",
     "detectedAt": "2026-10-12T19:10:43.357Z"
-  },
-  {
-    "id": "12 Okt 2026 12:28:13 WIB",
-    "tanggal": "12 Okt 2026",
-    "jam": "12:28:13 WIB",
-    "magnitude": 4.1,
-    "wilayah": "Pusat gempa berada di laut 44 km selatan Kab. Blitar",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "101 km",
-    "koordinat": "-8.53,112.27",
-    "dirasakan": "III Malang, III Blitar, II Trenggalek, II Lumajang",
-    "shakemap": "20261012122813.mmi.jpg",
-    "detectedAt": "2026-10-12T09:24:17.162Z"
   }
 ]
