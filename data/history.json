@@ -1,5 +1,18 @@
 [
   {
+    "id": "21 Okt 2026 14:44:15 WIB",
+    "tanggal": "21 Okt 2026",
+    "jam": "14:44:15 WIB",
+    "magnitude": 5.1,
+    "wilayah": "62 km TimurLaut MALUKUBRTDAYA",
+    "potensi": "Tidak berpotensi tsunami",
+    "kedalaman": "96 km",
+    "koordinat": "-7.75,128.18",
+    "dirasakan": null,
+    "shakemap": "20261021144703.mmi.jpg",
+    "detectedAt": "2026-10-21T10:29:03.550Z"
+  },
+  {
     "id": "20 Okt 2026 23:29:35 WIB",
     "tanggal": "20 Okt 2026",
     "jam": "23:29:35 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "II - III Kab. Manggarai",
     "shakemap": "20261014173057.mmi.jpg",
     "detectedAt": "2026-10-14T14:18:38.144Z"
-  },
-  {
-    "id": "13 Okt 2026 17:22:02 WIB",
-    "tanggal": "13 Okt 2026",
-    "jam": "17:22:02 WIB",
-    "magnitude": 4.5,
-    "wilayah": "Pusat gempa berada di laut 103 km selatan Pacitan",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "10 km",
-    "koordinat": "-9.06,111.37",
-    "dirasakan": "III Trenggalek",
-    "shakemap": "20261013172202.mmi.jpg",
-    "detectedAt": "2026-10-13T15:18:45.002Z"
   }
 ]
