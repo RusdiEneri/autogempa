@@ -1,5 +1,18 @@
 [
   {
+    "id": "21 Okt 2026 18:58:36 WIB",
+    "tanggal": "21 Okt 2026",
+    "jam": "18:58:36 WIB",
+    "magnitude": 2.5,
+    "wilayah": "Pusat gempa berada di darat 9 km utara Tanggamus",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "3 km",
+    "koordinat": "-5.40,104.68",
+    "dirasakan": "II Tanggamus",
+    "shakemap": "20261021185836.mmi.jpg",
+    "detectedAt": "2026-10-21T15:30:23.228Z"
+  },
+  {
     "id": "21 Okt 2026 14:44:15 WIB",
     "tanggal": "21 Okt 2026",
     "jam": "14:44:15 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "IV Pamijahan, IV Kabandungan",
     "shakemap": "20261015175823.mmi.jpg",
     "detectedAt": "2026-10-15T14:18:38.727Z"
-  },
-  {
-    "id": "14 Okt 2026 17:30:57 WIB",
-    "tanggal": "14 Okt 2026",
-    "jam": "17:30:57 WIB",
-    "magnitude": 3.8,
-    "wilayah": "Pusat gempa berada di laut 53 km utara Ruteng, Manggarai",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "10 km",
-    "koordinat": "-8.14,120.56",
-    "dirasakan": "II - III Kab. Manggarai",
-    "shakemap": "20261014173057.mmi.jpg",
-    "detectedAt": "2026-10-14T14:18:38.144Z"
   }
 ]
