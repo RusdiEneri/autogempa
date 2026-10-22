@@ -1,5 +1,18 @@
 [
   {
+    "id": "22 Okt 2026 17:57:49 WIB",
+    "tanggal": "22 Okt 2026",
+    "jam": "17:57:49 WIB",
+    "magnitude": 5.2,
+    "wilayah": "Pusat gempa berada di darat 6 km BaratLaut Lebong",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "120 km",
+    "koordinat": "-3.11,102.14",
+    "dirasakan": "III Kota Bengkulu, II - III Curup, III Arga Makmur",
+    "shakemap": "20261022175749.mmi.jpg",
+    "detectedAt": "2026-10-22T15:32:48.117Z"
+  },
+  {
     "id": "21 Okt 2026 18:58:36 WIB",
     "tanggal": "21 Okt 2026",
     "jam": "18:58:36 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III Darajat, III Pasirwangi",
     "shakemap": "20261015223238.mmi.jpg",
     "detectedAt": "2026-10-15T18:23:09.832Z"
-  },
-  {
-    "id": "15 Okt 2026 17:58:23 WIB",
-    "tanggal": "15 Okt 2026",
-    "jam": "17:58:23 WIB",
-    "magnitude": 4.1,
-    "wilayah": "Pusat gempa berada di darat 26 km barat daya kota Bogor",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "5 km",
-    "koordinat": "-6.73,106.61",
-    "dirasakan": "IV Pamijahan, IV Kabandungan",
-    "shakemap": "20261015175823.mmi.jpg",
-    "detectedAt": "2026-10-15T14:18:38.727Z"
   }
 ]

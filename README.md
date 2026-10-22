@@ -2,7 +2,7 @@
 
 > Monitor gempa bumi real-time untuk wilayah Indonesia. Data diambil otomatis dari **BMKG** setiap 5 menit oleh GitHub Actions, lalu ditampilkan lengkap di README ini beserta peta guncangannya (shakemap).
 
-🕒 **Update otomatis terakhir:** Rabu, 21 Oktober 2026 pukul 22.30.23
+🕒 **Update otomatis terakhir:** Kamis, 22 Oktober 2026 pukul 22.32.48
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Parameter | Detail |
 | --- | --- |
-| 📊 **Magnitudo** | M 2.5 |
-| 📍 **Wilayah** | Pusat gempa berada di darat 9 km utara Tanggamus |
-| 🕒 **Waktu** | 21 Okt 2026, 18:58:36 WIB |
-| 🧭 **Koordinat** | -5.40,104.68 |
-| 📏 **Kedalaman** | 3 km |
+| 📊 **Magnitudo** | M 5.2 |
+| 📍 **Wilayah** | Pusat gempa berada di darat 6 km BaratLaut Lebong |
+| 🕒 **Waktu** | 22 Okt 2026, 17:57:49 WIB |
+| 🧭 **Koordinat** | -3.11,102.14 |
+| 📏 **Kedalaman** | 120 km |
 | 🌊 **Potensi** | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 📡 **Dirasakan** | II Tanggamus |
+| 📡 **Dirasakan** | III Kota Bengkulu, II - III Curup, III Arga Makmur |
 | 🔗 **Sumber** | [BMKG — InfoGempa Realtime](https://www.bmkg.go.id/gempabumi) |
 
 ### 🗺️ Peta Guncangan (Shakemap)
@@ -29,6 +29,7 @@
 
 | Waktu | Magnitudo | Wilayah | Kedalaman | Potensi |
 | --- | --- | --- | --- | --- |
+| 22 Okt 2026 17:57:49 WIB | **M 5.2** | Pusat gempa berada di darat 6 km BaratLaut Lebong | 120 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 21 Okt 2026 18:58:36 WIB | **M 2.5** | Pusat gempa berada di darat 9 km utara Tanggamus | 3 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 21 Okt 2026 14:44:15 WIB | **M 5.1** | 62 km TimurLaut MALUKUBRTDAYA | 96 km | Tidak berpotensi tsunami |
 | 20 Okt 2026 23:29:35 WIB | **M 5.4** | Pusat gempa berada di laut 59 km barat daya Meulaboh | 74 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
@@ -43,7 +44,6 @@
 | 16 Okt 2026 21:22:04 WIB | **M 2.3** | Pusat gempa berada di darat 26 km Barat Daya Kota Bogor | 18 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 16 Okt 2026 10:21:55 WIB | **M 2.5** | Pusat gempa berada di darat 21 km Barat Daya Kota Bogor | 9 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 15 Okt 2026 22:32:38 WIB | **M 2.7** | Pusat gempa berada di darat 21 km barat Kab. Garut | 4 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 15 Okt 2026 17:58:23 WIB | **M 4.1** | Pusat gempa berada di darat 26 km barat daya kota Bogor | 5 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 
 ---
 
