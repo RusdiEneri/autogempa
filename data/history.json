@@ -1,5 +1,18 @@
 [
   {
+    "id": "25 Okt 2026 19:47:26 WIB",
+    "tanggal": "25 Okt 2026",
+    "jam": "19:47:26 WIB",
+    "magnitude": 3.8,
+    "wilayah": "Pusat gempa berada di laut 13 km timur laut Kota Sorong",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "6 km",
+    "koordinat": "-0.73,131.39",
+    "dirasakan": "II Kota Sorong",
+    "shakemap": "20261025194726.mmi.jpg",
+    "detectedAt": "2026-10-25T16:03:35.653Z"
+  },
+  {
     "id": "25 Okt 2026 14:40:01 WIB",
     "tanggal": "25 Okt 2026",
     "jam": "14:40:01 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "II Leuwiliang",
     "shakemap": "20261016212204.mmi.jpg",
     "detectedAt": "2026-10-16T15:33:37.809Z"
-  },
-  {
-    "id": "16 Okt 2026 10:21:55 WIB",
-    "tanggal": "16 Okt 2026",
-    "jam": "10:21:55 WIB",
-    "magnitude": 2.5,
-    "wilayah": "Pusat gempa berada di darat 21 km Barat Daya Kota Bogor",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "9 km",
-    "koordinat": "-6.69,106.63",
-    "dirasakan": "II Kabandungan",
-    "shakemap": "20261016102155.mmi.jpg",
-    "detectedAt": "2026-10-16T06:24:34.274Z"
   }
 ]
