@@ -1,5 +1,18 @@
 [
   {
+    "id": "25 Okt 2026 14:40:01 WIB",
+    "tanggal": "25 Okt 2026",
+    "jam": "14:40:01 WIB",
+    "magnitude": 4.7,
+    "wilayah": "Pusat gempa berada di darat 44 km barat Kab. Aceh Tamiang",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "10 km",
+    "koordinat": "4.24,97.65",
+    "dirasakan": "IV Gayo Lues",
+    "shakemap": "20261025144001.mmi.jpg",
+    "detectedAt": "2026-10-25T12:04:28.695Z"
+  },
+  {
     "id": "22 Okt 2026 17:57:49 WIB",
     "tanggal": "22 Okt 2026",
     "jam": "17:57:49 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "II Kabandungan",
     "shakemap": "20261016102155.mmi.jpg",
     "detectedAt": "2026-10-16T06:24:34.274Z"
-  },
-  {
-    "id": "15 Okt 2026 22:32:38 WIB",
-    "tanggal": "15 Okt 2026",
-    "jam": "22:32:38 WIB",
-    "magnitude": 2.7,
-    "wilayah": "Pusat gempa berada di darat 21 km barat Kab. Garut",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "4 km",
-    "koordinat": "-7.22,107.71",
-    "dirasakan": "III Darajat, III Pasirwangi",
-    "shakemap": "20261015223238.mmi.jpg",
-    "detectedAt": "2026-10-15T18:23:09.832Z"
   }
 ]
