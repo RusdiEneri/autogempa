@@ -1,5 +1,18 @@
 [
   {
+    "id": "26 Okt 2026 11:53:42 WIB",
+    "tanggal": "26 Okt 2026",
+    "jam": "11:53:42 WIB",
+    "magnitude": 4.9,
+    "wilayah": "Pusat gempa berada di laut 30 km timur laut Mbay, Nagekeo",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "13 km",
+    "koordinat": "-8.45,121.45",
+    "dirasakan": "III Bajawa, III Maumere, II - III Ruteng",
+    "shakemap": "20261026115342.mmi.jpg",
+    "detectedAt": "2026-10-26T06:27:07.107Z"
+  },
+  {
     "id": "25 Okt 2026 19:47:26 WIB",
     "tanggal": "25 Okt 2026",
     "jam": "19:47:26 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III Sorong",
     "shakemap": "20261017152052.mmi.jpg",
     "detectedAt": "2026-10-17T08:39:08.992Z"
-  },
-  {
-    "id": "16 Okt 2026 21:22:04 WIB",
-    "tanggal": "16 Okt 2026",
-    "jam": "21:22:04 WIB",
-    "magnitude": 2.3,
-    "wilayah": "Pusat gempa berada di darat 26 km Barat Daya Kota Bogor",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "18 km",
-    "koordinat": "-6.76,106.63",
-    "dirasakan": "II Leuwiliang",
-    "shakemap": "20261016212204.mmi.jpg",
-    "detectedAt": "2026-10-16T15:33:37.809Z"
   }
 ]

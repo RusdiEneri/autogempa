@@ -2,7 +2,7 @@
 
 > Monitor gempa bumi real-time untuk wilayah Indonesia. Data diambil otomatis dari **BMKG** setiap 5 menit oleh GitHub Actions, lalu ditampilkan lengkap di README ini beserta peta guncangannya (shakemap).
 
-🕒 **Update otomatis terakhir:** Minggu, 25 Oktober 2026 pukul 23.03.35
+🕒 **Update otomatis terakhir:** Senin, 26 Oktober 2026 pukul 13.27.07
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Parameter | Detail |
 | --- | --- |
-| 📊 **Magnitudo** | M 3.8 |
-| 📍 **Wilayah** | Pusat gempa berada di laut 13 km timur laut Kota Sorong |
-| 🕒 **Waktu** | 25 Okt 2026, 19:47:26 WIB |
-| 🧭 **Koordinat** | -0.73,131.39 |
-| 📏 **Kedalaman** | 6 km |
+| 📊 **Magnitudo** | M 4.9 |
+| 📍 **Wilayah** | Pusat gempa berada di laut 30 km timur laut Mbay, Nagekeo |
+| 🕒 **Waktu** | 26 Okt 2026, 11:53:42 WIB |
+| 🧭 **Koordinat** | -8.45,121.45 |
+| 📏 **Kedalaman** | 13 km |
 | 🌊 **Potensi** | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 📡 **Dirasakan** | II Kota Sorong |
+| 📡 **Dirasakan** | III Bajawa, III Maumere, II - III Ruteng |
 | 🔗 **Sumber** | [BMKG — InfoGempa Realtime](https://www.bmkg.go.id/gempabumi) |
 
 ### 🗺️ Peta Guncangan (Shakemap)
@@ -29,6 +29,7 @@
 
 | Waktu | Magnitudo | Wilayah | Kedalaman | Potensi |
 | --- | --- | --- | --- | --- |
+| 26 Okt 2026 11:53:42 WIB | **M 4.9** | Pusat gempa berada di laut 30 km timur laut Mbay, Nagekeo | 13 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 25 Okt 2026 19:47:26 WIB | **M 3.8** | Pusat gempa berada di laut 13 km timur laut Kota Sorong | 6 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 25 Okt 2026 14:40:01 WIB | **M 4.7** | Pusat gempa berada di darat 44 km barat Kab. Aceh Tamiang | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 22 Okt 2026 17:57:49 WIB | **M 5.2** | Pusat gempa berada di darat 6 km BaratLaut Lebong | 120 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
@@ -43,7 +44,6 @@
 | 17 Okt 2026 22:45:27 WIB | **M 2.6** | Pusat gempa berada di darat 39 km selatan Morowali Utara | 5 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 17 Okt 2026 19:46:17 WIB | **M 4.6** | Pusat gempa berada di laut 49 km Barat KODI-SUMBABARATDAYA | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 17 Okt 2026 15:20:52 WIB | **M 4.2** | Pusat gempa berada di Laut 11 km TimurLaut Kota Sorong | 3 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 16 Okt 2026 21:22:04 WIB | **M 2.3** | Pusat gempa berada di darat 26 km Barat Daya Kota Bogor | 18 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 
 ---
 
