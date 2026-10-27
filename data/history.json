@@ -1,5 +1,18 @@
 [
   {
+    "id": "27 Okt 2026 21:43:13 WIB",
+    "tanggal": "27 Okt 2026",
+    "jam": "21:43:13 WIB",
+    "magnitude": 5.4,
+    "wilayah": "Pusat gempa berada di laut 137 km Selatan Gunungkidul",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "10 km",
+    "koordinat": "-9.20,110.39",
+    "dirasakan": "II Bantul, II Sleman, II Wonogiri, II Kulon Progo, II Sukoharjo, II Trenggalek, II Nganjuk, II Pacitan, II Klaten, II Kediri, II Ponorogo, II Banjarnegara, II Lumajang, II Blitar",
+    "shakemap": "20261027214313.mmi.jpg",
+    "detectedAt": "2026-10-27T18:56:28.845Z"
+  },
+  {
     "id": "26 Okt 2026 11:53:42 WIB",
     "tanggal": "26 Okt 2026",
     "jam": "11:53:42 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III Sumba Barat Daya, III Kota Bima, III Kab. Bima, III Sumbawa",
     "shakemap": "20261017194617.mmi.jpg",
     "detectedAt": "2026-10-17T15:46:31.503Z"
-  },
-  {
-    "id": "17 Okt 2026 15:20:52 WIB",
-    "tanggal": "17 Okt 2026",
-    "jam": "15:20:52 WIB",
-    "magnitude": 4.2,
-    "wilayah": "Pusat gempa berada di Laut 11 km TimurLaut Kota Sorong",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "3 km",
-    "koordinat": "-0.75,131.38",
-    "dirasakan": "III Sorong",
-    "shakemap": "20261017152052.mmi.jpg",
-    "detectedAt": "2026-10-17T08:39:08.992Z"
   }
 ]
