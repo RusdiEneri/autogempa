@@ -1,5 +1,18 @@
 [
   {
+    "id": "28 Okt 2026 08:11:54 WIB",
+    "tanggal": "28 Okt 2026",
+    "jam": "08:11:54 WIB",
+    "magnitude": 5.4,
+    "wilayah": "221 km BaratLaut PULAUKARATUNG-SULUT",
+    "potensi": "Tidak berpotensi tsunami",
+    "kedalaman": "10 km",
+    "koordinat": "5.59,125.27",
+    "dirasakan": null,
+    "shakemap": "20261028081433.mmi.jpg",
+    "detectedAt": "2026-10-28T01:49:29.008Z"
+  },
+  {
     "id": "27 Okt 2026 21:43:13 WIB",
     "tanggal": "27 Okt 2026",
     "jam": "21:43:13 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "II - III Kolonodale",
     "shakemap": "20261017224527.mmi.jpg",
     "detectedAt": "2026-10-17T17:58:15.697Z"
-  },
-  {
-    "id": "17 Okt 2026 19:46:17 WIB",
-    "tanggal": "17 Okt 2026",
-    "jam": "19:46:17 WIB",
-    "magnitude": 4.6,
-    "wilayah": "Pusat gempa berada di laut 49 km Barat KODI-SUMBABARATDAYA",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "10 km",
-    "koordinat": "-9.52,118.54",
-    "dirasakan": "III Sumba Barat Daya, III Kota Bima, III Kab. Bima, III Sumbawa",
-    "shakemap": "20261017194617.mmi.jpg",
-    "detectedAt": "2026-10-17T15:46:31.503Z"
   }
 ]
