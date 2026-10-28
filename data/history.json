@@ -1,5 +1,18 @@
 [
   {
+    "id": "29 Okt 2026 05:06:47 WIB",
+    "tanggal": "29 Okt 2026",
+    "jam": "05:06:47 WIB",
+    "magnitude": 6.4,
+    "wilayah": "Pusat gempa berada di laut 60 km Baratlaut Larat-Kep.Tanimbar",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "160 km",
+    "koordinat": "-6.34,130.52",
+    "dirasakan": "II - III Banda Naira, II - III Tanimbar, II - III Kaimana, II - III Sorong",
+    "shakemap": "20261029050647.mmi.jpg",
+    "detectedAt": "2026-10-28T23:33:44.125Z"
+  },
+  {
     "id": "28 Okt 2026 18:59:15 WIB",
     "tanggal": "28 Okt 2026",
     "jam": "18:59:15 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "II Kab. Manggarai",
     "shakemap": "20261019190602.mmi.jpg",
     "detectedAt": "2026-10-19T12:41:48.424Z"
-  },
-  {
-    "id": "18 Okt 2026 15:02:46 WIB",
-    "tanggal": "18 Okt 2026",
-    "jam": "15:02:46 WIB",
-    "magnitude": 4.1,
-    "wilayah": "Pusat gempa berada di laut 56 km utara Ruteng",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "5 km",
-    "koordinat": "-8.14,120.29",
-    "dirasakan": "II-III Kab. Manggarai",
-    "shakemap": "20261018150246.mmi.jpg",
-    "detectedAt": "2026-10-18T08:56:41.970Z"
   }
 ]
