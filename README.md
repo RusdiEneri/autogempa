@@ -2,7 +2,7 @@
 
 > Monitor gempa bumi real-time untuk wilayah Indonesia. Data diambil otomatis dari **BMKG** setiap 5 menit oleh GitHub Actions, lalu ditampilkan lengkap di README ini beserta peta guncangannya (shakemap).
 
-🕒 **Update otomatis terakhir:** Kamis, 29 Oktober 2026 pukul 15.56.58
+🕒 **Update otomatis terakhir:** Jumat, 30 Oktober 2026 pukul 03.41.23
 
 ---
 
@@ -10,13 +10,12 @@
 
 | Parameter | Detail |
 | --- | --- |
-| 📊 **Magnitudo** | M 6 |
-| 📍 **Wilayah** | Pusat gempa berada di darat 153 km tenggara Oksibil |
-| 🕒 **Waktu** | 29 Okt 2026, 10:26:49 WIB |
-| 🧭 **Koordinat** | -5.45,141.90 |
-| 📏 **Kedalaman** | 120 km |
-| 🌊 **Potensi** | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 📡 **Dirasakan** | III Boven Digoel, II Jayapura, II Merauke |
+| 📊 **Magnitudo** | M 5.3 |
+| 📍 **Wilayah** | 139 km BaratLaut TUAL-MALUKU |
+| 🕒 **Waktu** | 30 Okt 2026, 03:32:13 WIB |
+| 🧭 **Koordinat** | -4.40,132.49 |
+| 📏 **Kedalaman** | 10 km |
+| 🌊 **Potensi** | Tidak berpotensi tsunami |
 | 🔗 **Sumber** | [BMKG — InfoGempa Realtime](https://www.bmkg.go.id/gempabumi) |
 
 ### 🗺️ Peta Guncangan (Shakemap)
@@ -29,6 +28,7 @@
 
 | Waktu | Magnitudo | Wilayah | Kedalaman | Potensi |
 | --- | --- | --- | --- | --- |
+| 30 Okt 2026 03:32:13 WIB | **M 5.3** | 139 km BaratLaut TUAL-MALUKU | 10 km | Tidak berpotensi tsunami |
 | 29 Okt 2026 10:26:49 WIB | **M 6** | Pusat gempa berada di darat 153 km tenggara Oksibil | 120 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 29 Okt 2026 05:06:47 WIB | **M 6.4** | Pusat gempa berada di laut 60 km Baratlaut Larat-Kep.Tanimbar | 160 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 28 Okt 2026 18:59:15 WIB | **M 3.4** | Pusat gempa berada di darat 10 km Utara Tanggamus | 4 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
@@ -43,7 +43,6 @@
 | 20 Okt 2026 23:29:35 WIB | **M 5.4** | Pusat gempa berada di laut 59 km barat daya Meulaboh | 74 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 20 Okt 2026 18:28:11 WIB | **M 3.7** | Pusat gempa berada di laut 6 km Barat Laut Pulau Saringi | 15 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 20 Okt 2026 16:56:38 WIB | **M 3.4** | Pusat gempa berada di darat 30km Barat Daya Kab. Kupang | 4 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 19 Okt 2026 20:46:11 WIB | **M 4.2** | Pusat gempa berada di darat 26 km Timur Laut Kab. Gayo Lues | 5 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 
 ---
 
