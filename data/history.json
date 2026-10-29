@@ -1,5 +1,18 @@
 [
   {
+    "id": "29 Okt 2026 10:26:49 WIB",
+    "tanggal": "29 Okt 2026",
+    "jam": "10:26:49 WIB",
+    "magnitude": 6,
+    "wilayah": "Pusat gempa berada di darat 153 km tenggara Oksibil",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "120 km",
+    "koordinat": "-5.45,141.90",
+    "dirasakan": "III Boven Digoel, II Jayapura, II Merauke",
+    "shakemap": "20261029102649.mmi.jpg",
+    "detectedAt": "2026-10-29T08:56:58.034Z"
+  },
+  {
     "id": "29 Okt 2026 05:06:47 WIB",
     "tanggal": "29 Okt 2026",
     "jam": "05:06:47 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III Kab. Gayo Lues, II Aceh Timur",
     "shakemap": "20261019204611.mmi.jpg",
     "detectedAt": "2026-10-19T18:50:31.322Z"
-  },
-  {
-    "id": "19 Okt 2026 19:06:02 WIB",
-    "tanggal": "19 Okt 2026",
-    "jam": "19:06:02 WIB",
-    "magnitude": 4.5,
-    "wilayah": "Pusat gempa berada di laut 60 km Utara Labuanbajo",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "6 km",
-    "koordinat": "-7.99,120.09",
-    "dirasakan": "II Kab. Manggarai",
-    "shakemap": "20261019190602.mmi.jpg",
-    "detectedAt": "2026-10-19T12:41:48.424Z"
   }
 ]
