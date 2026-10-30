@@ -1,5 +1,18 @@
 [
   {
+    "id": "30 Okt 2026 17:29:39 WIB",
+    "tanggal": "30 Okt 2026",
+    "jam": "17:29:39 WIB",
+    "magnitude": 3.5,
+    "wilayah": "Pusat gempa berada di darat 7 km barat daya Samosir",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "3 km",
+    "koordinat": "2.57,98.66",
+    "dirasakan": "II Pangururan, II Kec. Ronggur Nihuta",
+    "shakemap": "20261030172939.mmi.jpg",
+    "detectedAt": "2026-10-30T12:43:56.698Z"
+  },
+  {
     "id": "30 Okt 2026 03:32:13 WIB",
     "tanggal": "30 Okt 2026",
     "jam": "03:32:13 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III Kab. Sumbawa",
     "shakemap": "20261020182811.mmi.jpg",
     "detectedAt": "2026-10-20T15:43:36.382Z"
-  },
-  {
-    "id": "20 Okt 2026 16:56:38 WIB",
-    "tanggal": "20 Okt 2026",
-    "jam": "16:56:38 WIB",
-    "magnitude": 3.4,
-    "wilayah": "Pusat gempa berada di darat 30km Barat Daya Kab. Kupang",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "4 km",
-    "koordinat": "-10.19,123.71",
-    "dirasakan": "III Kab. Kupang, III Kota Kupang",
-    "shakemap": "20261020165638.mmi.jpg",
-    "detectedAt": "2026-10-20T11:26:36.739Z"
   }
 ]
