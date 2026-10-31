@@ -2,7 +2,7 @@
 
 > Monitor gempa bumi real-time untuk wilayah Indonesia. Data diambil otomatis dari **BMKG** setiap 5 menit oleh GitHub Actions, lalu ditampilkan lengkap di README ini beserta peta guncangannya (shakemap).
 
-🕒 **Update otomatis terakhir:** Jumat, 30 Oktober 2026 pukul 19.43.57
+🕒 **Update otomatis terakhir:** Sabtu, 31 Oktober 2026 pukul 14.30.19
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Parameter | Detail |
 | --- | --- |
-| 📊 **Magnitudo** | M 3.5 |
-| 📍 **Wilayah** | Pusat gempa berada di darat 7 km barat daya Samosir |
-| 🕒 **Waktu** | 30 Okt 2026, 17:29:39 WIB |
-| 🧭 **Koordinat** | 2.57,98.66 |
-| 📏 **Kedalaman** | 3 km |
+| 📊 **Magnitudo** | M 4.8 |
+| 📍 **Wilayah** | Pusat gempa berada di laut 97 km barat Kodi, Sumba Barat Daya |
+| 🕒 **Waktu** | 31 Okt 2026, 12:39:20 WIB |
+| 🧭 **Koordinat** | -9.45,118.11 |
+| 📏 **Kedalaman** | 28 km |
 | 🌊 **Potensi** | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 📡 **Dirasakan** | II Pangururan, II Kec. Ronggur Nihuta |
+| 📡 **Dirasakan** | III Sumbawa |
 | 🔗 **Sumber** | [BMKG — InfoGempa Realtime](https://www.bmkg.go.id/gempabumi) |
 
 ### 🗺️ Peta Guncangan (Shakemap)
@@ -29,6 +29,7 @@
 
 | Waktu | Magnitudo | Wilayah | Kedalaman | Potensi |
 | --- | --- | --- | --- | --- |
+| 31 Okt 2026 12:39:20 WIB | **M 4.8** | Pusat gempa berada di laut 97 km barat Kodi, Sumba Barat Daya | 28 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 30 Okt 2026 17:29:39 WIB | **M 3.5** | Pusat gempa berada di darat 7 km barat daya Samosir | 3 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 30 Okt 2026 03:32:13 WIB | **M 5.3** | 139 km BaratLaut TUAL-MALUKU | 10 km | Tidak berpotensi tsunami |
 | 29 Okt 2026 10:26:49 WIB | **M 6** | Pusat gempa berada di darat 153 km tenggara Oksibil | 120 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
@@ -43,7 +44,6 @@
 | 21 Okt 2026 18:58:36 WIB | **M 2.5** | Pusat gempa berada di darat 9 km utara Tanggamus | 3 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 21 Okt 2026 14:44:15 WIB | **M 5.1** | 62 km TimurLaut MALUKUBRTDAYA | 96 km | Tidak berpotensi tsunami |
 | 20 Okt 2026 23:29:35 WIB | **M 5.4** | Pusat gempa berada di laut 59 km barat daya Meulaboh | 74 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 20 Okt 2026 18:28:11 WIB | **M 3.7** | Pusat gempa berada di laut 6 km Barat Laut Pulau Saringi | 15 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 
 ---
 

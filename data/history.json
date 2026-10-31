@@ -1,5 +1,18 @@
 [
   {
+    "id": "31 Okt 2026 12:39:20 WIB",
+    "tanggal": "31 Okt 2026",
+    "jam": "12:39:20 WIB",
+    "magnitude": 4.8,
+    "wilayah": "Pusat gempa berada di laut 97 km barat Kodi, Sumba Barat Daya",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "28 km",
+    "koordinat": "-9.45,118.11",
+    "dirasakan": "III Sumbawa",
+    "shakemap": "20261031123920.mmi.jpg",
+    "detectedAt": "2026-10-31T07:30:19.260Z"
+  },
+  {
     "id": "30 Okt 2026 17:29:39 WIB",
     "tanggal": "30 Okt 2026",
     "jam": "17:29:39 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III Kab. Aceh Selatan, III Kab. Simeulue, III-IV Kab. Aceh Barat, III-IV Kab. Aceh Barat Daya, II Kab. Bener Meriah, II-III Kota Banda Aceh, II-III Kab. Aceh Besar , III-IV Kab. Nagan Raya",
     "shakemap": "20261020232935.mmi.jpg",
     "detectedAt": "2026-10-20T19:36:54.984Z"
-  },
-  {
-    "id": "20 Okt 2026 18:28:11 WIB",
-    "tanggal": "20 Okt 2026",
-    "jam": "18:28:11 WIB",
-    "magnitude": 3.7,
-    "wilayah": "Pusat gempa berada di laut 6 km Barat Laut Pulau Saringi",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "15 km",
-    "koordinat": "-8.37,116.99",
-    "dirasakan": "III Kab. Sumbawa",
-    "shakemap": "20261020182811.mmi.jpg",
-    "detectedAt": "2026-10-20T15:43:36.382Z"
   }
 ]
