@@ -1,5 +1,18 @@
 [
   {
+    "id": "31 Okt 2026 15:23:13 WIB",
+    "tanggal": "31 Okt 2026",
+    "jam": "15:23:13 WIB",
+    "magnitude": 3.5,
+    "wilayah": "Pusat gempa berada di laut 13 km tenggara Bahodopi",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "4 km",
+    "koordinat": "-2.87,122.21",
+    "dirasakan": "II - III Morowali",
+    "shakemap": "20261031152313.mmi.jpg",
+    "detectedAt": "2026-10-31T13:48:30.529Z"
+  },
+  {
     "id": "31 Okt 2026 12:39:20 WIB",
     "tanggal": "31 Okt 2026",
     "jam": "12:39:20 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": null,
     "shakemap": "20261021144703.mmi.jpg",
     "detectedAt": "2026-10-21T10:29:03.550Z"
-  },
-  {
-    "id": "20 Okt 2026 23:29:35 WIB",
-    "tanggal": "20 Okt 2026",
-    "jam": "23:29:35 WIB",
-    "magnitude": 5.4,
-    "wilayah": "Pusat gempa berada di laut 59 km barat daya Meulaboh",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "74 km",
-    "koordinat": "3.79,95.72",
-    "dirasakan": "III Kab. Aceh Selatan, III Kab. Simeulue, III-IV Kab. Aceh Barat, III-IV Kab. Aceh Barat Daya, II Kab. Bener Meriah, II-III Kota Banda Aceh, II-III Kab. Aceh Besar , III-IV Kab. Nagan Raya",
-    "shakemap": "20261020232935.mmi.jpg",
-    "detectedAt": "2026-10-20T19:36:54.984Z"
   }
 ]
