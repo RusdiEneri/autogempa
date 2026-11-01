@@ -1,5 +1,18 @@
 [
   {
+    "id": "01 Nov 2026 03:48:49 WIB",
+    "tanggal": "01 Nov 2026",
+    "jam": "03:48:49 WIB",
+    "magnitude": 2.8,
+    "wilayah": "Pusat gempa berada di darat 14 km Timur Laut Kendari",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "10 km",
+    "koordinat": "-3.92,122.63",
+    "dirasakan": "II - III Kota Kendari",
+    "shakemap": "20261101034849.mmi.jpg",
+    "detectedAt": "2026-11-01T00:04:14.344Z"
+  },
+  {
     "id": "31 Okt 2026 15:23:13 WIB",
     "tanggal": "31 Okt 2026",
     "jam": "15:23:13 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "II Tanggamus",
     "shakemap": "20261021185836.mmi.jpg",
     "detectedAt": "2026-10-21T15:30:23.228Z"
-  },
-  {
-    "id": "21 Okt 2026 14:44:15 WIB",
-    "tanggal": "21 Okt 2026",
-    "jam": "14:44:15 WIB",
-    "magnitude": 5.1,
-    "wilayah": "62 km TimurLaut MALUKUBRTDAYA",
-    "potensi": "Tidak berpotensi tsunami",
-    "kedalaman": "96 km",
-    "koordinat": "-7.75,128.18",
-    "dirasakan": null,
-    "shakemap": "20261021144703.mmi.jpg",
-    "detectedAt": "2026-10-21T10:29:03.550Z"
   }
 ]
