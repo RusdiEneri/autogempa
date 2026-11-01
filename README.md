@@ -2,7 +2,7 @@
 
 > Monitor gempa bumi real-time untuk wilayah Indonesia. Data diambil otomatis dari **BMKG** setiap 5 menit oleh GitHub Actions, lalu ditampilkan lengkap di README ini beserta peta guncangannya (shakemap).
 
-🕒 **Update otomatis terakhir:** Minggu, 01 November 2026 pukul 07.04.14
+🕒 **Update otomatis terakhir:** Minggu, 01 November 2026 pukul 19.04.26
 
 ---
 
@@ -10,13 +10,12 @@
 
 | Parameter | Detail |
 | --- | --- |
-| 📊 **Magnitudo** | M 2.8 |
-| 📍 **Wilayah** | Pusat gempa berada di darat 14 km Timur Laut Kendari |
-| 🕒 **Waktu** | 01 Nov 2026, 03:48:49 WIB |
-| 🧭 **Koordinat** | -3.92,122.63 |
-| 📏 **Kedalaman** | 10 km |
+| 📊 **Magnitudo** | M 4.1 |
+| 📍 **Wilayah** | Pusat gempa berada di darat 24 km Barat Daya Kab. Pidie Jaya-Aceh |
+| 🕒 **Waktu** | 01 Nov 2026, 12:38:59 WIB |
+| 🧭 **Koordinat** | 4.79,96.20 |
+| 📏 **Kedalaman** | 6 km |
 | 🌊 **Potensi** | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 📡 **Dirasakan** | II - III Kota Kendari |
 | 🔗 **Sumber** | [BMKG — InfoGempa Realtime](https://www.bmkg.go.id/gempabumi) |
 
 ### 🗺️ Peta Guncangan (Shakemap)
@@ -29,6 +28,7 @@
 
 | Waktu | Magnitudo | Wilayah | Kedalaman | Potensi |
 | --- | --- | --- | --- | --- |
+| 01 Nov 2026 12:38:59 WIB | **M 4.1** | Pusat gempa berada di darat 24 km Barat Daya Kab. Pidie Jaya-Aceh | 6 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 01 Nov 2026 03:48:49 WIB | **M 2.8** | Pusat gempa berada di darat 14 km Timur Laut Kendari | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 31 Okt 2026 15:23:13 WIB | **M 3.5** | Pusat gempa berada di laut 13 km tenggara Bahodopi | 4 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 31 Okt 2026 12:39:20 WIB | **M 4.8** | Pusat gempa berada di laut 97 km barat Kodi, Sumba Barat Daya | 28 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
@@ -43,7 +43,6 @@
 | 25 Okt 2026 19:47:26 WIB | **M 3.8** | Pusat gempa berada di laut 13 km timur laut Kota Sorong | 6 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 25 Okt 2026 14:40:01 WIB | **M 4.7** | Pusat gempa berada di darat 44 km barat Kab. Aceh Tamiang | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 22 Okt 2026 17:57:49 WIB | **M 5.2** | Pusat gempa berada di darat 6 km BaratLaut Lebong | 120 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 21 Okt 2026 18:58:36 WIB | **M 2.5** | Pusat gempa berada di darat 9 km utara Tanggamus | 3 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 
 ---
 

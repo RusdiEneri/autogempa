@@ -1,5 +1,18 @@
 [
   {
+    "id": "01 Nov 2026 12:38:59 WIB",
+    "tanggal": "01 Nov 2026",
+    "jam": "12:38:59 WIB",
+    "magnitude": 4.1,
+    "wilayah": "Pusat gempa berada di darat 24 km Barat Daya Kab. Pidie Jaya-Aceh",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "6 km",
+    "koordinat": "4.79,96.20",
+    "dirasakan": null,
+    "shakemap": "20261101123859.mmi.jpg",
+    "detectedAt": "2026-11-01T12:04:26.009Z"
+  },
+  {
     "id": "01 Nov 2026 03:48:49 WIB",
     "tanggal": "01 Nov 2026",
     "jam": "03:48:49 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III Kota Bengkulu, II - III Curup, III Arga Makmur",
     "shakemap": "20261022175749.mmi.jpg",
     "detectedAt": "2026-10-22T15:32:48.117Z"
-  },
-  {
-    "id": "21 Okt 2026 18:58:36 WIB",
-    "tanggal": "21 Okt 2026",
-    "jam": "18:58:36 WIB",
-    "magnitude": 2.5,
-    "wilayah": "Pusat gempa berada di darat 9 km utara Tanggamus",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "3 km",
-    "koordinat": "-5.40,104.68",
-    "dirasakan": "II Tanggamus",
-    "shakemap": "20261021185836.mmi.jpg",
-    "detectedAt": "2026-10-21T15:30:23.228Z"
   }
 ]
