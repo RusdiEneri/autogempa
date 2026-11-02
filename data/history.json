@@ -1,5 +1,18 @@
 [
   {
+    "id": "02 Nov 2026 16:58:58 WIB",
+    "tanggal": "02 Nov 2026",
+    "jam": "16:58:58 WIB",
+    "magnitude": 2.6,
+    "wilayah": "Pusat gempa berada di darat 9 km Utara Kota Jayapura",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "8 km",
+    "koordinat": "-2.49,140.66",
+    "dirasakan": "III Jayapura",
+    "shakemap": "20261102165858.mmi.jpg",
+    "detectedAt": "2026-11-02T17:12:51.731Z"
+  },
+  {
     "id": "02 Nov 2026 07:53:11 WIB",
     "tanggal": "02 Nov 2026",
     "jam": "07:53:11 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "II Kota Sorong",
     "shakemap": "20261025194726.mmi.jpg",
     "detectedAt": "2026-10-25T16:03:35.653Z"
-  },
-  {
-    "id": "25 Okt 2026 14:40:01 WIB",
-    "tanggal": "25 Okt 2026",
-    "jam": "14:40:01 WIB",
-    "magnitude": 4.7,
-    "wilayah": "Pusat gempa berada di darat 44 km barat Kab. Aceh Tamiang",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "10 km",
-    "koordinat": "4.24,97.65",
-    "dirasakan": "IV Gayo Lues",
-    "shakemap": "20261025144001.mmi.jpg",
-    "detectedAt": "2026-10-25T12:04:28.695Z"
   }
 ]
