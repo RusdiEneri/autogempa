@@ -1,5 +1,18 @@
 [
   {
+    "id": "03 Nov 2026 22:37:50 WIB",
+    "tanggal": "03 Nov 2026",
+    "jam": "22:37:50 WIB",
+    "magnitude": 4.8,
+    "wilayah": "Pusat gempa berada di laut 86 km Selatan Kota Gorontalo",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "87 km",
+    "koordinat": "-0.20,123.32",
+    "dirasakan": "III Kab. Gorontalo, II - III Kab. Bone Bolango, II - III Kab. Gorontalo Utara, II - III Kota Gorontalo, II - III Kab. Banggai, II - III Kab. Banggai Kepulauan",
+    "shakemap": "20261103223750.mmi.jpg",
+    "detectedAt": "2026-11-03T18:41:30.319Z"
+  },
+  {
     "id": "02 Nov 2026 16:58:58 WIB",
     "tanggal": "02 Nov 2026",
     "jam": "16:58:58 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III Bajawa, III Maumere, II - III Ruteng",
     "shakemap": "20261026115342.mmi.jpg",
     "detectedAt": "2026-10-26T06:27:07.107Z"
-  },
-  {
-    "id": "25 Okt 2026 19:47:26 WIB",
-    "tanggal": "25 Okt 2026",
-    "jam": "19:47:26 WIB",
-    "magnitude": 3.8,
-    "wilayah": "Pusat gempa berada di laut 13 km timur laut Kota Sorong",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "6 km",
-    "koordinat": "-0.73,131.39",
-    "dirasakan": "II Kota Sorong",
-    "shakemap": "20261025194726.mmi.jpg",
-    "detectedAt": "2026-10-25T16:03:35.653Z"
   }
 ]
