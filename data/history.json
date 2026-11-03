@@ -1,5 +1,18 @@
 [
   {
+    "id": "04 Nov 2026 03:28:35 WIB",
+    "tanggal": "04 Nov 2026",
+    "jam": "03:28:35 WIB",
+    "magnitude": 4.1,
+    "wilayah": "Pusat gempa berada di darat 61 km utara Luwu Timur",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "6 km",
+    "koordinat": "-2.08,121.02",
+    "dirasakan": "II - III Morowali Utara",
+    "shakemap": "20261104032835.mmi.jpg",
+    "detectedAt": "2026-11-03T23:41:11.332Z"
+  },
+  {
     "id": "03 Nov 2026 22:37:50 WIB",
     "tanggal": "03 Nov 2026",
     "jam": "22:37:50 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "II Bantul, II Sleman, II Wonogiri, II Kulon Progo, II Sukoharjo, II Trenggalek, II Nganjuk, II Pacitan, II Klaten, II Kediri, II Ponorogo, II Banjarnegara, II Lumajang, II Blitar",
     "shakemap": "20261027214313.mmi.jpg",
     "detectedAt": "2026-10-27T18:56:28.845Z"
-  },
-  {
-    "id": "26 Okt 2026 11:53:42 WIB",
-    "tanggal": "26 Okt 2026",
-    "jam": "11:53:42 WIB",
-    "magnitude": 4.9,
-    "wilayah": "Pusat gempa berada di laut 30 km timur laut Mbay, Nagekeo",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "13 km",
-    "koordinat": "-8.45,121.45",
-    "dirasakan": "III Bajawa, III Maumere, II - III Ruteng",
-    "shakemap": "20261026115342.mmi.jpg",
-    "detectedAt": "2026-10-26T06:27:07.107Z"
   }
 ]
