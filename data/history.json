@@ -1,5 +1,18 @@
 [
   {
+    "id": "04 Nov 2026 07:50:34 WIB",
+    "tanggal": "04 Nov 2026",
+    "jam": "07:50:34 WIB",
+    "magnitude": 4.4,
+    "wilayah": "Pusat gempa berada di laut 88 km timur laut Ruteng, Manggarai",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "15 km",
+    "koordinat": "-7.94,120.89",
+    "dirasakan": "III Kab. Manggarai",
+    "shakemap": "20261104075034.mmi.jpg",
+    "detectedAt": "2026-11-04T03:17:19.342Z"
+  },
+  {
     "id": "04 Nov 2026 03:28:35 WIB",
     "tanggal": "04 Nov 2026",
     "jam": "03:28:35 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": null,
     "shakemap": "20261028081433.mmi.jpg",
     "detectedAt": "2026-10-28T01:49:29.008Z"
-  },
-  {
-    "id": "27 Okt 2026 21:43:13 WIB",
-    "tanggal": "27 Okt 2026",
-    "jam": "21:43:13 WIB",
-    "magnitude": 5.4,
-    "wilayah": "Pusat gempa berada di laut 137 km Selatan Gunungkidul",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "10 km",
-    "koordinat": "-9.20,110.39",
-    "dirasakan": "II Bantul, II Sleman, II Wonogiri, II Kulon Progo, II Sukoharjo, II Trenggalek, II Nganjuk, II Pacitan, II Klaten, II Kediri, II Ponorogo, II Banjarnegara, II Lumajang, II Blitar",
-    "shakemap": "20261027214313.mmi.jpg",
-    "detectedAt": "2026-10-27T18:56:28.845Z"
   }
 ]

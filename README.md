@@ -2,7 +2,7 @@
 
 > Monitor gempa bumi real-time untuk wilayah Indonesia. Data diambil otomatis dari **BMKG** setiap 5 menit oleh GitHub Actions, lalu ditampilkan lengkap di README ini beserta peta guncangannya (shakemap).
 
-🕒 **Update otomatis terakhir:** Rabu, 04 November 2026 pukul 06.41.11
+🕒 **Update otomatis terakhir:** Rabu, 04 November 2026 pukul 10.17.19
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Parameter | Detail |
 | --- | --- |
-| 📊 **Magnitudo** | M 4.1 |
-| 📍 **Wilayah** | Pusat gempa berada di darat 61 km utara Luwu Timur |
-| 🕒 **Waktu** | 04 Nov 2026, 03:28:35 WIB |
-| 🧭 **Koordinat** | -2.08,121.02 |
-| 📏 **Kedalaman** | 6 km |
+| 📊 **Magnitudo** | M 4.4 |
+| 📍 **Wilayah** | Pusat gempa berada di laut 88 km timur laut Ruteng, Manggarai |
+| 🕒 **Waktu** | 04 Nov 2026, 07:50:34 WIB |
+| 🧭 **Koordinat** | -7.94,120.89 |
+| 📏 **Kedalaman** | 15 km |
 | 🌊 **Potensi** | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 📡 **Dirasakan** | II - III Morowali Utara |
+| 📡 **Dirasakan** | III Kab. Manggarai |
 | 🔗 **Sumber** | [BMKG — InfoGempa Realtime](https://www.bmkg.go.id/gempabumi) |
 
 ### 🗺️ Peta Guncangan (Shakemap)
@@ -29,6 +29,7 @@
 
 | Waktu | Magnitudo | Wilayah | Kedalaman | Potensi |
 | --- | --- | --- | --- | --- |
+| 04 Nov 2026 07:50:34 WIB | **M 4.4** | Pusat gempa berada di laut 88 km timur laut Ruteng, Manggarai | 15 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 04 Nov 2026 03:28:35 WIB | **M 4.1** | Pusat gempa berada di darat 61 km utara Luwu Timur | 6 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 03 Nov 2026 22:37:50 WIB | **M 4.8** | Pusat gempa berada di laut 86 km Selatan Kota Gorontalo | 87 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 02 Nov 2026 16:58:58 WIB | **M 2.6** | Pusat gempa berada di darat 9 km Utara Kota Jayapura | 8 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
@@ -43,7 +44,6 @@
 | 29 Okt 2026 05:06:47 WIB | **M 6.4** | Pusat gempa berada di laut 60 km Baratlaut Larat-Kep.Tanimbar | 160 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 28 Okt 2026 18:59:15 WIB | **M 3.4** | Pusat gempa berada di darat 10 km Utara Tanggamus | 4 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 28 Okt 2026 08:11:54 WIB | **M 5.4** | 221 km BaratLaut PULAUKARATUNG-SULUT | 10 km | Tidak berpotensi tsunami |
-| 27 Okt 2026 21:43:13 WIB | **M 5.4** | Pusat gempa berada di laut 137 km Selatan Gunungkidul | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 
 ---
 
