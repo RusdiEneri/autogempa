@@ -1,5 +1,18 @@
 [
   {
+    "id": "07 Nov 2026 02:07:01 WIB",
+    "tanggal": "07 Nov 2026",
+    "jam": "02:07:01 WIB",
+    "magnitude": 4.9,
+    "wilayah": "Pusat gempa berada di darat 47 km Timur Laut Sigi",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "10 km",
+    "koordinat": "-1.13,120.22",
+    "dirasakan": "IV Sigi, III Palu",
+    "shakemap": "20261107020701.mmi.jpg",
+    "detectedAt": "2026-11-06T20:57:39.094Z"
+  },
+  {
     "id": "06 Nov 2026 17:30:55 WIB",
     "tanggal": "06 Nov 2026",
     "jam": "17:30:55 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III Boven Digoel, II Jayapura, II Merauke",
     "shakemap": "20261029102649.mmi.jpg",
     "detectedAt": "2026-10-29T08:56:58.034Z"
-  },
-  {
-    "id": "29 Okt 2026 05:06:47 WIB",
-    "tanggal": "29 Okt 2026",
-    "jam": "05:06:47 WIB",
-    "magnitude": 6.4,
-    "wilayah": "Pusat gempa berada di laut 60 km Baratlaut Larat-Kep.Tanimbar",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "160 km",
-    "koordinat": "-6.34,130.52",
-    "dirasakan": "II - III Banda Naira, II - III Tanimbar, II - III Kaimana, II - III Sorong",
-    "shakemap": "20261029050647.mmi.jpg",
-    "detectedAt": "2026-10-28T23:33:44.125Z"
   }
 ]

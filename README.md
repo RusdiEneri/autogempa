@@ -2,7 +2,7 @@
 
 > Monitor gempa bumi real-time untuk wilayah Indonesia. Data diambil otomatis dari **BMKG** setiap 5 menit oleh GitHub Actions, lalu ditampilkan lengkap di README ini beserta peta guncangannya (shakemap).
 
-🕒 **Update otomatis terakhir:** Jumat, 06 November 2026 pukul 22.23.47
+🕒 **Update otomatis terakhir:** Sabtu, 07 November 2026 pukul 03.57.39
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Parameter | Detail |
 | --- | --- |
-| 📊 **Magnitudo** | M 4.3 |
-| 📍 **Wilayah** | Pusat gempa berada di darat 130 km barat laut Kep. Mentawai |
-| 🕒 **Waktu** | 06 Nov 2026, 17:30:55 WIB |
-| 🧭 **Koordinat** | -1.19,98.73 |
-| 📏 **Kedalaman** | 17 km |
+| 📊 **Magnitudo** | M 4.9 |
+| 📍 **Wilayah** | Pusat gempa berada di darat 47 km Timur Laut Sigi |
+| 🕒 **Waktu** | 07 Nov 2026, 02:07:01 WIB |
+| 🧭 **Koordinat** | -1.13,120.22 |
+| 📏 **Kedalaman** | 10 km |
 | 🌊 **Potensi** | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 📡 **Dirasakan** | III Siberut Barat, III Siberut Utara, II Siberut Tengah, I Kab. Nias Selatan |
+| 📡 **Dirasakan** | IV Sigi, III Palu |
 | 🔗 **Sumber** | [BMKG — InfoGempa Realtime](https://www.bmkg.go.id/gempabumi) |
 
 ### 🗺️ Peta Guncangan (Shakemap)
@@ -29,6 +29,7 @@
 
 | Waktu | Magnitudo | Wilayah | Kedalaman | Potensi |
 | --- | --- | --- | --- | --- |
+| 07 Nov 2026 02:07:01 WIB | **M 4.9** | Pusat gempa berada di darat 47 km Timur Laut Sigi | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 06 Nov 2026 17:30:55 WIB | **M 4.3** | Pusat gempa berada di darat 130 km barat laut Kep. Mentawai | 17 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 04 Nov 2026 14:56:34 WIB | **M 3.4** | Pusat gempa berada di darat 40 km timur laut Sigi | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 04 Nov 2026 07:50:34 WIB | **M 4.4** | Pusat gempa berada di laut 88 km timur laut Ruteng, Manggarai | 15 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
@@ -43,7 +44,6 @@
 | 30 Okt 2026 17:29:39 WIB | **M 3.5** | Pusat gempa berada di darat 7 km barat daya Samosir | 3 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 30 Okt 2026 03:32:13 WIB | **M 5.3** | 139 km BaratLaut TUAL-MALUKU | 10 km | Tidak berpotensi tsunami |
 | 29 Okt 2026 10:26:49 WIB | **M 6** | Pusat gempa berada di darat 153 km tenggara Oksibil | 120 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 29 Okt 2026 05:06:47 WIB | **M 6.4** | Pusat gempa berada di laut 60 km Baratlaut Larat-Kep.Tanimbar | 160 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 
 ---
 
