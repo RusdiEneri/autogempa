@@ -1,5 +1,18 @@
 [
   {
+    "id": "06 Nov 2026 17:30:55 WIB",
+    "tanggal": "06 Nov 2026",
+    "jam": "17:30:55 WIB",
+    "magnitude": 4.3,
+    "wilayah": "Pusat gempa berada di darat 130 km barat laut Kep. Mentawai",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "17 km",
+    "koordinat": "-1.19,98.73",
+    "dirasakan": "III Siberut Barat, III Siberut Utara, II Siberut Tengah, I Kab. Nias Selatan",
+    "shakemap": "20261106173055.mmi.jpg",
+    "detectedAt": "2026-11-06T15:23:47.081Z"
+  },
+  {
     "id": "04 Nov 2026 14:56:34 WIB",
     "tanggal": "04 Nov 2026",
     "jam": "14:56:34 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "II - III Banda Naira, II - III Tanimbar, II - III Kaimana, II - III Sorong",
     "shakemap": "20261029050647.mmi.jpg",
     "detectedAt": "2026-10-28T23:33:44.125Z"
-  },
-  {
-    "id": "28 Okt 2026 18:59:15 WIB",
-    "tanggal": "28 Okt 2026",
-    "jam": "18:59:15 WIB",
-    "magnitude": 3.4,
-    "wilayah": "Pusat gempa berada di darat 10 km Utara Tanggamus",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "4 km",
-    "koordinat": "-5.40,104.66",
-    "dirasakan": "II Kotaagung, II Sumberejo, II Ulu Belu, II Talang Padang, II Pulau Panggung, II Sukoharjo",
-    "shakemap": "20261028185915.mmi.jpg",
-    "detectedAt": "2026-10-28T14:23:57.774Z"
   }
 ]
