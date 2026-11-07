@@ -1,5 +1,18 @@
 [
   {
+    "id": "08 Nov 2026 01:54:12 WIB",
+    "tanggal": "08 Nov 2026",
+    "jam": "01:54:12 WIB",
+    "magnitude": 3.3,
+    "wilayah": "Pusat gempa berada di darat 20 km timur Kendari",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "5 km",
+    "koordinat": "-4.01,122.69",
+    "dirasakan": null,
+    "shakemap": "20261108015412.mmi.jpg",
+    "detectedAt": "2026-11-07T21:48:35.339Z"
+  },
+  {
     "id": "07 Nov 2026 17:05:52 WIB",
     "tanggal": "07 Nov 2026",
     "jam": "17:05:52 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "II Pangururan, II Kec. Ronggur Nihuta",
     "shakemap": "20261030172939.mmi.jpg",
     "detectedAt": "2026-10-30T12:43:56.698Z"
-  },
-  {
-    "id": "30 Okt 2026 03:32:13 WIB",
-    "tanggal": "30 Okt 2026",
-    "jam": "03:32:13 WIB",
-    "magnitude": 5.3,
-    "wilayah": "139 km BaratLaut TUAL-MALUKU",
-    "potensi": "Tidak berpotensi tsunami",
-    "kedalaman": "10 km",
-    "koordinat": "-4.40,132.49",
-    "dirasakan": null,
-    "shakemap": "20261030033504.mmi.jpg",
-    "detectedAt": "2026-10-29T20:41:22.993Z"
   }
 ]
