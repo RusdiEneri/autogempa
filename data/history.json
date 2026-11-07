@@ -1,5 +1,18 @@
 [
   {
+    "id": "07 Nov 2026 17:05:52 WIB",
+    "tanggal": "07 Nov 2026",
+    "jam": "17:05:52 WIB",
+    "magnitude": 3,
+    "wilayah": "Pusat gempa berada di darat 31 km utara Lombok Timur",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "10 km",
+    "koordinat": "-8.37,116.54",
+    "dirasakan": "II Lombok Timur",
+    "shakemap": "20261107170552.mmi.jpg",
+    "detectedAt": "2026-11-07T13:29:06.800Z"
+  },
+  {
     "id": "07 Nov 2026 02:07:01 WIB",
     "tanggal": "07 Nov 2026",
     "jam": "02:07:01 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": null,
     "shakemap": "20261030033504.mmi.jpg",
     "detectedAt": "2026-10-29T20:41:22.993Z"
-  },
-  {
-    "id": "29 Okt 2026 10:26:49 WIB",
-    "tanggal": "29 Okt 2026",
-    "jam": "10:26:49 WIB",
-    "magnitude": 6,
-    "wilayah": "Pusat gempa berada di darat 153 km tenggara Oksibil",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "120 km",
-    "koordinat": "-5.45,141.90",
-    "dirasakan": "III Boven Digoel, II Jayapura, II Merauke",
-    "shakemap": "20261029102649.mmi.jpg",
-    "detectedAt": "2026-10-29T08:56:58.034Z"
   }
 ]
