@@ -1,5 +1,18 @@
 [
   {
+    "id": "09 Nov 2026 07:44:58 WIB",
+    "tanggal": "09 Nov 2026",
+    "jam": "07:44:58 WIB",
+    "magnitude": 2.5,
+    "wilayah": "Pusat gempa berada di laut 1 km timur Jailolo",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "10 km",
+    "koordinat": "1.06,127.47",
+    "dirasakan": "II Kab. Halmahera Barat",
+    "shakemap": "20261109074458.mmi.jpg",
+    "detectedAt": "2026-11-09T01:50:36.529Z"
+  },
+  {
     "id": "08 Nov 2026 01:54:12 WIB",
     "tanggal": "08 Nov 2026",
     "jam": "01:54:12 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III Sumbawa",
     "shakemap": "20261031123920.mmi.jpg",
     "detectedAt": "2026-10-31T07:30:19.260Z"
-  },
-  {
-    "id": "30 Okt 2026 17:29:39 WIB",
-    "tanggal": "30 Okt 2026",
-    "jam": "17:29:39 WIB",
-    "magnitude": 3.5,
-    "wilayah": "Pusat gempa berada di darat 7 km barat daya Samosir",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "3 km",
-    "koordinat": "2.57,98.66",
-    "dirasakan": "II Pangururan, II Kec. Ronggur Nihuta",
-    "shakemap": "20261030172939.mmi.jpg",
-    "detectedAt": "2026-10-30T12:43:56.698Z"
   }
 ]
