@@ -1,5 +1,18 @@
 [
   {
+    "id": "09 Nov 2026 17:38:54 WIB",
+    "tanggal": "09 Nov 2026",
+    "jam": "17:38:54 WIB",
+    "magnitude": 3.9,
+    "wilayah": "Pusat gempa berada di laut 44 km timur laut Mbay-Nagekeo",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "10 km",
+    "koordinat": "-8.34,121.52",
+    "dirasakan": "II - III Kab. Nagekeo",
+    "shakemap": "20261109173854.mmi.jpg",
+    "detectedAt": "2026-11-09T19:11:47.852Z"
+  },
+  {
     "id": "09 Nov 2026 07:44:58 WIB",
     "tanggal": "09 Nov 2026",
     "jam": "07:44:58 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "II - III Morowali",
     "shakemap": "20261031152313.mmi.jpg",
     "detectedAt": "2026-10-31T13:48:30.529Z"
-  },
-  {
-    "id": "31 Okt 2026 12:39:20 WIB",
-    "tanggal": "31 Okt 2026",
-    "jam": "12:39:20 WIB",
-    "magnitude": 4.8,
-    "wilayah": "Pusat gempa berada di laut 97 km barat Kodi, Sumba Barat Daya",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "28 km",
-    "koordinat": "-9.45,118.11",
-    "dirasakan": "III Sumbawa",
-    "shakemap": "20261031123920.mmi.jpg",
-    "detectedAt": "2026-10-31T07:30:19.260Z"
   }
 ]
