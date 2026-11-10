@@ -2,7 +2,7 @@
 
 > Monitor gempa bumi real-time untuk wilayah Indonesia. Data diambil otomatis dari **BMKG** setiap 5 menit oleh GitHub Actions, lalu ditampilkan lengkap di README ini beserta peta guncangannya (shakemap).
 
-🕒 **Update otomatis terakhir:** Selasa, 10 November 2026 pukul 02.11.47
+🕒 **Update otomatis terakhir:** Selasa, 10 November 2026 pukul 09.06.23
 
 ---
 
@@ -10,13 +10,12 @@
 
 | Parameter | Detail |
 | --- | --- |
-| 📊 **Magnitudo** | M 3.9 |
-| 📍 **Wilayah** | Pusat gempa berada di laut 44 km timur laut Mbay-Nagekeo |
-| 🕒 **Waktu** | 09 Nov 2026, 17:38:54 WIB |
-| 🧭 **Koordinat** | -8.34,121.52 |
-| 📏 **Kedalaman** | 10 km |
-| 🌊 **Potensi** | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 📡 **Dirasakan** | II - III Kab. Nagekeo |
+| 📊 **Magnitudo** | M 5.4 |
+| 📍 **Wilayah** | 90 km BaratDaya TANIMBAR |
+| 🕒 **Waktu** | 10 Nov 2026, 08:53:28 WIB |
+| 🧭 **Koordinat** | -8.02,130.49 |
+| 📏 **Kedalaman** | 84 km |
+| 🌊 **Potensi** | Tidak berpotensi tsunami |
 | 🔗 **Sumber** | [BMKG — InfoGempa Realtime](https://www.bmkg.go.id/gempabumi) |
 
 ### 🗺️ Peta Guncangan (Shakemap)
@@ -29,6 +28,7 @@
 
 | Waktu | Magnitudo | Wilayah | Kedalaman | Potensi |
 | --- | --- | --- | --- | --- |
+| 10 Nov 2026 08:53:28 WIB | **M 5.4** | 90 km BaratDaya TANIMBAR | 84 km | Tidak berpotensi tsunami |
 | 09 Nov 2026 17:38:54 WIB | **M 3.9** | Pusat gempa berada di laut 44 km timur laut Mbay-Nagekeo | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 09 Nov 2026 07:44:58 WIB | **M 2.5** | Pusat gempa berada di laut 1 km timur Jailolo | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 08 Nov 2026 01:54:12 WIB | **M 3.3** | Pusat gempa berada di darat 20 km timur Kendari | 5 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
@@ -43,7 +43,6 @@
 | 02 Nov 2026 07:53:11 WIB | **M 5.5** | Pusat gempa berada di laut 169 km BaratLaut Tanimbar | 130 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 01 Nov 2026 12:38:59 WIB | **M 4.1** | Pusat gempa berada di darat 24 km Barat Daya Kab. Pidie Jaya-Aceh | 6 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 01 Nov 2026 03:48:49 WIB | **M 2.8** | Pusat gempa berada di darat 14 km Timur Laut Kendari | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 31 Okt 2026 15:23:13 WIB | **M 3.5** | Pusat gempa berada di laut 13 km tenggara Bahodopi | 4 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 
 ---
 

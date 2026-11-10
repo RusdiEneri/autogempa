@@ -1,5 +1,18 @@
 [
   {
+    "id": "10 Nov 2026 08:53:28 WIB",
+    "tanggal": "10 Nov 2026",
+    "jam": "08:53:28 WIB",
+    "magnitude": 5.4,
+    "wilayah": "90 km BaratDaya TANIMBAR",
+    "potensi": "Tidak berpotensi tsunami",
+    "kedalaman": "84 km",
+    "koordinat": "-8.02,130.49",
+    "dirasakan": null,
+    "shakemap": "20261110085612.mmi.jpg",
+    "detectedAt": "2026-11-10T02:06:23.127Z"
+  },
+  {
     "id": "09 Nov 2026 17:38:54 WIB",
     "tanggal": "09 Nov 2026",
     "jam": "17:38:54 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "II - III Kota Kendari",
     "shakemap": "20261101034849.mmi.jpg",
     "detectedAt": "2026-11-01T00:04:14.344Z"
-  },
-  {
-    "id": "31 Okt 2026 15:23:13 WIB",
-    "tanggal": "31 Okt 2026",
-    "jam": "15:23:13 WIB",
-    "magnitude": 3.5,
-    "wilayah": "Pusat gempa berada di laut 13 km tenggara Bahodopi",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "4 km",
-    "koordinat": "-2.87,122.21",
-    "dirasakan": "II - III Morowali",
-    "shakemap": "20261031152313.mmi.jpg",
-    "detectedAt": "2026-10-31T13:48:30.529Z"
   }
 ]
