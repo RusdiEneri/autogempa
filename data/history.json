@@ -1,5 +1,18 @@
 [
   {
+    "id": "10 Nov 2026 15:34:04 WIB",
+    "tanggal": "10 Nov 2026",
+    "jam": "15:34:04 WIB",
+    "magnitude": 5.3,
+    "wilayah": "Pusat gempa berada di laut 69 km barat laut Kebar Manokwari",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "10 km",
+    "koordinat": "-0.19,132.98",
+    "dirasakan": "II - III Manokwari",
+    "shakemap": "20261110153404.mmi.jpg",
+    "detectedAt": "2026-11-10T09:40:43.320Z"
+  },
+  {
     "id": "10 Nov 2026 08:53:28 WIB",
     "tanggal": "10 Nov 2026",
     "jam": "08:53:28 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": null,
     "shakemap": "20261101123859.mmi.jpg",
     "detectedAt": "2026-11-01T12:04:26.009Z"
-  },
-  {
-    "id": "01 Nov 2026 03:48:49 WIB",
-    "tanggal": "01 Nov 2026",
-    "jam": "03:48:49 WIB",
-    "magnitude": 2.8,
-    "wilayah": "Pusat gempa berada di darat 14 km Timur Laut Kendari",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "10 km",
-    "koordinat": "-3.92,122.63",
-    "dirasakan": "II - III Kota Kendari",
-    "shakemap": "20261101034849.mmi.jpg",
-    "detectedAt": "2026-11-01T00:04:14.344Z"
   }
 ]
