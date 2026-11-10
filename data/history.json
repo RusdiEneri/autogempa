@@ -1,5 +1,18 @@
 [
   {
+    "id": "10 Nov 2026 23:04:15 WIB",
+    "tanggal": "10 Nov 2026",
+    "jam": "23:04:15 WIB",
+    "magnitude": 4,
+    "wilayah": "Pusat gempa berada di darat 12 km timur Konawe Selatan",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "5 km",
+    "koordinat": "-4.29,122.38",
+    "dirasakan": "IV Konawe Selatan, III Kendari",
+    "shakemap": "20261110230415.mmi.jpg",
+    "detectedAt": "2026-11-10T17:17:17.092Z"
+  },
+  {
     "id": "10 Nov 2026 15:34:04 WIB",
     "tanggal": "10 Nov 2026",
     "jam": "15:34:04 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "II Saumlaki",
     "shakemap": "20261102075311.mmi.jpg",
     "detectedAt": "2026-11-02T07:19:33.281Z"
-  },
-  {
-    "id": "01 Nov 2026 12:38:59 WIB",
-    "tanggal": "01 Nov 2026",
-    "jam": "12:38:59 WIB",
-    "magnitude": 4.1,
-    "wilayah": "Pusat gempa berada di darat 24 km Barat Daya Kab. Pidie Jaya-Aceh",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "6 km",
-    "koordinat": "4.79,96.20",
-    "dirasakan": null,
-    "shakemap": "20261101123859.mmi.jpg",
-    "detectedAt": "2026-11-01T12:04:26.009Z"
   }
 ]
