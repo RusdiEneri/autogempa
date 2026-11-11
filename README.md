@@ -2,7 +2,7 @@
 
 > Monitor gempa bumi real-time untuk wilayah Indonesia. Data diambil otomatis dari **BMKG** setiap 5 menit oleh GitHub Actions, lalu ditampilkan lengkap di README ini beserta peta guncangannya (shakemap).
 
-🕒 **Update otomatis terakhir:** Rabu, 11 November 2026 pukul 00.17.17
+🕒 **Update otomatis terakhir:** Rabu, 11 November 2026 pukul 09.01.49
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Parameter | Detail |
 | --- | --- |
-| 📊 **Magnitudo** | M 4 |
-| 📍 **Wilayah** | Pusat gempa berada di darat 12 km timur Konawe Selatan |
-| 🕒 **Waktu** | 10 Nov 2026, 23:04:15 WIB |
-| 🧭 **Koordinat** | -4.29,122.38 |
+| 📊 **Magnitudo** | M 4.3 |
+| 📍 **Wilayah** | Pusat gempa berada di darat 23 km timur laut Kab. Gayo Lues |
+| 🕒 **Waktu** | 11 Nov 2026, 06:05:21 WIB |
+| 🧭 **Koordinat** | 4.15,97.49 |
 | 📏 **Kedalaman** | 5 km |
 | 🌊 **Potensi** | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 📡 **Dirasakan** | IV Konawe Selatan, III Kendari |
+| 📡 **Dirasakan** | III Gayo Lues, II-III Aceh Tengah, II-III Bener Meriah |
 | 🔗 **Sumber** | [BMKG — InfoGempa Realtime](https://www.bmkg.go.id/gempabumi) |
 
 ### 🗺️ Peta Guncangan (Shakemap)
@@ -29,6 +29,7 @@
 
 | Waktu | Magnitudo | Wilayah | Kedalaman | Potensi |
 | --- | --- | --- | --- | --- |
+| 11 Nov 2026 06:05:21 WIB | **M 4.3** | Pusat gempa berada di darat 23 km timur laut Kab. Gayo Lues | 5 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 10 Nov 2026 23:04:15 WIB | **M 4** | Pusat gempa berada di darat 12 km timur Konawe Selatan | 5 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 10 Nov 2026 15:34:04 WIB | **M 5.3** | Pusat gempa berada di laut 69 km barat laut Kebar Manokwari | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 10 Nov 2026 08:53:28 WIB | **M 5.4** | 90 km BaratDaya TANIMBAR | 84 km | Tidak berpotensi tsunami |
@@ -43,7 +44,6 @@
 | 04 Nov 2026 03:28:35 WIB | **M 4.1** | Pusat gempa berada di darat 61 km utara Luwu Timur | 6 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 03 Nov 2026 22:37:50 WIB | **M 4.8** | Pusat gempa berada di laut 86 km Selatan Kota Gorontalo | 87 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 02 Nov 2026 16:58:58 WIB | **M 2.6** | Pusat gempa berada di darat 9 km Utara Kota Jayapura | 8 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 02 Nov 2026 07:53:11 WIB | **M 5.5** | Pusat gempa berada di laut 169 km BaratLaut Tanimbar | 130 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 
 ---
 

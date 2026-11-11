@@ -1,5 +1,18 @@
 [
   {
+    "id": "11 Nov 2026 06:05:21 WIB",
+    "tanggal": "11 Nov 2026",
+    "jam": "06:05:21 WIB",
+    "magnitude": 4.3,
+    "wilayah": "Pusat gempa berada di darat 23 km timur laut Kab. Gayo Lues",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "5 km",
+    "koordinat": "4.15,97.49",
+    "dirasakan": "III Gayo Lues, II-III Aceh Tengah, II-III Bener Meriah",
+    "shakemap": "20261111060521.mmi.jpg",
+    "detectedAt": "2026-11-11T02:01:49.292Z"
+  },
+  {
     "id": "10 Nov 2026 23:04:15 WIB",
     "tanggal": "10 Nov 2026",
     "jam": "23:04:15 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III Jayapura",
     "shakemap": "20261102165858.mmi.jpg",
     "detectedAt": "2026-11-02T17:12:51.731Z"
-  },
-  {
-    "id": "02 Nov 2026 07:53:11 WIB",
-    "tanggal": "02 Nov 2026",
-    "jam": "07:53:11 WIB",
-    "magnitude": 5.5,
-    "wilayah": "Pusat gempa berada di laut 169 km BaratLaut Tanimbar",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "130 km",
-    "koordinat": "-7.08,130.07",
-    "dirasakan": "II Saumlaki",
-    "shakemap": "20261102075311.mmi.jpg",
-    "detectedAt": "2026-11-02T07:19:33.281Z"
   }
 ]
