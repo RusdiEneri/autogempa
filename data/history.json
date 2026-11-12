@@ -1,5 +1,18 @@
 [
   {
+    "id": "12 Nov 2026 18:16:30 WIB",
+    "tanggal": "12 Nov 2026",
+    "jam": "18:16:30 WIB",
+    "magnitude": 4.8,
+    "wilayah": "Pusat gempa berada di laut 73 km Timur Laut Ruteng, Manggarai",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "13 km",
+    "koordinat": "-8.06,120.81",
+    "dirasakan": "II Kab. Manggarai",
+    "shakemap": "20261112181630.mmi.jpg",
+    "detectedAt": "2026-11-12T12:26:10.598Z"
+  },
+  {
     "id": "11 Nov 2026 06:05:21 WIB",
     "tanggal": "11 Nov 2026",
     "jam": "06:05:21 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III Kab. Gorontalo, II - III Kab. Bone Bolango, II - III Kab. Gorontalo Utara, II - III Kota Gorontalo, II - III Kab. Banggai, II - III Kab. Banggai Kepulauan",
     "shakemap": "20261103223750.mmi.jpg",
     "detectedAt": "2026-11-03T18:41:30.319Z"
-  },
-  {
-    "id": "02 Nov 2026 16:58:58 WIB",
-    "tanggal": "02 Nov 2026",
-    "jam": "16:58:58 WIB",
-    "magnitude": 2.6,
-    "wilayah": "Pusat gempa berada di darat 9 km Utara Kota Jayapura",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "8 km",
-    "koordinat": "-2.49,140.66",
-    "dirasakan": "III Jayapura",
-    "shakemap": "20261102165858.mmi.jpg",
-    "detectedAt": "2026-11-02T17:12:51.731Z"
   }
 ]
