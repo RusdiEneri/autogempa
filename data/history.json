@@ -1,5 +1,18 @@
 [
   {
+    "id": "13 Nov 2026 02:14:40 WIB",
+    "tanggal": "13 Nov 2026",
+    "jam": "02:14:40 WIB",
+    "magnitude": 4.6,
+    "wilayah": "Pusat gempa berada di laut 32 km barat laut Pulau Panjang",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "17 km",
+    "koordinat": "-8.20,116.76",
+    "dirasakan": "III Kab. Sumbawa, III Kab. Sumbawa Barat, III Kab. Lombok Utara, III Kab. Lombok Timur, II Kota Mataram",
+    "shakemap": "20261113021440.mmi.jpg",
+    "detectedAt": "2026-11-12T20:14:46.309Z"
+  },
+  {
     "id": "12 Nov 2026 18:16:30 WIB",
     "tanggal": "12 Nov 2026",
     "jam": "18:16:30 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "II - III Morowali Utara",
     "shakemap": "20261104032835.mmi.jpg",
     "detectedAt": "2026-11-03T23:41:11.332Z"
-  },
-  {
-    "id": "03 Nov 2026 22:37:50 WIB",
-    "tanggal": "03 Nov 2026",
-    "jam": "22:37:50 WIB",
-    "magnitude": 4.8,
-    "wilayah": "Pusat gempa berada di laut 86 km Selatan Kota Gorontalo",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "87 km",
-    "koordinat": "-0.20,123.32",
-    "dirasakan": "III Kab. Gorontalo, II - III Kab. Bone Bolango, II - III Kab. Gorontalo Utara, II - III Kota Gorontalo, II - III Kab. Banggai, II - III Kab. Banggai Kepulauan",
-    "shakemap": "20261103223750.mmi.jpg",
-    "detectedAt": "2026-11-03T18:41:30.319Z"
   }
 ]
