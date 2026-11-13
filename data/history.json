@@ -1,5 +1,18 @@
 [
   {
+    "id": "13 Nov 2026 14:31:39 WIB",
+    "tanggal": "13 Nov 2026",
+    "jam": "14:31:39 WIB",
+    "magnitude": 4.1,
+    "wilayah": "Pusat gempa berada di laut 24 km selatan Enggano",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "24 km",
+    "koordinat": "-5.56,102.24",
+    "dirasakan": "II - III Enggano",
+    "shakemap": "20261113143139.mmi.jpg",
+    "detectedAt": "2026-11-13T15:43:00.631Z"
+  },
+  {
     "id": "13 Nov 2026 11:49:34 WIB",
     "tanggal": "13 Nov 2026",
     "jam": "11:49:34 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III Sigi, II Palu",
     "shakemap": "20261104145634.mmi.jpg",
     "detectedAt": "2026-11-04T11:06:10.159Z"
-  },
-  {
-    "id": "04 Nov 2026 07:50:34 WIB",
-    "tanggal": "04 Nov 2026",
-    "jam": "07:50:34 WIB",
-    "magnitude": 4.4,
-    "wilayah": "Pusat gempa berada di laut 88 km timur laut Ruteng, Manggarai",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "15 km",
-    "koordinat": "-7.94,120.89",
-    "dirasakan": "III Kab. Manggarai",
-    "shakemap": "20261104075034.mmi.jpg",
-    "detectedAt": "2026-11-04T03:17:19.342Z"
   }
 ]
