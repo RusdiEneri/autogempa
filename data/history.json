@@ -1,5 +1,18 @@
 [
   {
+    "id": "13 Nov 2026 11:49:34 WIB",
+    "tanggal": "13 Nov 2026",
+    "jam": "11:49:34 WIB",
+    "magnitude": 4.9,
+    "wilayah": "Pusat gempa berada di laut 29 km Barat Laut PULAUPANJANG",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "17 km",
+    "koordinat": "-8.22,116.77",
+    "dirasakan": "IV Kab. Lombok Timur, III Kab. Lombok Tengah, III Kab. Lombok Barat, II-III Kota Mataram, II Kab. Sumbawa",
+    "shakemap": "20261113114934.mmi.jpg",
+    "detectedAt": "2026-11-13T07:51:39.729Z"
+  },
+  {
     "id": "13 Nov 2026 02:14:40 WIB",
     "tanggal": "13 Nov 2026",
     "jam": "02:14:40 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III Kab. Manggarai",
     "shakemap": "20261104075034.mmi.jpg",
     "detectedAt": "2026-11-04T03:17:19.342Z"
-  },
-  {
-    "id": "04 Nov 2026 03:28:35 WIB",
-    "tanggal": "04 Nov 2026",
-    "jam": "03:28:35 WIB",
-    "magnitude": 4.1,
-    "wilayah": "Pusat gempa berada di darat 61 km utara Luwu Timur",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "6 km",
-    "koordinat": "-2.08,121.02",
-    "dirasakan": "II - III Morowali Utara",
-    "shakemap": "20261104032835.mmi.jpg",
-    "detectedAt": "2026-11-03T23:41:11.332Z"
   }
 ]
