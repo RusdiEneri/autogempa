@@ -1,5 +1,18 @@
 [
   {
+    "id": "15 Nov 2026 04:24:20 WIB",
+    "tanggal": "15 Nov 2026",
+    "jam": "04:24:20 WIB",
+    "magnitude": 4.5,
+    "wilayah": "Pusat gempa berada di laut 56 km utara Ruteng, Manggarai",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "2 km",
+    "koordinat": "-8.10,120.49",
+    "dirasakan": "II Manggarai",
+    "shakemap": "20261115042420.mmi.jpg",
+    "detectedAt": "2026-11-14T23:25:37.921Z"
+  },
+  {
     "id": "13 Nov 2026 14:31:39 WIB",
     "tanggal": "13 Nov 2026",
     "jam": "14:31:39 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III Siberut Barat, III Siberut Utara, II Siberut Tengah, I Kab. Nias Selatan",
     "shakemap": "20261106173055.mmi.jpg",
     "detectedAt": "2026-11-06T15:23:47.081Z"
-  },
-  {
-    "id": "04 Nov 2026 14:56:34 WIB",
-    "tanggal": "04 Nov 2026",
-    "jam": "14:56:34 WIB",
-    "magnitude": 3.4,
-    "wilayah": "Pusat gempa berada di darat 40 km timur laut Sigi",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "10 km",
-    "koordinat": "-1.14,120.15",
-    "dirasakan": "III Sigi, II Palu",
-    "shakemap": "20261104145634.mmi.jpg",
-    "detectedAt": "2026-11-04T11:06:10.159Z"
   }
 ]
