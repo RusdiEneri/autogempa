@@ -1,5 +1,18 @@
 [
   {
+    "id": "16 Nov 2026 03:51:57 WIB",
+    "tanggal": "16 Nov 2026",
+    "jam": "03:51:57 WIB",
+    "magnitude": 5.4,
+    "wilayah": "265 km Tenggara BURUSELATAN-MALUKU",
+    "potensi": "Tidak berpotensi tsunami",
+    "kedalaman": "323 km",
+    "koordinat": "-5.97,128.82",
+    "dirasakan": null,
+    "shakemap": "20261116035430.mmi.jpg",
+    "detectedAt": "2026-11-15T21:49:57.491Z"
+  },
+  {
     "id": "15 Nov 2026 22:41:15 WIB",
     "tanggal": "15 Nov 2026",
     "jam": "22:41:15 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "II Lombok Timur",
     "shakemap": "20261107170552.mmi.jpg",
     "detectedAt": "2026-11-07T13:29:06.800Z"
-  },
-  {
-    "id": "07 Nov 2026 02:07:01 WIB",
-    "tanggal": "07 Nov 2026",
-    "jam": "02:07:01 WIB",
-    "magnitude": 4.9,
-    "wilayah": "Pusat gempa berada di darat 47 km Timur Laut Sigi",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "10 km",
-    "koordinat": "-1.13,120.22",
-    "dirasakan": "IV Sigi, III Palu",
-    "shakemap": "20261107020701.mmi.jpg",
-    "detectedAt": "2026-11-06T20:57:39.094Z"
   }
 ]
