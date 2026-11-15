@@ -1,5 +1,18 @@
 [
   {
+    "id": "15 Nov 2026 22:41:15 WIB",
+    "tanggal": "15 Nov 2026",
+    "jam": "22:41:15 WIB",
+    "magnitude": 5.4,
+    "wilayah": "127 km BaratLaut GORONTALOUTARA-GORONTALO",
+    "potensi": "Tidak berpotensi tsunami",
+    "kedalaman": "465 km",
+    "koordinat": "1.79,122.30",
+    "dirasakan": null,
+    "shakemap": "20261115224408.mmi.jpg",
+    "detectedAt": "2026-11-15T17:13:15.785Z"
+  },
+  {
     "id": "15 Nov 2026 04:24:20 WIB",
     "tanggal": "15 Nov 2026",
     "jam": "04:24:20 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "IV Sigi, III Palu",
     "shakemap": "20261107020701.mmi.jpg",
     "detectedAt": "2026-11-06T20:57:39.094Z"
-  },
-  {
-    "id": "06 Nov 2026 17:30:55 WIB",
-    "tanggal": "06 Nov 2026",
-    "jam": "17:30:55 WIB",
-    "magnitude": 4.3,
-    "wilayah": "Pusat gempa berada di darat 130 km barat laut Kep. Mentawai",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "17 km",
-    "koordinat": "-1.19,98.73",
-    "dirasakan": "III Siberut Barat, III Siberut Utara, II Siberut Tengah, I Kab. Nias Selatan",
-    "shakemap": "20261106173055.mmi.jpg",
-    "detectedAt": "2026-11-06T15:23:47.081Z"
   }
 ]
