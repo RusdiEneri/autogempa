@@ -1,5 +1,18 @@
 [
   {
+    "id": "16 Nov 2026 18:36:57 WIB",
+    "tanggal": "16 Nov 2026",
+    "jam": "18:36:57 WIB",
+    "magnitude": 3.8,
+    "wilayah": "Pusat gempa berada di darat 12 km Barat Laut Tanggamus-Lampung",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "10 km",
+    "koordinat": "-5.41,104.60",
+    "dirasakan": "III Tanggamus",
+    "shakemap": "20261116183657.mmi.jpg",
+    "detectedAt": "2026-11-16T18:36:59.445Z"
+  },
+  {
     "id": "16 Nov 2026 03:51:57 WIB",
     "tanggal": "16 Nov 2026",
     "jam": "03:51:57 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": null,
     "shakemap": "20261108015412.mmi.jpg",
     "detectedAt": "2026-11-07T21:48:35.339Z"
-  },
-  {
-    "id": "07 Nov 2026 17:05:52 WIB",
-    "tanggal": "07 Nov 2026",
-    "jam": "17:05:52 WIB",
-    "magnitude": 3,
-    "wilayah": "Pusat gempa berada di darat 31 km utara Lombok Timur",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "10 km",
-    "koordinat": "-8.37,116.54",
-    "dirasakan": "II Lombok Timur",
-    "shakemap": "20261107170552.mmi.jpg",
-    "detectedAt": "2026-11-07T13:29:06.800Z"
   }
 ]
