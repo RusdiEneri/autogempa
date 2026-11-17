@@ -2,7 +2,7 @@
 
 > Monitor gempa bumi real-time untuk wilayah Indonesia. Data diambil otomatis dari **BMKG** setiap 5 menit oleh GitHub Actions, lalu ditampilkan lengkap di README ini beserta peta guncangannya (shakemap).
 
-🕒 **Update otomatis terakhir:** Selasa, 17 November 2026 pukul 01.36.59
+🕒 **Update otomatis terakhir:** Selasa, 17 November 2026 pukul 09.03.46
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Parameter | Detail |
 | --- | --- |
-| 📊 **Magnitudo** | M 3.8 |
-| 📍 **Wilayah** | Pusat gempa berada di darat 12 km Barat Laut Tanggamus-Lampung |
-| 🕒 **Waktu** | 16 Nov 2026, 18:36:57 WIB |
-| 🧭 **Koordinat** | -5.41,104.60 |
-| 📏 **Kedalaman** | 10 km |
+| 📊 **Magnitudo** | M 4.8 |
+| 📍 **Wilayah** | Pusat gempa berada di laut 49 km timur laut Ruteng, Manggarai |
+| 🕒 **Waktu** | 17 Nov 2026, 07:49:17 WIB |
+| 🧭 **Koordinat** | -8.22,120.66 |
+| 📏 **Kedalaman** | 2 km |
 | 🌊 **Potensi** | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 📡 **Dirasakan** | III Tanggamus |
+| 📡 **Dirasakan** | III Kab. Manggarai |
 | 🔗 **Sumber** | [BMKG — InfoGempa Realtime](https://www.bmkg.go.id/gempabumi) |
 
 ### 🗺️ Peta Guncangan (Shakemap)
@@ -29,6 +29,7 @@
 
 | Waktu | Magnitudo | Wilayah | Kedalaman | Potensi |
 | --- | --- | --- | --- | --- |
+| 17 Nov 2026 07:49:17 WIB | **M 4.8** | Pusat gempa berada di laut 49 km timur laut Ruteng, Manggarai | 2 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 16 Nov 2026 18:36:57 WIB | **M 3.8** | Pusat gempa berada di darat 12 km Barat Laut Tanggamus-Lampung | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 16 Nov 2026 03:51:57 WIB | **M 5.4** | 265 km Tenggara BURUSELATAN-MALUKU | 323 km | Tidak berpotensi tsunami |
 | 15 Nov 2026 22:41:15 WIB | **M 5.4** | 127 km BaratLaut GORONTALOUTARA-GORONTALO | 465 km | Tidak berpotensi tsunami |
@@ -43,7 +44,6 @@
 | 10 Nov 2026 08:53:28 WIB | **M 5.4** | 90 km BaratDaya TANIMBAR | 84 km | Tidak berpotensi tsunami |
 | 09 Nov 2026 17:38:54 WIB | **M 3.9** | Pusat gempa berada di laut 44 km timur laut Mbay-Nagekeo | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 09 Nov 2026 07:44:58 WIB | **M 2.5** | Pusat gempa berada di laut 1 km timur Jailolo | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 08 Nov 2026 01:54:12 WIB | **M 3.3** | Pusat gempa berada di darat 20 km timur Kendari | 5 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 
 ---
 
