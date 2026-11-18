@@ -1,5 +1,18 @@
 [
   {
+    "id": "18 Nov 2026 15:01:44 WIB",
+    "tanggal": "18 Nov 2026",
+    "jam": "15:01:44 WIB",
+    "magnitude": 4.2,
+    "wilayah": "Pusat gempa berada di laut 42 km utara Ruteng-Manggarai",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "19 km",
+    "koordinat": "-8.24,120.52",
+    "dirasakan": "II - III Kab. Manggarai",
+    "shakemap": "20261118150144.mmi.jpg",
+    "detectedAt": "2026-11-18T09:08:52.088Z"
+  },
+  {
     "id": "17 Nov 2026 07:49:17 WIB",
     "tanggal": "17 Nov 2026",
     "jam": "07:49:17 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "II - III Kab. Nagekeo",
     "shakemap": "20261109173854.mmi.jpg",
     "detectedAt": "2026-11-09T19:11:47.852Z"
-  },
-  {
-    "id": "09 Nov 2026 07:44:58 WIB",
-    "tanggal": "09 Nov 2026",
-    "jam": "07:44:58 WIB",
-    "magnitude": 2.5,
-    "wilayah": "Pusat gempa berada di laut 1 km timur Jailolo",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "10 km",
-    "koordinat": "1.06,127.47",
-    "dirasakan": "II Kab. Halmahera Barat",
-    "shakemap": "20261109074458.mmi.jpg",
-    "detectedAt": "2026-11-09T01:50:36.529Z"
   }
 ]
