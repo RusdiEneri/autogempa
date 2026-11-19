@@ -1,5 +1,18 @@
 [
   {
+    "id": "19 Nov 2026 16:08:41 WIB",
+    "tanggal": "19 Nov 2026",
+    "jam": "16:08:41 WIB",
+    "magnitude": 3.5,
+    "wilayah": "Pusat gempa berada di darat 19 km timur laut Sumbawa",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "10 km",
+    "koordinat": "-8.34,117.52",
+    "dirasakan": "II - III Sumbawa",
+    "shakemap": "20261119160841.mmi.jpg",
+    "detectedAt": "2026-11-19T16:33:47.089Z"
+  },
+  {
     "id": "19 Nov 2026 13:31:50 WIB",
     "tanggal": "19 Nov 2026",
     "jam": "13:31:50 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "IV Konawe Selatan, III Kendari",
     "shakemap": "20261110230415.mmi.jpg",
     "detectedAt": "2026-11-10T17:17:17.092Z"
-  },
-  {
-    "id": "10 Nov 2026 15:34:04 WIB",
-    "tanggal": "10 Nov 2026",
-    "jam": "15:34:04 WIB",
-    "magnitude": 5.3,
-    "wilayah": "Pusat gempa berada di laut 69 km barat laut Kebar Manokwari",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "10 km",
-    "koordinat": "-0.19,132.98",
-    "dirasakan": "II - III Manokwari",
-    "shakemap": "20261110153404.mmi.jpg",
-    "detectedAt": "2026-11-10T09:40:43.320Z"
   }
 ]
