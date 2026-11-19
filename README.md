@@ -2,7 +2,7 @@
 
 > Monitor gempa bumi real-time untuk wilayah Indonesia. Data diambil otomatis dari **BMKG** setiap 5 menit oleh GitHub Actions, lalu ditampilkan lengkap di README ini beserta peta guncangannya (shakemap).
 
-🕒 **Update otomatis terakhir:** Kamis, 19 November 2026 pukul 00.59.32
+🕒 **Update otomatis terakhir:** Kamis, 19 November 2026 pukul 14.12.36
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Parameter | Detail |
 | --- | --- |
-| 📊 **Magnitudo** | M 4 |
-| 📍 **Wilayah** | Pusat gempa berada di laut 57 km utara Ruteng - Manggarai |
-| 🕒 **Waktu** | 18 Nov 2026, 23:11:00 WIB |
-| 🧭 **Koordinat** | -8.10,120.49 |
-| 📏 **Kedalaman** | 3 km |
+| 📊 **Magnitudo** | M 3.6 |
+| 📍 **Wilayah** | Pusat gempa berada di darat 20 km timur laut Luwu Timur |
+| 🕒 **Waktu** | 19 Nov 2026, 13:31:50 WIB |
+| 🧭 **Koordinat** | -2.49,121.25 |
+| 📏 **Kedalaman** | 5 km |
 | 🌊 **Potensi** | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 📡 **Dirasakan** | II Kab. Manggarai |
+| 📡 **Dirasakan** | III Malili |
 | 🔗 **Sumber** | [BMKG — InfoGempa Realtime](https://www.bmkg.go.id/gempabumi) |
 
 ### 🗺️ Peta Guncangan (Shakemap)
@@ -29,6 +29,7 @@
 
 | Waktu | Magnitudo | Wilayah | Kedalaman | Potensi |
 | --- | --- | --- | --- | --- |
+| 19 Nov 2026 13:31:50 WIB | **M 3.6** | Pusat gempa berada di darat 20 km timur laut Luwu Timur | 5 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 18 Nov 2026 23:11:00 WIB | **M 4** | Pusat gempa berada di laut 57 km utara Ruteng - Manggarai | 3 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 18 Nov 2026 15:01:44 WIB | **M 4.2** | Pusat gempa berada di laut 42 km utara Ruteng-Manggarai | 19 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 17 Nov 2026 07:49:17 WIB | **M 4.8** | Pusat gempa berada di laut 49 km timur laut Ruteng, Manggarai | 2 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
@@ -43,7 +44,6 @@
 | 11 Nov 2026 06:05:21 WIB | **M 4.3** | Pusat gempa berada di darat 23 km timur laut Kab. Gayo Lues | 5 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 10 Nov 2026 23:04:15 WIB | **M 4** | Pusat gempa berada di darat 12 km timur Konawe Selatan | 5 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 10 Nov 2026 15:34:04 WIB | **M 5.3** | Pusat gempa berada di laut 69 km barat laut Kebar Manokwari | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 10 Nov 2026 08:53:28 WIB | **M 5.4** | 90 km BaratDaya TANIMBAR | 84 km | Tidak berpotensi tsunami |
 
 ---
 

@@ -1,5 +1,18 @@
 [
   {
+    "id": "19 Nov 2026 13:31:50 WIB",
+    "tanggal": "19 Nov 2026",
+    "jam": "13:31:50 WIB",
+    "magnitude": 3.6,
+    "wilayah": "Pusat gempa berada di darat 20 km timur laut Luwu Timur",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "5 km",
+    "koordinat": "-2.49,121.25",
+    "dirasakan": "III Malili",
+    "shakemap": "20261119133150.mmi.jpg",
+    "detectedAt": "2026-11-19T07:12:36.072Z"
+  },
+  {
     "id": "18 Nov 2026 23:11:00 WIB",
     "tanggal": "18 Nov 2026",
     "jam": "23:11:00 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "II - III Manokwari",
     "shakemap": "20261110153404.mmi.jpg",
     "detectedAt": "2026-11-10T09:40:43.320Z"
-  },
-  {
-    "id": "10 Nov 2026 08:53:28 WIB",
-    "tanggal": "10 Nov 2026",
-    "jam": "08:53:28 WIB",
-    "magnitude": 5.4,
-    "wilayah": "90 km BaratDaya TANIMBAR",
-    "potensi": "Tidak berpotensi tsunami",
-    "kedalaman": "84 km",
-    "koordinat": "-8.02,130.49",
-    "dirasakan": null,
-    "shakemap": "20261110085612.mmi.jpg",
-    "detectedAt": "2026-11-10T02:06:23.127Z"
   }
 ]
