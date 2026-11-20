@@ -1,5 +1,18 @@
 [
   {
+    "id": "20 Nov 2026 18:34:42 WIB",
+    "tanggal": "20 Nov 2026",
+    "jam": "18:34:42 WIB",
+    "magnitude": 3.2,
+    "wilayah": "Pusat gempa berada di laut 10 km Utara Kendari",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "6 km",
+    "koordinat": "-3.88,122.51",
+    "dirasakan": "III Kota Kendari, II - III Konawe Selatan",
+    "shakemap": "20261120183442.mmi.jpg",
+    "detectedAt": "2026-11-20T12:32:52.918Z"
+  },
+  {
     "id": "20 Nov 2026 04:42:40 WIB",
     "tanggal": "20 Nov 2026",
     "jam": "04:42:40 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "II Kab. Manggarai",
     "shakemap": "20261112181630.mmi.jpg",
     "detectedAt": "2026-11-12T12:26:10.598Z"
-  },
-  {
-    "id": "11 Nov 2026 06:05:21 WIB",
-    "tanggal": "11 Nov 2026",
-    "jam": "06:05:21 WIB",
-    "magnitude": 4.3,
-    "wilayah": "Pusat gempa berada di darat 23 km timur laut Kab. Gayo Lues",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "5 km",
-    "koordinat": "4.15,97.49",
-    "dirasakan": "III Gayo Lues, II-III Aceh Tengah, II-III Bener Meriah",
-    "shakemap": "20261111060521.mmi.jpg",
-    "detectedAt": "2026-11-11T02:01:49.292Z"
   }
 ]
