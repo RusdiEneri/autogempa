@@ -2,7 +2,7 @@
 
 > Monitor gempa bumi real-time untuk wilayah Indonesia. Data diambil otomatis dari **BMKG** setiap 5 menit oleh GitHub Actions, lalu ditampilkan lengkap di README ini beserta peta guncangannya (shakemap).
 
-🕒 **Update otomatis terakhir:** Jumat, 20 November 2026 pukul 19.32.52
+🕒 **Update otomatis terakhir:** Sabtu, 21 November 2026 pukul 03.40.11
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Parameter | Detail |
 | --- | --- |
-| 📊 **Magnitudo** | M 3.2 |
-| 📍 **Wilayah** | Pusat gempa berada di laut 10 km Utara Kendari |
-| 🕒 **Waktu** | 20 Nov 2026, 18:34:42 WIB |
-| 🧭 **Koordinat** | -3.88,122.51 |
-| 📏 **Kedalaman** | 6 km |
+| 📊 **Magnitudo** | M 4.6 |
+| 📍 **Wilayah** | Pusat gempa berada di laut 66 km selatan Kota Sukabumi |
+| 🕒 **Waktu** | 21 Nov 2026, 00:50:26 WIB |
+| 🧭 **Koordinat** | -7.51,106.85 |
+| 📏 **Kedalaman** | 17 km |
 | 🌊 **Potensi** | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 📡 **Dirasakan** | III Kota Kendari, II - III Konawe Selatan |
+| 📡 **Dirasakan** | III Lengkong, III Pabuaran, III Ciemas, III Cidolog, II - III Palabuanratu, II - III Nagrak, II Kota Cimahi, II Ciparay, II Pangalengan, II Kab. Bandung |
 | 🔗 **Sumber** | [BMKG — InfoGempa Realtime](https://www.bmkg.go.id/gempabumi) |
 
 ### 🗺️ Peta Guncangan (Shakemap)
@@ -29,6 +29,7 @@
 
 | Waktu | Magnitudo | Wilayah | Kedalaman | Potensi |
 | --- | --- | --- | --- | --- |
+| 21 Nov 2026 00:50:26 WIB | **M 4.6** | Pusat gempa berada di laut 66 km selatan Kota Sukabumi | 17 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 20 Nov 2026 18:34:42 WIB | **M 3.2** | Pusat gempa berada di laut 10 km Utara Kendari | 6 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 20 Nov 2026 04:42:40 WIB | **M 4.3** | Pusat gempa berada di laut 48 km Ruteng-Manggarai | 2 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 19 Nov 2026 16:08:41 WIB | **M 3.5** | Pusat gempa berada di darat 19 km timur laut Sumbawa | 10 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
@@ -43,7 +44,6 @@
 | 13 Nov 2026 14:31:39 WIB | **M 4.1** | Pusat gempa berada di laut 24 km selatan Enggano | 24 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 13 Nov 2026 11:49:34 WIB | **M 4.9** | Pusat gempa berada di laut 29 km Barat Laut PULAUPANJANG | 17 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 | 13 Nov 2026 02:14:40 WIB | **M 4.6** | Pusat gempa berada di laut 32 km barat laut Pulau Panjang | 17 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
-| 12 Nov 2026 18:16:30 WIB | **M 4.8** | Pusat gempa berada di laut 73 km Timur Laut Ruteng, Manggarai | 13 km | Gempa ini dirasakan untuk diteruskan pada masyarakat |
 
 ---
 
