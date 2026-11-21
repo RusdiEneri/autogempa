@@ -1,5 +1,18 @@
 [
   {
+    "id": "22 Nov 2026 02:52:18 WIB",
+    "tanggal": "22 Nov 2026",
+    "jam": "02:52:18 WIB",
+    "magnitude": 4.2,
+    "wilayah": "Pusat gempa berada di laut 34 km Barat Pesisir Selatan",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "55 km",
+    "koordinat": "-1.27,100.28",
+    "dirasakan": "II - III Kota Padang, II - III Pesisir Selatan, I - II Solok",
+    "shakemap": "20261122025218.mmi.jpg",
+    "detectedAt": "2026-11-21T21:45:21.631Z"
+  },
+  {
     "id": "21 Nov 2026 16:42:11 WIB",
     "tanggal": "21 Nov 2026",
     "jam": "16:42:11 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "II Manggarai",
     "shakemap": "20261115042420.mmi.jpg",
     "detectedAt": "2026-11-14T23:25:37.921Z"
-  },
-  {
-    "id": "13 Nov 2026 14:31:39 WIB",
-    "tanggal": "13 Nov 2026",
-    "jam": "14:31:39 WIB",
-    "magnitude": 4.1,
-    "wilayah": "Pusat gempa berada di laut 24 km selatan Enggano",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "24 km",
-    "koordinat": "-5.56,102.24",
-    "dirasakan": "II - III Enggano",
-    "shakemap": "20261113143139.mmi.jpg",
-    "detectedAt": "2026-11-13T15:43:00.631Z"
   }
 ]
