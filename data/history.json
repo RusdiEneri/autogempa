@@ -1,5 +1,18 @@
 [
   {
+    "id": "21 Nov 2026 16:42:11 WIB",
+    "tanggal": "21 Nov 2026",
+    "jam": "16:42:11 WIB",
+    "magnitude": 7.2,
+    "wilayah": "Pusat gempa berada di laut 43 km barat laut Maluku Barat Daya",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "125 km",
+    "koordinat": "-7.88,127.51",
+    "dirasakan": "IV Tiakur, III Saumlaki, III Waingapu, II-III Kupang, III Kab. Alor, IV Romang, IV Pulau Babar, II-III Kota Kupang, II-III Kab. Kupang, II-III Kab. Timur Tengah Utara, II-III Kab. Malaka, II-III Kab. Melu, II-III Kab. Lembata",
+    "shakemap": "20261121164211.mmi.jpg",
+    "detectedAt": "2026-11-21T16:24:54.031Z"
+  },
+  {
     "id": "21 Nov 2026 09:37:18 WIB",
     "tanggal": "21 Nov 2026",
     "jam": "09:37:18 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "II - III Enggano",
     "shakemap": "20261113143139.mmi.jpg",
     "detectedAt": "2026-11-13T15:43:00.631Z"
-  },
-  {
-    "id": "13 Nov 2026 11:49:34 WIB",
-    "tanggal": "13 Nov 2026",
-    "jam": "11:49:34 WIB",
-    "magnitude": 4.9,
-    "wilayah": "Pusat gempa berada di laut 29 km Barat Laut PULAUPANJANG",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "17 km",
-    "koordinat": "-8.22,116.77",
-    "dirasakan": "IV Kab. Lombok Timur, III Kab. Lombok Tengah, III Kab. Lombok Barat, II-III Kota Mataram, II Kab. Sumbawa",
-    "shakemap": "20261113114934.mmi.jpg",
-    "detectedAt": "2026-11-13T07:51:39.729Z"
   }
 ]
