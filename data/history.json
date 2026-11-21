@@ -1,5 +1,18 @@
 [
   {
+    "id": "21 Nov 2026 09:37:18 WIB",
+    "tanggal": "21 Nov 2026",
+    "jam": "09:37:18 WIB",
+    "magnitude": 4,
+    "wilayah": "Pusat gempa berada di laut 52 km utara Ruteng, Manggarai",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "5 km",
+    "koordinat": "-8.14,120.46",
+    "dirasakan": "II - III Kab. Manggarai",
+    "shakemap": "20261121093718.mmi.jpg",
+    "detectedAt": "2026-11-21T08:47:23.805Z"
+  },
+  {
     "id": "21 Nov 2026 00:50:26 WIB",
     "tanggal": "21 Nov 2026",
     "jam": "00:50:26 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "IV Kab. Lombok Timur, III Kab. Lombok Tengah, III Kab. Lombok Barat, II-III Kota Mataram, II Kab. Sumbawa",
     "shakemap": "20261113114934.mmi.jpg",
     "detectedAt": "2026-11-13T07:51:39.729Z"
-  },
-  {
-    "id": "13 Nov 2026 02:14:40 WIB",
-    "tanggal": "13 Nov 2026",
-    "jam": "02:14:40 WIB",
-    "magnitude": 4.6,
-    "wilayah": "Pusat gempa berada di laut 32 km barat laut Pulau Panjang",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "17 km",
-    "koordinat": "-8.20,116.76",
-    "dirasakan": "III Kab. Sumbawa, III Kab. Sumbawa Barat, III Kab. Lombok Utara, III Kab. Lombok Timur, II Kota Mataram",
-    "shakemap": "20261113021440.mmi.jpg",
-    "detectedAt": "2026-11-12T20:14:46.309Z"
   }
 ]
