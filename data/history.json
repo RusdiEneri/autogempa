@@ -1,5 +1,18 @@
 [
   {
+    "id": "23 Nov 2026 14:36:24 WIB",
+    "tanggal": "23 Nov 2026",
+    "jam": "14:36:24 WIB",
+    "magnitude": 5.4,
+    "wilayah": "87 km TimurLaut MALUKUBRTDAYA",
+    "potensi": "Tidak berpotensi tsunami",
+    "kedalaman": "141 km",
+    "koordinat": "-7.63,128.38",
+    "dirasakan": null,
+    "shakemap": "20261123143908.mmi.jpg",
+    "detectedAt": "2026-11-23T11:05:46.199Z"
+  },
+  {
     "id": "22 Nov 2026 14:54:39 WIB",
     "tanggal": "22 Nov 2026",
     "jam": "14:54:39 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III Tanggamus",
     "shakemap": "20261116183657.mmi.jpg",
     "detectedAt": "2026-11-16T18:36:59.445Z"
-  },
-  {
-    "id": "16 Nov 2026 03:51:57 WIB",
-    "tanggal": "16 Nov 2026",
-    "jam": "03:51:57 WIB",
-    "magnitude": 5.4,
-    "wilayah": "265 km Tenggara BURUSELATAN-MALUKU",
-    "potensi": "Tidak berpotensi tsunami",
-    "kedalaman": "323 km",
-    "koordinat": "-5.97,128.82",
-    "dirasakan": null,
-    "shakemap": "20261116035430.mmi.jpg",
-    "detectedAt": "2026-11-15T21:49:57.491Z"
   }
 ]
