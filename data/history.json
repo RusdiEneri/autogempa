@@ -1,5 +1,18 @@
 [
   {
+    "id": "23 Nov 2026 18:24:32 WIB",
+    "tanggal": "23 Nov 2026",
+    "jam": "18:24:32 WIB",
+    "magnitude": 5.3,
+    "wilayah": "241 km TimurLaut RAJAAMPAT-PAPUABRTDY",
+    "potensi": "Tidak berpotensi tsunami",
+    "kedalaman": "10 km",
+    "koordinat": "1.44,131.96",
+    "dirasakan": null,
+    "shakemap": "20261123182716.mmi.jpg",
+    "detectedAt": "2026-11-23T22:34:15.597Z"
+  },
+  {
     "id": "23 Nov 2026 14:36:24 WIB",
     "tanggal": "23 Nov 2026",
     "jam": "14:36:24 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III Kab. Manggarai",
     "shakemap": "20261117074917.mmi.jpg",
     "detectedAt": "2026-11-17T02:03:46.681Z"
-  },
-  {
-    "id": "16 Nov 2026 18:36:57 WIB",
-    "tanggal": "16 Nov 2026",
-    "jam": "18:36:57 WIB",
-    "magnitude": 3.8,
-    "wilayah": "Pusat gempa berada di darat 12 km Barat Laut Tanggamus-Lampung",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "10 km",
-    "koordinat": "-5.41,104.60",
-    "dirasakan": "III Tanggamus",
-    "shakemap": "20261116183657.mmi.jpg",
-    "detectedAt": "2026-11-16T18:36:59.445Z"
   }
 ]
