@@ -1,5 +1,18 @@
 [
   {
+    "id": "25 Nov 2026 12:33:27 WIB",
+    "tanggal": "25 Nov 2026",
+    "jam": "12:33:27 WIB",
+    "magnitude": 4,
+    "wilayah": "Pusat gempa berada di laut 53 km utara Ruteng-Manggarai",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "5 km",
+    "koordinat": "-8.14,120.49",
+    "dirasakan": "II Kab. Manggarai",
+    "shakemap": "20261125123327.mmi.jpg",
+    "detectedAt": "2026-11-25T10:44:43.068Z"
+  },
+  {
     "id": "23 Nov 2026 18:24:32 WIB",
     "tanggal": "23 Nov 2026",
     "jam": "18:24:32 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "II - III Kab. Manggarai",
     "shakemap": "20261118150144.mmi.jpg",
     "detectedAt": "2026-11-18T09:08:52.088Z"
-  },
-  {
-    "id": "17 Nov 2026 07:49:17 WIB",
-    "tanggal": "17 Nov 2026",
-    "jam": "07:49:17 WIB",
-    "magnitude": 4.8,
-    "wilayah": "Pusat gempa berada di laut 49 km timur laut Ruteng, Manggarai",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "2 km",
-    "koordinat": "-8.22,120.66",
-    "dirasakan": "III Kab. Manggarai",
-    "shakemap": "20261117074917.mmi.jpg",
-    "detectedAt": "2026-11-17T02:03:46.681Z"
   }
 ]
