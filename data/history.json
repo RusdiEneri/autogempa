@@ -1,5 +1,18 @@
 [
   {
+    "id": "26 Nov 2026 16:08:39 WIB",
+    "tanggal": "26 Nov 2026",
+    "jam": "16:08:39 WIB",
+    "magnitude": 5.6,
+    "wilayah": "230 km Tenggara SUMBAWABARAT-NTB",
+    "potensi": "Tidak berpotensi tsunami",
+    "kedalaman": "10 km",
+    "koordinat": "-10.79,117.26",
+    "dirasakan": null,
+    "shakemap": "20261126161117.mmi.jpg",
+    "detectedAt": "2026-11-26T11:33:34.618Z"
+  },
+  {
     "id": "25 Nov 2026 20:28:30 WIB",
     "tanggal": "25 Nov 2026",
     "jam": "20:28:30 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III Malili",
     "shakemap": "20261119133150.mmi.jpg",
     "detectedAt": "2026-11-19T07:12:36.072Z"
-  },
-  {
-    "id": "18 Nov 2026 23:11:00 WIB",
-    "tanggal": "18 Nov 2026",
-    "jam": "23:11:00 WIB",
-    "magnitude": 4,
-    "wilayah": "Pusat gempa berada di laut 57 km utara Ruteng - Manggarai",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "3 km",
-    "koordinat": "-8.10,120.49",
-    "dirasakan": "II Kab. Manggarai",
-    "shakemap": "20261118231100.mmi.jpg",
-    "detectedAt": "2026-11-18T17:59:32.358Z"
   }
 ]
