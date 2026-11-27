@@ -1,5 +1,18 @@
 [
   {
+    "id": "27 Nov 2026 10:59:44 WIB",
+    "tanggal": "27 Nov 2026",
+    "jam": "10:59:44 WIB",
+    "magnitude": 2.6,
+    "wilayah": "Pusat gempa berada di darat 13 km barat Bener Meriah",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "3 km",
+    "koordinat": "4.74,96.74",
+    "dirasakan": "II - III Bener Meriah",
+    "shakemap": "20261127105944.mmi.jpg",
+    "detectedAt": "2026-11-27T12:04:29.577Z"
+  },
+  {
     "id": "26 Nov 2026 22:40:36 WIB",
     "tanggal": "26 Nov 2026",
     "jam": "22:40:36 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "II - III Kab. Manggarai",
     "shakemap": "20261120044240.mmi.jpg",
     "detectedAt": "2026-11-19T23:11:25.708Z"
-  },
-  {
-    "id": "19 Nov 2026 16:08:41 WIB",
-    "tanggal": "19 Nov 2026",
-    "jam": "16:08:41 WIB",
-    "magnitude": 3.5,
-    "wilayah": "Pusat gempa berada di darat 19 km timur laut Sumbawa",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "10 km",
-    "koordinat": "-8.34,117.52",
-    "dirasakan": "II - III Sumbawa",
-    "shakemap": "20261119160841.mmi.jpg",
-    "detectedAt": "2026-11-19T16:33:47.089Z"
   }
 ]
