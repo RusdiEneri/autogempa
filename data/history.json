@@ -1,5 +1,18 @@
 [
   {
+    "id": "28 Nov 2026 02:28:05 WIB",
+    "tanggal": "28 Nov 2026",
+    "jam": "02:28:05 WIB",
+    "magnitude": 4.3,
+    "wilayah": "Pusat gempa berada di darat 62 km Timur Laut Luwu Utara",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "4 km",
+    "koordinat": "-2.06,120.62",
+    "dirasakan": "III Pendolo",
+    "shakemap": "20261128022805.mmi.jpg",
+    "detectedAt": "2026-11-27T21:05:32.249Z"
+  },
+  {
     "id": "27 Nov 2026 10:59:44 WIB",
     "tanggal": "27 Nov 2026",
     "jam": "10:59:44 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III Kota Kendari, II - III Konawe Selatan",
     "shakemap": "20261120183442.mmi.jpg",
     "detectedAt": "2026-11-20T12:32:52.918Z"
-  },
-  {
-    "id": "20 Nov 2026 04:42:40 WIB",
-    "tanggal": "20 Nov 2026",
-    "jam": "04:42:40 WIB",
-    "magnitude": 4.3,
-    "wilayah": "Pusat gempa berada di laut 48 km Ruteng-Manggarai",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "2 km",
-    "koordinat": "-8.19,120.52",
-    "dirasakan": "II - III Kab. Manggarai",
-    "shakemap": "20261120044240.mmi.jpg",
-    "detectedAt": "2026-11-19T23:11:25.708Z"
   }
 ]
