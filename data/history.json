@@ -1,5 +1,18 @@
 [
   {
+    "id": "28 Nov 2026 15:30:40 WIB",
+    "tanggal": "28 Nov 2026",
+    "jam": "15:30:40 WIB",
+    "magnitude": 4.6,
+    "wilayah": "Pusat gempa berada di laut 125 km barat Jantho-Aceh Besar",
+    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+    "kedalaman": "11 km",
+    "koordinat": "5.03,94.50",
+    "dirasakan": "II - III Banda Aceh, II - III Aceh Besar",
+    "shakemap": "20261128153040.mmi.jpg",
+    "detectedAt": "2026-11-28T11:51:20.827Z"
+  },
+  {
     "id": "28 Nov 2026 02:28:05 WIB",
     "tanggal": "28 Nov 2026",
     "jam": "02:28:05 WIB",
@@ -180,18 +193,5 @@
     "dirasakan": "III Lengkong, III Pabuaran, III Ciemas, III Cidolog, II - III Palabuanratu, II - III Nagrak, II Kota Cimahi, II Ciparay, II Pangalengan, II Kab. Bandung",
     "shakemap": "20261121005026.mmi.jpg",
     "detectedAt": "2026-11-20T20:40:11.670Z"
-  },
-  {
-    "id": "20 Nov 2026 18:34:42 WIB",
-    "tanggal": "20 Nov 2026",
-    "jam": "18:34:42 WIB",
-    "magnitude": 3.2,
-    "wilayah": "Pusat gempa berada di laut 10 km Utara Kendari",
-    "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-    "kedalaman": "6 km",
-    "koordinat": "-3.88,122.51",
-    "dirasakan": "III Kota Kendari, II - III Konawe Selatan",
-    "shakemap": "20261120183442.mmi.jpg",
-    "detectedAt": "2026-11-20T12:32:52.918Z"
   }
 ]
